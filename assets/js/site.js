@@ -9,13 +9,6 @@ function dark_on() {
 }
 
 async function particles() {
-  // // Particles only on homepage.
-  // if (window.location.pathname != '/') {
-  //   return 0
-  // }
-  console.log(window.location.pathname)
-
-
   // Load if not already loaded.
   if (tsParticles.dom().length == 0) {
     let result = await tsParticles.loadJSON(
