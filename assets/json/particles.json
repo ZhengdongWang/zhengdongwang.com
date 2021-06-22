@@ -44,7 +44,7 @@
     {
       "enable": true,
       "out_mode": "out",
-      "speed": 0.1,
+      "speed": 0.5,
       "warp": true
     },
     "number":
