@@ -8,29 +8,26 @@
 }
 
 :root {
-  /* My dark blue. */
-  --theme_background_color: #000226;
-  /* Cetacean blue. */
-  /*--theme_background_color: #001440;*/
-  --theme_text_color: white;
-  --theme_box_color: rgba(64, 64, 64, 0.5);
-  --name_size: 2em;
-  --big_title_size: 1.2em;
-  --small_title_size: 1em;
-  --small_spacing: .2em;
-  --big_spacing: 2em;
+  /* My very dark blue. */
+  --theme_color_background: #000226;
+  --theme_color_text: white;
+  --theme_color_box: rgba(64, 64, 64, 0.5);
+  --size_huge: 2em;
+  --size_big: 1.2em;
+  --size_normal: 1em;
+  --size_small: .2em;
 }
 
 [data-theme=light] {
   /* Cosmic latte. */
-  --theme_background_color: #FFF8E7;
-  --theme_text_color: black;
-  --theme_box_color: rgba(255, 255, 255, 0.7);
+  --theme_color_background: #FFF8E7;
+  --theme_color_text: black;
+  --theme_color_box: rgba(255, 255, 255, 0.7);
 }
 
 body {
-  background-color: var(--theme_background_color);
-  color: var(--theme_text_color);
+  background-color: var(--theme_color_background);
+  color: var(--theme_color_text);
   font-family: Lato, sans-serif;
   margin-top: 0em;
   margin-bottom: 0em;
@@ -51,63 +48,60 @@ body {
   padding-bottom: inherit;
   padding-left: 8%;
   padding-right: 8%;
-  background-color: var(--theme_box_color);
+  background-color: var(--theme_color_box);
 }
 
-.profile {
+img[alt=image] {
   float: right;
   margin-top: 5px;
   width: 20%;
   border-radius: 50%;
-  border: 2px solid var(--theme_text_color);
+  border: 2px solid var(--theme_color_text);
+
 }
 
-.indent {
-  padding-left: 1.5em;
-}
-
-/* Name. */
+/* Page titles. */
 h1 {
-  font-size: var(--name_size);
+  font-size: var(--size_huge);
   margin-top: inherit;
-  margin-bottom: var(--small_spacing);
+  margin-bottom: var(--size_small);
 }
 
-/* Links. */
-h2 {
-  font-size: var(--big_title_size);
+/* Homepage section headings. */
+h3 {
+  font-size: var(--size_big);
   margin-top: inherit;
-  margin-bottom: var(--big_spacing);
+  margin-bottom: var(--size_small);
+}
+
+/* Homepage links. */
+h6 {
+  font-size: var(--size_big);
+  margin-top: inherit;
+  margin-bottom: var(--size_huge);
   font-weight: normal;
   word-spacing: .5em;
-}
-
-/* Section headings. */
-h3 {
-  font-size: var(--big_title_size);
-  margin-top: inherit;
-  margin-bottom: var(--small_spacing);
 }
 
 ul,
 ol {
   margin-top: inherit;
-  margin-bottom: var(--big_spacing);
-  padding-left: var(--big_spacing);
+  margin-bottom: var(--size_huge);
+  padding-left: var(--size_huge);
 }
 
 a:link,
 a:visited,
 a:hover,
 a:active {
-  color: var(--theme_text_color);
+  color: var(--theme_color_text);
 }
 
-h2 a:link {
+h6 a:link {
   text-decoration: none;
 }
 
-h2 a:hover {
+h6 a:hover {
   text-decoration: underline;
 }
 
@@ -125,19 +119,15 @@ h2 a:hover {
   }
 
   h1 {
-    font-size: var(--big_title_size);
+    font-size: var(--size_big);
   }
 
-  h2 {
-    font-size: var(--small_title_size);
-  }
-
-  h2 {
-    font-size: var(--small_title_size);
+  h6 {
+    font-size: var(--size_normal);
   }
 
   ul,
   ol {
-    padding-left: var(--small_title_size);
+    padding-left: var(--size_normal);
   }
 }
