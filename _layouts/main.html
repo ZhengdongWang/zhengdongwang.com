@@ -1,13 +1,27 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <title>{{ page.title }}</title>
-    <link rel='stylesheet' href='/assets/css/styles.css'>
-    {% feed_meta %}
-    {% seo %}
-  </head>
-  <body>
-    {{ content }}
-  </body>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title }}</title>
+  <link rel='stylesheet' href='/assets/css/styles.css'>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap" rel="stylesheet">
+  {% feed_meta %}
+  {% seo %}
+  <script src="assets/js/tsparticles.slim.min.js"></script>
+  <script src="assets/js/site.js"></script>
+</head>
+
+<body>
+  <div id='tsparticles'></div>
+  <div class='container'>
+    <div class='text_box'>
+      {{ content }}
+    </div>
+  </div>
+</body>
+
 </html>

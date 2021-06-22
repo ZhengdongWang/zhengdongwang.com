@@ -1,4 +1,143 @@
+#tsparticles canvas {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+:root {
+  /* My dark blue. */
+  --theme_background_color: #000226;
+  /* Cetacean blue. */
+  /*--theme_background_color: #001440;*/
+  --theme_text_color: white;
+  --theme_box_color: rgba(64, 64, 64, 0.5);
+  --name_size: 2em;
+  --big_title_size: 1.2em;
+  --small_title_size: 1em;
+  --small_spacing: .2em;
+  --big_spacing: 2em;
+}
+
+[data-theme=light] {
+  /* Cosmic latte. */
+  --theme_background_color: #FFF8E7;
+  --theme_text_color: black;
+  --theme_box_color: rgba(255, 255, 255, 0.7);
+}
+
 body {
-  /* Cosmic latte */
-  background-color: #FFF8E7;
+  background-color: var(--theme_background_color);
+  color: var(--theme_text_color);
+  font-family: Lato, sans-serif;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  /* Prevents background from shifting left for particle interactions. */
+  overflow-y: scroll;
+}
+
+.container {
+  position: absolute;
+  left: 20%;
+  width: 60%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text_box {
+  padding-top: inherit;
+  padding-bottom: inherit;
+  padding-left: 8%;
+  padding-right: 8%;
+  background-color: var(--theme_box_color);
+}
+
+.profile {
+  float: right;
+  margin-top: 5px;
+  width: 20%;
+  border-radius: 50%;
+  border: 2px solid var(--theme_text_color);
+}
+
+.indent {
+  padding-left: 1.5em;
+}
+
+/* Name. */
+h1 {
+  font-size: var(--name_size);
+  margin-top: inherit;
+  margin-bottom: var(--small_spacing);
+}
+
+/* Links. */
+h2 {
+  font-size: var(--big_title_size);
+  margin-top: inherit;
+  margin-bottom: var(--big_spacing);
+  font-weight: normal;
+  word-spacing: .5em;
+}
+
+/* Section headings. */
+h3 {
+  font-size: var(--big_title_size);
+  margin-top: inherit;
+  margin-bottom: var(--small_spacing);
+}
+
+ul,
+ol {
+  margin-top: inherit;
+  margin-bottom: var(--big_spacing);
+  padding-left: var(--big_spacing);
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: var(--theme_text_color);
+}
+
+h2 a:link {
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .container {
+    left: 3%;
+    width: 94%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .text_box {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  h1 {
+    font-size: var(--big_title_size);
+  }
+
+  h2 {
+    font-size: var(--small_title_size);
+  }
+
+  h2 {
+    font-size: var(--small_title_size);
+  }
+
+  ul,
+  ol {
+    padding-left: var(--small_title_size);
+  }
 }

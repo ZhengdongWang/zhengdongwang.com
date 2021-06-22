@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
+gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
@@ -10,4 +10,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 
-gem "webrick"
+gem 'webrick'
