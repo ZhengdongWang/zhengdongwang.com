@@ -1,9 +1,9 @@
 ---
 layout: main
-title: Zhengdong Wang
+title: Home
 ---
 
-![image](assets/images/flowers_square.jpg)
+![image](assets/images/flowers.jpg)
 
 # Zhengdong Wang
 <h6>
@@ -19,7 +19,7 @@ title: Zhengdong Wang
 * In general, I'm interested in what artificial intelligence says about human intelligence&mdash;and eventually, about what's going on with this whole existence thing.
 
 ### Writing
-* If you only read one thing, this [readme](readme2) talks about things that have influenced me and things I recommend. It's like documentation, but about me.
+* If you only read one thing, this [readme](readme) talks about things that have influenced me and things I recommend. It's like documentation, but about me.
 * Here are the rules I set for myself for [picking classes at Yale](bluebook). They have made my academic life much easier.
 * [Writing advice](writing) I've received. It's not well written itself.
 * My "Silicon Valley self-help" style [productivity notes](productivity).

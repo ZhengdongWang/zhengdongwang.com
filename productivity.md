@@ -3,8 +3,13 @@ layout: main
 title: Productivity
 ---
 
-# Readme
+# Productivity
 
 ### process
 
 https://www.youtube.com/watch?v=NmEVwJ_lJ1A
+
+
+stellarium config
+
+sublime configs

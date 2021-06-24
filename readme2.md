@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Readme
-# permalink: readme2 # Avoid conflict with repository README.md
+permalink: readme # File named readme2 to avoid git conflict.
 ---
 
 # Readme

@@ -7,8 +7,11 @@ function dark_on() {
   document.documentElement.setAttribute('data-theme', 'dark')
   localStorage.setItem('dark', 'on')
 }
-
 async function particles() {
+  // Testing or deployed on pages.
+  if (window.location.pathname == '/' || window.location.pathname == 'zhengdongwang.com/') {
+    return
+  }
   // Load if not already loaded.
   if (tsParticles.dom().length == 0) {
     let result = await tsParticles.loadJSON(
@@ -38,7 +41,6 @@ function toggle_dark() {
   }
   particles()
 }
-
 // Default is dark.
 // Cannot set boolean values in localStorage.
 window.onload = function() {
