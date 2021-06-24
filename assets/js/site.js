@@ -8,6 +8,7 @@ function dark_on() {
   localStorage.setItem('dark', 'on')
 }
 async function particles() {
+  return
   // Particles only on homepage.
   if (!(window.location.pathname == '/' || window.location.pathname == '/zhengdongwang.com/')) {
     return

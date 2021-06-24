@@ -74,6 +74,14 @@ h3 {
   margin-bottom: var(--size_small);
 }
 
+/* Link back home. */
+h4 {
+  font-size: var(--size_normal);
+  margin-top: inherit;
+  margin-bottom: var(--size_huge);
+  font-weight: normal;
+}
+
 /* Homepage links. */
 h6 {
   font-size: var(--size_big);
