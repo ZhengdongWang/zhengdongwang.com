@@ -10,7 +10,6 @@ function dark_on() {
 async function particles() {
   // Testing or deployed on pages.
   if (window.location.pathname != '/' && window.location.pathname != 'zhengdongwang.com/') {
-    alert(window.location.pathname)
     return
   }
   // Load if not already loaded.
