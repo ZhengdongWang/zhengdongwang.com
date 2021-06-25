@@ -87,10 +87,10 @@ If you know me, please please play these games with me:
 * [StarCraft II](https://starcraft2.com/en-us/)
 
 Eventually I want to develop an indie game. Right now I have no experience and am not serious about getting any. But it seems like one of the best ways to practice many skills--coding the game, writing the story, drawing the art, and composing the music. You're creating a whole experience for people to enjoy. That sounds really meaningful. I really admire people who did everything or almost everything for really great games:
-* [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net/)
-* [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html)
-* [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days/)
-* [Lucas Pope](https://dukope.com/) for [Papers, Please](https://papersplea.se/) and [Return of the Obra Dinn](https://obradinn.com/)
+* [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net/).
+* [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html).
+* [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days/).
+* [Lucas Pope](https://dukope.com/) for [Papers, Please](https://papersplea.se/) and [Return of the Obra Dinn](https://obradinn.com/).
 
 My favorite poem is:
 * [I died for beauty, but was scarce](https://www.bartleby.com/113/4010.html) by Emily Dickinson. I don't know anything about poetry.
