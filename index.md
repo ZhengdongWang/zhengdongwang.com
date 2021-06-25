@@ -18,8 +18,8 @@ title: Home
 * I'm an incoming research engineer at [DeepMind](https://deepmind.com/) in London.
 
 ### Writing
-* If you only read one thing, this [readme](readme) talks about things that I like, think about, and have influenced me. It's like documentation, but about me!
-* [Writing advice](writing) from other people that has stuck with me.
+* If you only read one thing, read this [readme](readme). It's like documentation, but about me!
+* [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, I'm pretty sure.
 * Rules for [picking classes at Yale](bluebook).
 

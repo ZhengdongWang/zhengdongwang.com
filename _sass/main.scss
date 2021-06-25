@@ -13,9 +13,11 @@
   --theme_color_text: white;
   --theme_color_box: rgba(64, 64, 64, 0.5);
   --size_huge: 2em;
+  --size_bigger: 1.5em;
   --size_big: 1.2em;
   --size_normal: 1em;
   --size_small: .2em;
+  --size_negative: -1.5em;
 }
 
 [data-theme=light] {
@@ -60,41 +62,53 @@ img[alt=image] {
 
 }
 
-/* Page titles. */
+/* Titles. */
 h1 {
   font-size: var(--size_huge);
   margin-top: inherit;
-  margin-bottom: var(--size_small);
+  margin-bottom: var(--size_normal);
 }
 
-/* Homepage section headings. */
+/* Section headings. */
+h2 {
+  font-size: var(--size_big);
+  margin-top: inherit;
+  margin-bottom: var(--size_normal);
+}
+
+/* Section headings no space. */
 h3 {
   font-size: var(--size_big);
   margin-top: inherit;
   margin-bottom: var(--size_small);
 }
 
-/* Link back home. */
-h4 {
+/* Links to home. */
+h5 {
   font-size: var(--size_normal);
   margin-top: inherit;
   margin-bottom: var(--size_huge);
   font-weight: normal;
 }
 
-/* Homepage links. */
+/* Links on home. */
 h6 {
   font-size: var(--size_big);
-  margin-top: inherit;
+  margin-top: var(--size_negative);
   margin-bottom: var(--size_huge);
   font-weight: normal;
   word-spacing: .5em;
 }
 
+p {
+  margin-top: inherit;
+  margin-bottom: var(--size_normal);
+}
+
 ul,
 ol {
   margin-top: inherit;
-  margin-bottom: var(--size_huge);
+  margin-bottom: var(--size_normal);
   padding-left: var(--size_huge);
 }
 
@@ -127,7 +141,7 @@ h6 a:hover {
   }
 
   h1 {
-    font-size: var(--size_big);
+    font-size: var(--size_bigger);
   }
 
   h6 {
