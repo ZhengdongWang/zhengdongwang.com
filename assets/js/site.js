@@ -9,7 +9,6 @@ function dark_on() {
 }
 async function particles() {
   // Particles only on homepage.
-  // if (!(window.location.pathname == '/' || window.location.pathname == '/zhengdongwang.com/')) {
   if (window.location.pathname != '/') {
     return
   }

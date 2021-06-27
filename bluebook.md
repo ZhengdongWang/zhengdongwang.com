@@ -53,7 +53,7 @@ Just to be clear, what _doesn't matter at all_?
 
 I'm serious. Don't read the course descriptions. Cover up the titles in the catalog if they distract you. Only research professors. A bad professor will make you dread going to a class on a subject you love. A good professor will inspire enthusiasm in a topic you previously didn't care about. I'm willing to bet that you agree with me if you've had either experience.
 
-Winnnow your list, then, using:
+Winnow your list:
 * A minimum review threshold. Don't compare who is slightly better reviewed, seriously consider every professor above your threshold. Don't forget to include unrated professors.
 * Friends. Those whose opinions you trust, and those who know what you like well.
 * Arbitrary personal criteria. Gut feeling works pretty well.
