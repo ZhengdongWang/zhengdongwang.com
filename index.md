@@ -9,6 +9,7 @@ title: Home
 <!-- fix js includes -->
 <!-- giving -->
 <!-- deprecate wttf -->
+<!-- reread and cut -->
 
 # Zhengdong Wang
 
@@ -34,8 +35,9 @@ title: Home
 ## Projects
 
 * I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 with the [X quantum team](https://x.company).
-* I had an idea that turned into (but I didn't do most of the work for) a collaboration between Yale and ETH Zurich, published in the Astrophysical Journal.
-  * Ghosh A., Urry C. M., **Wang Z.**, Turp D., Schawinski K., Powell M., 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47) arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
+* I had an idea that turned into (but I didn't do most of the work for) a collaboration between Yale and ETH Zurich published in the Astrophysical Journal.
+  * _GaMorNet: A Convolutional Neural Network to study morphology and quenching in SDSS and CANDELS_\
+  Ghosh A., Urry C. M., **Wang Z.**, Turp D., Schawinski K., Powell M., 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47), arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
 
 ## About
 
