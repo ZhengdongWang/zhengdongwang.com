@@ -8,10 +8,10 @@
 }
 
 :root {
-  /* My very dark blue. */
-  --theme_color_background: #000226;
-  --theme_color_text: white;
-  --theme_color_box: rgba(64, 64, 64, 0.5);
+  /* Cosmic latte. */
+  --theme_color_background: #FFF8E7;
+  --theme_color_text: black;
+  --theme_color_box: rgba(255, 255, 255, 0.7);
   --size_huge: 2em;
   --size_bigger: 1.5em;
   --size_big: 1.2em;
@@ -20,11 +20,11 @@
   --size_negative: -1.5em;
 }
 
-[data-theme=light] {
-  /* Cosmic latte. */
-  --theme_color_background: #FFF8E7;
-  --theme_color_text: black;
-  --theme_color_box: rgba(255, 255, 255, 0.7);
+[data-theme=dark] {
+  /* My very dark blue. */
+  --theme_color_background: #000226;
+  --theme_color_text: white;
+  --theme_color_box: rgba(64, 64, 64, 0.5);
 }
 
 body {

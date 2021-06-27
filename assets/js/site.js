@@ -1,11 +1,11 @@
-function dark_off() {
-  document.documentElement.setAttribute('data-theme', 'light')
-  localStorage.setItem('dark', 'off')
-}
-
 function dark_on() {
   document.documentElement.setAttribute('data-theme', 'dark')
   localStorage.setItem('dark', 'on')
+}
+
+function dark_off() {
+  document.documentElement.setAttribute('data-theme', 'light')
+  localStorage.setItem('dark', 'off')
 }
 async function particles() {
   // Particles only on homepage.
@@ -34,10 +34,10 @@ async function particles() {
 }
 
 function toggle_dark() {
-  if (localStorage.getItem('dark') == 'on') {
-    dark_off()
-  } else {
+  if (localStorage.getItem('dark') == 'off') {
     dark_on()
+  } else {
+    dark_off()
   }
   particles()
 }
@@ -45,9 +45,9 @@ function toggle_dark() {
 // Cannot set boolean values in localStorage.
 window.onload = function() {
   if (localStorage.getItem('dark') == null) {
-    localStorage.setItem('dark', 'on')
-  } else if (localStorage.getItem('dark') == 'off') {
-    dark_off()
+    localStorage.setItem('dark', 'off')
+  } else if (localStorage.getItem('dark') == 'on') {
+    dark_on()
   }
   particles()
 }

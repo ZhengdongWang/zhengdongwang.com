@@ -5,6 +5,11 @@ title: Home
 
 ![image](assets/images/flowers.jpg)
 
+<!-- default light -->
+<!-- fix css -->
+<!-- giving -->
+<!-- deprecate wttf -->
+
 # Zhengdong Wang
 
 <h6>
