@@ -10,6 +10,7 @@ function dark_on() {
 async function particles() {
   // Particles only on homepage.
   // if (!(window.location.pathname == '/' || window.location.pathname == '/zhengdongwang.com/')) {
+  console.log(window.location.pathname)
   if (!window.location.pathname == '/') {
     return
   }
