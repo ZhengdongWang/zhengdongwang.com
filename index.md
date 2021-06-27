@@ -20,11 +20,11 @@ title: Home
 ### Writing
 * If you only read one thing, read this [readme](readme). It's like documentation, but about me!
 * [Writing advice](writing) that has worked for me.
-* [Productivity advice](productivity) that has worked for me, I'm pretty sure.
+* [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).
 
 ### Projects
-* I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) during summer 2019 with the [X quantum team](https://x.company/).
+* I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 with the [X quantum team](https://x.company/).
 * I had an idea that turned into (but I didn't do most of the work for) a collaboration between Yale and ETH Zurich, published in the Astrophysical Journal.
   * Ghosh A., Urry C. M., **Wang Z.**, Turp D., Schawinski K., Powell M., 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47) arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
 

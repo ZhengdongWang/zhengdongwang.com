@@ -68,6 +68,11 @@ Reading is so great. You learn so much. And it takes as much time as you want. A
 
 Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
 
+My favorite blogs are:
+* [bookbear express](https://ava.substack.com/) by Ava.
+* [Marginal Revolution](https://marginalrevolution.com/) by Tyler Cowen and Alex Tabarrok.
+These two are the best that regularly post. I follow my RSS feed pretty religiously so you can read exactly what I just read recently.
+
 My favorite movies are:
 * [La Grande Vadrouille](https://www.imdb.com/title/tt0060474/). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
 * [Knives Out](https://www.imdb.com/title/tt8946378/). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
@@ -91,6 +96,8 @@ Eventually I want to develop an indie game. Right now I have no experience and a
 * [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html).
 * [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days/).
 * [Lucas Pope](https://dukope.com/) for [Papers, Please](https://papersplea.se/) and [Return of the Obra Dinn](https://obradinn.com/).
+
+Fun fact: the summer before college I switched to using [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout). My keyboard when I'm not on a laptop is the [Leopold FC750R PD](https://www.leopold.co.kr/Shop/Item.php?ItId=1550022044) with brown switches. If it's [good enough for The Machine](https://liquipedia.net/starcraft2/Pro_gear), it's good enough for me! The color is crucial.
 
 My favorite poem is:
 * [I died for beauty, but was scarce](https://www.bartleby.com/113/4010.html) by Emily Dickinson. I don't know anything about poetry.
