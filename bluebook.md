@@ -95,6 +95,8 @@ Okay, but these classes sound like a unicorns, you say. Where am I supposed to f
   * Grades don't matter in grad school. Just take the class seriously, and the professor won't be a hardass.
   * You're an undergrad in a graduate class! The professor is so impressed.
 
+These classes are easy for you. Not necessarily easy for everyone. The way to think about this is _the low-workload class you want to take, not the low-workload class I want you to take_.
+
 But isn't college (especially Yale) very expensive? How am I going to get my value taking half easy classes! At most classes count for 20 percent of the value of college. Even there, the better metric is what you get out of them. You're surrounded by really smart peers and faculty that you'll stay in touch with for life. If you find an incredible professor, you've found an endless pit of wisdom to draw from. I spent a disproportionate amount of time on few classes, getting to know a few professors. Taking too many high-workload classes is detrimental to this.
 
 Notice, this rule of taking easy classes is just a way to optimize the first rule---only the professor matters. This is true for every rule that follows, too.

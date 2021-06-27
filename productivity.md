@@ -29,7 +29,7 @@ So how should you react? You can try to:
 * Realize **productivity advice is just for fun**. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
 * **Stop caring about productivity**. Work is but a small sliver of the full range of human experience! Go outside.
 * **Be nice to yourself**. There's nothing wrong with you! Everybody sucks at not procrastinating. You shouldn't feel bad that your life isn't as perfect as social media makes other peoples' lives seem. Same idea here.
-  * In the words of the great Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg)
+  * In the words of the great Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg).
 
 Okay now that you know that time for what you came for.
 

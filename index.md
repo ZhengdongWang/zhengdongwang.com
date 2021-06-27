@@ -6,6 +6,7 @@ title: Home
 ![image](assets/images/flowers.jpg)
 
 <!-- fix css -->
+<!-- fix js includes -->
 <!-- giving -->
 <!-- deprecate wttf -->
 
