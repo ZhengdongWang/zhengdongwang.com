@@ -4,3 +4,6 @@ plugins:
   - jekyll-seo-tag
 
 livereload: true
+
+# Google Analytics
+google_analytics: UA—161557348-1
