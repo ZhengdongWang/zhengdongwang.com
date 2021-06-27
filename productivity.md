@@ -35,23 +35,23 @@ Okay now that you know that time for what you came for.
 
 **Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. I really like them all in full. Also read them because I only picked parts that work for my life, which is not your life.
 
-{% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman/){% endcapture %}
+{% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman){% endcapture %}
 {% capture altman_productivity %}Sam Altman, [Productivity:](https://blog.samaltman.com/productivity){% endcapture %}
 {% capture altman_successful %}Sam Altman, [How To Be Successful:](https://blog.samaltman.com/how-to-be-successful){% endcapture %}
-{% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/){% endcapture %}
+{% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
-{% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840/){% endcapture %}
+{% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840){% endcapture %}
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
 {% capture collison %}Patrick Collison, [Advice if you're 10-20:](https://patrickcollison.com/advice){% endcapture %}
 {% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
-{% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient/){% endcapture %}
-{% capture luu %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill/){% endcapture %}
+{% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
+{% capture luu %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:dignity){% endcapture %}
-{% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research/){% endcapture %}
-{% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace/){% endcapture %}
+{% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 
 ## Think about direction
 

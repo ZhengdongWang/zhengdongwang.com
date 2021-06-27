@@ -20,22 +20,22 @@ Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s
 
 How I think about school was more relevant when I was in college. But that wasn't so long ago, and I'm still doing research.
 
-The most thing I ever read about American undergraduates was [Violence and the Sacred: College as an incubator of Girardian terror](https://danwang.co/college-girardian-terror/). We were competing in a lot of meaningless ways. But it wasn't all bad! I formed a lot of opinions about human nature. I also believe that the world really needs people who are  intensely mimetic.
+The most thing I ever read about American undergraduates was [Violence and the Sacred: College as an incubator of Girardian terror](https://danwang.co/college-girardian-terror). We were competing in a lot of meaningless ways. But it wasn't all bad! I formed a lot of opinions about human nature. I also believe that the world really needs people who are  intensely mimetic.
 
-I might be biased, because one activity I participated in--college debate--some would say is the prime example of meaningless competition. It was a big part of college for me, and I loved it. Sally Rooney even wrote [an essay](https://thedublinreview.com/article/even-if-you-beat-me/) about how stupid debate is (it's socially insular, it promotes big egos and toxic idolization, etc.). But by the end of the essay both she and me, the reader, is ready to win just to prove we can again. This essay is a trap. She must be happy about the irony.
+I might be biased, because one activity I participated in--college debate--some would say is the prime example of meaningless competition. It was a big part of college for me, and I loved it. Sally Rooney even wrote [an essay](https://thedublinreview.com/article/even-if-you-beat-me) about how stupid debate is (it's socially insular, it promotes big egos and toxic idolization, etc.). But by the end of the essay both she and me, the reader, is ready to win just to prove we can again. This essay is a trap. She must be happy about the irony.
 
 I had a love-disappointment relationship with physics in college. Once, my naive self told a research advisor that I thought physics was the purest, highest tier of knowledge. My advisor (probably after rolling his eyes) told me I'm not special in a nice way: "Zhengdong, you'll be able to find interesting problems in every field."
 
 So I decided not to apply for PhD programs in physics. But first, I found a lot of cool things other people have said about committing to the field:
 
-* Rachel Thomas tells you [What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/). Remember how grad students are depressed? No PhD.
+* Rachel Thomas tells you [What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school). Remember how grad students are depressed? No PhD.
 * For Brian Timar, a physics PhD was a [mimetic trap](https://www.briantimar.com/notes/mimetic/mimetic), so he dropped out. No PhD.
 * [What Does Any of This Have To Do with Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)asks Bob Henderson. It turns out lots of people think they're chasing the holy grail of knowledge, and then get disillusioned. No PhD.
-* Andrej Karpathy's [Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) says you get freedom, ownership, and personal growth. Yes PhD? He says you also need certainty, which I don't have. No PhD.
-* Finally, during high school space camp, I met [Nicholas Suntzeff](https://en.wikipedia.org/wiki/Nicholas_B._Suntzeff). He talked about leaving a dinner in Chile celebrating his Nobel-winning research. On the way home, he ran into a girl begging on the street. [Why spend one centavo on cosmology when little girls are crouching in subway stairwells, begging?](https://www.lastwordonnothing.com/2012/08/13/guest-post-that-eternal-question/) I don't think the answer is always that we shouldn't. But for me, it's No PhD.
+* Andrej Karpathy's [Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd) says you get freedom, ownership, and personal growth. Yes PhD? He says you also need certainty, which I don't have. No PhD.
+* Finally, during high school space camp, I met [Nicholas Suntzeff](https://en.wikipedia.org/wiki/Nicholas_B._Suntzeff). He talked about leaving a dinner in Chile celebrating his Nobel-winning research. On the way home, he ran into a girl begging on the street. [Why spend one centavo on cosmology when little girls are crouching in subway stairwells, begging?](https://www.lastwordonnothing.com/2012/08/13/guest-post-that-eternal-question) I don't think the answer is always that we shouldn't. But for me, it's No PhD.
 * Okay, fine, here are some real Yes PhD sources. Who wouldn't want to discover true facts about [doomed neutron stars](https://www.youtube.com/watch?v=x_Akn8fUBeQ), [the timelapse of our universe](https://www.youtube.com/watch?v=uD4izuDMUQA), [how every light in this video is not a star but a galaxy](https://www.youtube.com/watch?v=rOjrImaPh80), [orbital rendezvous](https://www.youtube.com/watch?v=B1R3dTdcpSU), or [black hole star shredders](https://www.youtube.com/watch?v=ubBzcSD8G8k)? Terrifying!
 
-The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195/). Disclaimer: I haven't read any Hume. I will eventually read him and more from other philosophers to gain credibility, but I don't think doing so will change my mind.
+The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195). Disclaimer: I haven't read any Hume. I will eventually read him and more from other philosophers to gain credibility, but I don't think doing so will change my mind.
 
 ## Cool people
 
@@ -43,19 +43,19 @@ I'm inspired by:
 
 * [Michael Nielsen](http://michaelnielsen.org)
 * [Riva Melissa-Tez](https://twitter.com/rivatez)
-* [Dan Wang](https://danwang.co/)
-* [Sam Altman](https://blog.samaltman.com/)
-* [Anna Prouse](https://www.linkedin.com/in/anna-prouse-4106b239/)
+* [Dan Wang](https://danwang.co)
+* [Sam Altman](https://blog.samaltman.com)
+* [Anna Prouse](https://www.linkedin.com/in/anna-prouse-4106b239)
 * Others I can't think of right now.
 
 Some of my friends have websites too:
 
-* [Quinn](https://www.qmc4.com/)
+* [Quinn](https://www.qmc4.com)
 * [Rebecca](https://rebeccagoldberg.info)
-* [Zach](https://zacharystanik.myportfolio.com/)
-* [Amanda](https://huntressie.wordpress.com/)
+* [Zach](https://zacharystanik.myportfolio.com)
+* [Amanda](https://huntressie.wordpress.com)
 * [Sunnie](https://sunnie-liu.myportfolio.com/work)
-* [Jim](https://jimzenn.com/)
+* [Jim](https://jimzenn.com)
 * [philoslothical](https://philoslothical.wixsite.com/philoslothical)
 
 ## Maximum fun
@@ -74,15 +74,15 @@ Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=
 
 My favorite blogs are:
 
-* [bookbear express](https://ava.substack.com/) by Ava.
-* [Marginal Revolution](https://marginalrevolution.com/) by Tyler Cowen and Alex Tabarrok.
+* [bookbear express](https://ava.substack.com) by Ava.
+* [Marginal Revolution](https://marginalrevolution.com) by Tyler Cowen and Alex Tabarrok.
 
 These two are the best that regularly post. I follow my RSS feed pretty religiously so you can read exactly what I just read recently.
 
 My favorite movies are:
 
-* [La Grande Vadrouille](https://www.imdb.com/title/tt0060474/). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
-* [Knives Out](https://www.imdb.com/title/tt8946378/). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
+* [La Grande Vadrouille](https://www.imdb.com/title/tt0060474). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
+* [Knives Out](https://www.imdb.com/title/tt8946378). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
 
 Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
 
@@ -93,20 +93,20 @@ My favorite music would take too long to explain and the explanations are a bit 
 
 My favorite podcast is:
 
-* [This American Life](https://www.thisamericanlife.org/). Which is even better than people say it is. I used to list other podcasts here. And I listen to others, but I've gotten bored of every other one, even if it takes a few years. Also, the Torey Malatia jokes at the end are great.
+* [This American Life](https://www.thisamericanlife.org). Which is even better than people say it is. I used to list other podcasts here. And I listen to others, but I've gotten bored of every other one, even if it takes a few years. Also, the Torey Malatia jokes at the end are great.
 
 If you know me, please please play these games with me:
 
 * [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 * [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
-* [StarCraft II](https://starcraft2.com/en-us/)
+* [StarCraft II](https://starcraft2.com/en-us)
 
 Eventually I want to develop an indie game. Right now I have no experience and am not serious about getting any. But it seems like one of the best ways to practice many skills--coding the game, writing the story, drawing the art, and composing the music. You're creating a whole experience for people to enjoy. That sounds really meaningful. I really admire people who did everything or almost everything for really great games:
 
-* [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net/).
+* [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net).
 * [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html).
-* [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days/).
-* [Lucas Pope](https://dukope.com/) for [Papers, Please](https://papersplea.se/) and [Return of the Obra Dinn](https://obradinn.com/).
+* [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days).
+* [Lucas Pope](https://dukope.com) for [Papers, Please](https://papersplea.se) and [Return of the Obra Dinn](https://obradinn.com).
 
 Fun fact: the summer before college I switched to using [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout). My keyboard when I'm not on a laptop is the [Leopold FC750R PD](https://www.leopold.co.kr/Shop/Item.php?ItId=1550022044) with brown switches. If it's [good enough for The Machine](https://liquipedia.net/starcraft2/Pro_gear), it's good enough for me! The color is crucial.
 
@@ -117,4 +117,4 @@ My favorite poem is:
 Random things on the internet:
 
 * The space camp I went to in high school had a [blog](https://ssp2016nmt.wordpress.com). My post was a problem set of inside jokes.
-* My friend Allison wrote [this really nice piece](http://thepolitic.org/friendsgiving-pies-ice-cream-and-growing-up/) about our Friendsgiving.
+* My friend Allison wrote [this really nice piece](http://thepolitic.org/friendsgiving-pies-ice-cream-and-growing-up) about our Friendsgiving.

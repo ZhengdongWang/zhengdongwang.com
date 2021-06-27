@@ -5,7 +5,6 @@ title: Home
 
 ![image](assets/images/flowers.jpg)
 
-<!-- default light -->
 <!-- fix css -->
 <!-- giving -->
 <!-- deprecate wttf -->
@@ -22,7 +21,7 @@ title: Home
 ## What I'm doing now
 
 * Summer!
-* I'm an incoming research engineer at [DeepMind](https://deepmind.com/) in London.
+* I'm an incoming research engineer at [DeepMind](https://deepmind.com) in London.
 
 ## Writing
 
@@ -33,7 +32,7 @@ title: Home
 
 ## Projects
 
-* I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 with the [X quantum team](https://x.company/).
+* I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 with the [X quantum team](https://x.company).
 * I had an idea that turned into (but I didn't do most of the work for) a collaboration between Yale and ETH Zurich, published in the Astrophysical Journal.
   * Ghosh A., Urry C. M., **Wang Z.**, Turp D., Schawinski K., Powell M., 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47) arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
 
