@@ -5,7 +5,8 @@ title: Writing
 
 # Writing advice
 
-There's only one thing here. Why though?
+There's only one thing here because:
+
 * I'm not that good at writing.
 * I really like this one piece of advice, and I didn't want to distract from it.
 * I don't know how to generalize most writing advice people give me. When I get a comment like "make your argument clearer," I can only describe specifically how I'm going to do it for that argument only.

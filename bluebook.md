@@ -38,6 +38,7 @@ You decide.
 You can make up your own criteria for what a good professor is. Obviously they should have experience in what they're teaching. You can easily verify this online. Also, tenure-track positions are hard to get, so prefer ladder faculty.
 
 Even better (but harder to determine) is if they're good at teaching undergraduates. I don't know a good way of verifying this other than to attend the class itself. Course reviews are an okay approxmation at best:
+
 * Most people who take the time to write reviews either really like or really dislike the professor.
 * Juniors and seniors are jaded and lazy. They write fewer reviews. A shame because they have the most experience. You should weight their opinion higher, but they're nowhere to be found.
 * Reviews reflect what people think about the class _overall_. Some have to take it for their major, or for a distributional requirement. Remember that for you, _only the professor matters_.
@@ -46,6 +47,7 @@ Even better (but harder to determine) is if they're good at teaching undergradua
 * New professors are some of the best! They work really hard. They're in the prime of their career. Their classes are easy to get into. They're underrated by everyone else---they don't have any reviews. Look here, instead.
 
 Just to be clear, what _doesn't matter at all_?
+
 * Course title.
 * Course description.
 * Course syllabus.
@@ -53,7 +55,8 @@ Just to be clear, what _doesn't matter at all_?
 
 I'm serious. Don't read the course descriptions. Cover up the titles in the catalog if they distract you. Only research professors. A bad professor will make you dread going to a class on a subject you love. A good professor will inspire enthusiasm in a topic you previously didn't care about. I'm willing to bet that you agree with me if you've had either experience.
 
-Winnow your list:
+Winnow your list, then, using:
+
 * A minimum review threshold. Don't compare who is slightly better reviewed, seriously consider every professor above your threshold. Don't forget to include unrated professors.
 * Friends. Those whose opinions you trust, and those who know what you like well.
 * Arbitrary personal criteria. Gut feeling works pretty well.

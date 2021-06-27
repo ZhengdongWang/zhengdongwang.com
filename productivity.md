@@ -14,18 +14,22 @@ I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty ea
 Honestly! Here are two hopefully clarifying principles why, with very original names from me:
 
 1. The **No Free Lunch Theorem** of Productivity Advice: You are _no more productive_ after implementing a productivity trick than you were before. Why?
+
   * The willpower to adhere to your new productivity trick is the same willpower to stop procrastinating.
   * You will optimize to be as lazy as possible within the constraints of your new productivity trick.
   * You will exploit the unique weaknesses of your new productivity trick.
   * You will feel a false sense of productivity having implemented your new trick.
 
 2. The **Efficient Market Hypothesis** of Productivity Advice: If there exists a productivity trick that you can _feasibly_ implement and actually made you 2X more productive, you've already implemented it.
+
   * I've met people who are 2X more productive than other people. But have you met anyone who suddenly forced themselves to be 2X more productive? Not me.
 
 So how should you react? You can try to:
-* **Be nice to yourself**. There's nothing wrong with you! Everybody sucks at not procrastinating. You shouldn't feel bad that your life isn't as perfect as social media makes other peoples' lives seem. Same idea here.
+
 * Realize **productivity advice is just for fun**. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
 * **Stop caring about productivity**. Work is but a small sliver of the full range of human experience! Go outside.
+* **Be nice to yourself**. There's nothing wrong with you! Everybody sucks at not procrastinating. You shouldn't feel bad that your life isn't as perfect as social media makes other peoples' lives seem. Same idea here.
+  * In the words of the great Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg)
 
 Okay now that you know that time for what you came for.
 

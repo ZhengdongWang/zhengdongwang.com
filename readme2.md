@@ -27,6 +27,7 @@ I might be biased, because one activity I participated in--college debate--some 
 I had a love-disappointment relationship with physics in college. Once, my naive self told a research advisor that I thought physics was the purest, highest tier of knowledge. My advisor (probably after rolling his eyes) told me I'm not special in a nice way: "Zhengdong, you'll be able to find interesting problems in every field."
 
 So I decided not to apply for PhD programs in physics. But first, I found a lot of cool things other people have said about committing to the field:
+
 * Rachel Thomas tells you [What You Need to Know Before Considering a PhD](https://www.fast.ai/2018/08/27/grad-school/). Remember how grad students are depressed? No PhD.
 * For Brian Timar, a physics PhD was a [mimetic trap](https://www.briantimar.com/notes/mimetic/mimetic), so he dropped out. No PhD.
 * [What Does Any of This Have To Do with Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)asks Bob Henderson. It turns out lots of people think they're chasing the holy grail of knowledge, and then get disillusioned. No PhD.
@@ -39,6 +40,7 @@ The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.c
 ## Cool people
 
 I'm inspired by:
+
 * [Michael Nielsen](http://michaelnielsen.org)
 * [Riva Melissa-Tez](https://twitter.com/rivatez)
 * [Dan Wang](https://danwang.co/)
@@ -47,6 +49,7 @@ I'm inspired by:
 * Others I can't think of right now.
 
 Some of my friends have websites too:
+
 * [Quinn](https://www.qmc4.com/)
 * [Rebecca](https://rebeccagoldberg.info)
 * [Zach](https://zacharystanik.myportfolio.com/)
@@ -60,6 +63,7 @@ Some of my friends have websites too:
 Where I give you fun recommendations.
 
 Reading is so great. You learn so much. And it takes as much time as you want. And it can be free, if you want. My favorite books are:
+
 * [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
 * [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) by Gabriel Garc&iacute;a M&aacute;rquez. Wikipedia says this book is "often cited as one of the supreme achievements in literature" with four citations. Come on people! What more do you need.
 * [Interpreter of Maladies](https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies) by Jhumpa Lahiri. The characters remind me of people in my life. My favorite is "When Mr. Pirzada Came to Dine," whose main character is also a child. It's not a children's book, but you can't escape.
@@ -69,29 +73,36 @@ Reading is so great. You learn so much. And it takes as much time as you want. A
 Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
 
 My favorite blogs are:
+
 * [bookbear express](https://ava.substack.com/) by Ava.
 * [Marginal Revolution](https://marginalrevolution.com/) by Tyler Cowen and Alex Tabarrok.
+
 These two are the best that regularly post. I follow my RSS feed pretty religiously so you can read exactly what I just read recently.
 
 My favorite movies are:
+
 * [La Grande Vadrouille](https://www.imdb.com/title/tt0060474/). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
 * [Knives Out](https://www.imdb.com/title/tt8946378/). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
 
 Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
 
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here is:
+
 * A playlist of [songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh?si=1e45c403545b4355).
 * A playlist of [songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi?si=709c9901d8e343a0).
 
 My favorite podcast is:
+
 * [This American Life](https://www.thisamericanlife.org/). Which is even better than people say it is. I used to list other podcasts here. And I listen to others, but I've gotten bored of every other one, even if it takes a few years. Also, the Torey Malatia jokes at the end are great.
 
 If you know me, please please play these games with me:
+
 * [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 * [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
 * [StarCraft II](https://starcraft2.com/en-us/)
 
 Eventually I want to develop an indie game. Right now I have no experience and am not serious about getting any. But it seems like one of the best ways to practice many skills--coding the game, writing the story, drawing the art, and composing the music. You're creating a whole experience for people to enjoy. That sounds really meaningful. I really admire people who did everything or almost everything for really great games:
+
 * [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net/).
 * [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html).
 * [Jon Ingold](https://twitter.com/joningold) and [Joseph Humfrey](https://twitter.com/joethephish) for [80 Days](https://www.inklestudios.com/80days/).
@@ -100,8 +111,10 @@ Eventually I want to develop an indie game. Right now I have no experience and a
 Fun fact: the summer before college I switched to using [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout). My keyboard when I'm not on a laptop is the [Leopold FC750R PD](https://www.leopold.co.kr/Shop/Item.php?ItId=1550022044) with brown switches. If it's [good enough for The Machine](https://liquipedia.net/starcraft2/Pro_gear), it's good enough for me! The color is crucial.
 
 My favorite poem is:
+
 * [I died for beauty, but was scarce](https://www.bartleby.com/113/4010.html) by Emily Dickinson. I don't know anything about poetry.
 
 Random things on the internet:
+
 * The space camp I went to in high school had a [blog](https://ssp2016nmt.wordpress.com). My post was a problem set of inside jokes.
 * My friend Allison wrote [this really nice piece](http://thepolitic.org/friendsgiving-pies-ice-cream-and-growing-up/) about our Friendsgiving.
