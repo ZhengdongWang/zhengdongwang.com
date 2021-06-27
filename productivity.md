@@ -14,14 +14,11 @@ I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty ea
 Honestly! Here are two hopefully clarifying principles why, with very original names from me:
 
 1. The **No Free Lunch Theorem** of Productivity Advice: You are _no more productive_ after implementing a productivity trick than you were before. Why?
-
   * The willpower to adhere to your new productivity trick is the same willpower to stop procrastinating.
   * You will optimize to be as lazy as possible within the constraints of your new productivity trick.
   * You will exploit the unique weaknesses of your new productivity trick.
   * You will feel a false sense of productivity having implemented your new trick.
-
 2. The **Efficient Market Hypothesis** of Productivity Advice: If there exists a productivity trick that you can _feasibly_ implement and actually made you 2X more productive, you've already implemented it.
-
   * I've met people who are 2X more productive than other people. But have you met anyone who suddenly forced themselves to be 2X more productive? Not me.
 
 So how should you react? You can try to:
