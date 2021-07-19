@@ -49,6 +49,7 @@ Okay now that you know that time for what you came for.
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:dignity){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
+{% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 
 ## Think about direction
 
@@ -193,6 +194,10 @@ This should go without saying!
 {{ nielsen }}
 
 > You also need to have the rest of your life in order to be an effective researcher. Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right. If you don’t get them right, not only will your life as a whole be less good, your research will suffer.
+
+{{ adriene }}
+
+> You are only as young and as happy as your spine.
 
 ## A final reminder
 

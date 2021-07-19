@@ -5,14 +5,26 @@ title: Writing
 
 # Writing advice
 
-There's only one thing here because:
+There's only two things here because:
 
 * I'm not that good at writing.
-* I really like this one piece of advice, and I didn't want to distract from it.
+* I really like these pieces of advice, and I didn't want to distract from them.
 * I don't know how to generalize most writing advice people give me. When I get a comment like "make your argument clearer," I can only describe specifically how I'm going to do it for that argument only.
 * It really depends! You should read:
   * [Jim Pryor's advice](http://www.jimpryor.net/teaching/guidelines/writing.html) for philosophy.
   * [John Cochrane's advice](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) for economics.
+
+## You can write anywhere.
+
+From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren Berlant, which can apply to anything:
+
+> Once, I needed the perfect time and place to write. I stood in my way like a poison-pen letter to myself. But slowly, under the velocities of worldy reals that came and went, I learned to write in my own skin, like it or not.
+
+> Making money, making dinner, taking care of people and stupid shit, getting sick or getting well, getting into and out of what presented, I ended up with a writer’s life. I learned to write in thirty-minute episodes on my frail mother’s dining room table with a three-year-old playing with old plastic toys underfoot. I took notes on my phone at a doctor’s office. I started the day writing in bed even though I had only ten minutes. Over time, I became allergic to the long-winded and roundabout, cutting words down to size. But then I’d become attached to a word fern shooting up in the space between words or I’d be surprised by something energetic already somehow taking off.
+
+> Some people have long, lean writing muscles; mine are shortened and taut like a repetitive stress injury turned into a personal tendency. I can write anywhere now but not for long, and it’s only in the morning that I have that kind of energy and interest.
+
+> Things are usually in my way but that’s the thing about writing.
 
 ## Use a dictionary, not a thesaurus.
 

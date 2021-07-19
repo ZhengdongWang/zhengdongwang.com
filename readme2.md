@@ -45,6 +45,7 @@ I'm inspired by:
 * [Riva Melissa-Tez](https://twitter.com/rivatez)
 * [Dan Wang](https://danwang.co)
 * [Sam Altman](https://blog.samaltman.com)
+* [Agnes Callard](https://twitter.com/AgnesCallard)
 * [Anna Prouse](https://www.linkedin.com/in/anna-prouse-4106b239)
 * Others I can't think of right now.
 
