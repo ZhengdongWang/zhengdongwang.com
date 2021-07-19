@@ -14,7 +14,7 @@
   {% seo %}
   <script src='assets/js/tsparticles.slim.js' type='text/javascript'></script>
   <script src='assets/js/site.js' type='text/javascript'></script>
-  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% if jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
 </head>
