@@ -16,11 +16,14 @@ Here is an unsolicited, uninformed opinion instead. I think there's a good chanc
 
 Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
+<!-- other peoples general audience opinions on the state of ai -->
+<!-- http://www.incompleteideas.net/IncIdeas/BitterLesson.html -->
+
 ## Academic disposition
 
 How I think about school was more relevant when I was in college. But that wasn't so long ago, and I'm still doing research.
 
-The most thing I ever read about American undergraduates was [Violence and the Sacred: College as an incubator of Girardian terror](https://danwang.co/college-girardian-terror). We were competing in a lot of meaningless ways. But it wasn't all bad! I formed a lot of opinions about human nature. I also believe that the world really needs people who are  intensely mimetic.
+The most important thing I ever read about American undergraduates was [Violence and the Sacred: College as an incubator of Girardian terror](https://danwang.co/college-girardian-terror). We were competing in a lot of meaningless ways. But it wasn't all bad! I formed a lot of opinions about human nature. I also believe that the world really needs people who are  intensely mimetic.
 
 I might be biased, because one activity I participated in--college debate--some would say is the prime example of meaningless competition. It was a big part of college for me, and I loved it. Sally Rooney even wrote [an essay](https://thedublinreview.com/article/even-if-you-beat-me) about how stupid debate is (it's socially insular, it promotes big egos and toxic idolization, etc.). But by the end of the essay both she and me, the reader, is ready to win just to prove we can again. This essay is a trap. She must be happy about the irony.
 
@@ -46,7 +49,6 @@ I'm inspired by:
 * [Dan Wang](https://danwang.co)
 * [Sam Altman](https://blog.samaltman.com)
 * [Agnes Callard](https://twitter.com/AgnesCallard)
-* [Anna Prouse](https://www.linkedin.com/in/anna-prouse-4106b239)
 * Others I can't think of right now.
 
 Some of my friends have websites too:

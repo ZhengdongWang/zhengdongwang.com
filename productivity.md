@@ -30,8 +30,9 @@ So how should you react? You can try to:
 
 Okay now that you know that time for what you came for.
 
-**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. I really like them all in full. Also read them because I only picked parts that work for my life, which is not your life.
+**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life.
 
+{% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 {% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman){% endcapture %}
 {% capture altman_productivity %}Sam Altman, [Productivity:](https://blog.samaltman.com/productivity){% endcapture %}
 {% capture altman_successful %}Sam Altman, [How To Be Successful:](https://blog.samaltman.com/how-to-be-successful){% endcapture %}
@@ -49,7 +50,7 @@ Okay now that you know that time for what you came for.
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:dignity){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
-{% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
+{% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
 
 ## Think about direction
 
@@ -77,13 +78,17 @@ Okay now that you know that time for what you came for.
 
 > There are many right problems, but very few people search carefully for them. Rather they simply drift along doing what comes to them, following the easiest path to tomorrow. Great scientists all spend a lot of time and effort in examining the important problems in their field. Many have a list of 10 to 20 problems that might be important if they had a decent attack. As a result, when they notice something new that they had not known but seems to be relevant, then they are prepared to turn to the corresponding problem, work on it, and get there first.
 
+{{ weinberg }}
+
+> When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
+
 ## There's nothing special about being good
 
 {{ chambliss }}
 
-> The mundanity of excellence is typically unrecognized. I think the reason is fairly simple. Usually we see great athletes only after they have become great-after the years of learning the new methods, gaining the habits of competitiveness and consis- tency, after becoming comfortable in their world. They have long since perfected the myriad of techniques that together consti- tute excellence. Ignorant of all of the specific steps that have led to the perform- ance and to the confidence, we think that somehow excellence sprang fullgrown from this person, and we say he or she "has talent" or "is gifted." Even when seen close up, the mundanity of excellence is often not believed:
+> The mundanity of excellence is typically unrecognized. I think the reason is fairly simple. Usually we see great athletes only after they have become great-after the years of learning the new methods, gaining the habits of competitiveness and consistency, after becoming comfortable in their world. They have long since perfected the myriad of techniques that together constitute excellence. Ignorant of all of the specific steps that have led to the performance and to the confidence, we think that somehow excellence sprang fullgrown from this person, and we say he or she "has talent" or "is gifted." Even when seen close up, the mundanity of excellence is often not believed:
 
->  Every week at the Mission Viejo training pool, where the National Champion Nadadores team practiced, coaches from around the world would be on the deck visiting, watching as the team did their workouts, swimming back and forth for hours. The visiting coaches would be excited at first, just to be here; then, soon-within an hour or so, usually-they grew bored, walking back and forth looking at the deck, glancing around at the hills around the town, reading the bulletin boards, glancing down at their watches, wondering, after the long flight out to Cali- fornia, when something dramatic was going to happen. "They all have to come to Mecca, and see what we do," coach Mark Schubert said. "They think we have some big secret." (Field notes)
+>  Every week at the Mission Viejo training pool, where the National Champion Nadadores team practiced, coaches from around the world would be on the deck visiting, watching as the team did their workouts, swimming back and forth for hours. The visiting coaches would be excited at first, just to be here; then, soon-within an hour or so, usually-they grew bored, walking back and forth looking at the deck, glancing around at the hills around the town, reading the bulletin boards, glancing down at their watches, wondering, after the long flight out to California, when something dramatic was going to happen. "They all have to come to Mecca, and see what we do," coach Mark Schubert said. "They think we have some big secret." (Field notes)
 
 >  But of course there is no secret; there is only the doing of all those little things, each one done correctly, time and again, until excellence in every detail becomes a firmly ingrained habit, an ordinary part of one's everyday life.
 
