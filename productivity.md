@@ -11,7 +11,7 @@ At the same time I take productivity advice too seriously. If you're actively lo
 
 I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty easily. Productivity advice is probably more legit. But the scam is also better concealed. Nobody ever becomes 10X or even 2X more productive after reading a self-help book or starting the Pomodoro Technique.
 
-Honestly! Here are two hopefully clarifying principles why, with very original names from me:
+Honestly! Here are two hopefully clarifying reasons why, with very original names from me:
 
 1. The **No Free Lunch Theorem** of Productivity Advice: You are _no more productive_ after implementing a productivity trick than you were before. Why?
   * The willpower to adhere to your new productivity trick is the same willpower to stop procrastinating.
@@ -20,6 +20,8 @@ Honestly! Here are two hopefully clarifying principles why, with very original n
   * You will feel a false sense of productivity having implemented your new trick.
 2. The **Efficient Market Hypothesis** of Productivity Advice: If there exists a productivity trick that you can _feasibly_ implement and actually made you 2X more productive, you've already implemented it.
   * I've met people who are 2X more productive than other people. But have you met anyone who suddenly forced themselves to be 2X more productive? Not me.
+
+Alexey Guzey gave examples when he said [every productivity system stops working eventually and there’s nothing you can do about it](https://guzey.com/productivity/#every-productivity-system-stops-working-eventually-and-theres-nothing-you-can-do-about-it). Another example of the holy grail not existing is in [how famous creative people allegedly spent their time](https://podio.com/site/creative-routines). All kinds of schemes seem to work.
 
 So how should you react? You can try to:
 
@@ -40,6 +42,7 @@ Okay now that you know that time for what you came for.
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
 {% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840){% endcapture %}
+{% capture burkeman %}Oliver Burkeman, [The three-or-four-hours rule for getting creative work done:](https://www.oliverburkeman.com/fourhours){% endcapture %}
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
 {% capture collison %}Patrick Collison, [Advice if you're 10-20:](https://patrickcollison.com/advice){% endcapture %}
 {% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
@@ -77,10 +80,6 @@ Okay now that you know that time for what you came for.
 {{ hamming }}
 
 > There are many right problems, but very few people search carefully for them. Rather they simply drift along doing what comes to them, following the easiest path to tomorrow. Great scientists all spend a lot of time and effort in examining the important problems in their field. Many have a list of 10 to 20 problems that might be important if they had a decent attack. As a result, when they notice something new that they had not known but seems to be relevant, then they are prepared to turn to the corresponding problem, work on it, and get there first.
-
-{{ weinberg }}
-
-> When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
 
 ## There's nothing special about being good
 
@@ -124,7 +123,35 @@ Read the last two essays in full. It's worth it.
 
 For example, [Timothy Gowers solving a math problem in real time](https://www.youtube.com/watch?v=NmEVwJ_lJ1A).
 
-And, [how creative people allegedly spent their time](https://podio.com/site/creative-routines). I'm not sure how to apply this one either.
+## Fast fast fast cut cut cut
+
+{{ kuhn }}
+
+> There’s an obvious way in which moving faster is important: if you’re 10% more productive, you will finish your work in 10% less time, so you can do 10% more work total. But I don’t think that’s the main reason that speed is important...
+
+> It’s worth pointing out at this point that all of the quotes above aren’t just about churning out work—they’re about processing information more quickly. The faster you process information, the faster you can incorporate the result into what you do next...
+
+> That means that moving quickly is an advantage that compounds. Being twice as fast doesn’t just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
+
+{{ ava_time }}
+
+> I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
+
+{{ altman_email }}
+
+> ...years ago I wrote a little program to look at this, like how quickly our best founders---the founders that run billion-plus companies---answer my emails versus our bad founders. I don’t remember the exact data, but it was mind-blowingly different. It was a difference of minutes versus days on average response times.
+
+{{ altman_successful }}
+
+> I have yet to meet a slow-moving person who is very successful.
+
+{{ mckenzie }}
+
+> The returns to pushing your cadence to faster are _everywhere_ and they _compound continuously_, for years. Don’t send the email tomorrow. Don’t default to scheduling the meeting for next week. Don’t delay a worthy sprint until after the next quarterly planning exercise. Design control and decisionmaking structures to bias heavily in favor of preserving operating cadence...
+
+> A _stupendous_ portion of that advantage is just consistently choosing to get more done. That sounds vacuous but hasn’t been in my experience. I have seen truly silly improvements occasioned by someone just consistently asking in meetings “Could we do that faster? What is the minimum increment required to ship? Could that be done faster?” It’s the Charge More of management strategy; the upside is so dramatic, the cost so low, and the hit rate so high that you should just invoke it ritualistically.
+
+Also, an aphorism I learned from college debate---"if you're writing, you're losing." If you have to write out your rebuttal, if you can't respond off the top of your head, you don't know your matter well enough. A sign of a bigger problem!
 
 ## Work really hard
 
@@ -158,39 +185,11 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 > To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!
 
-## Fast fast fast cut cut cut
+{{ weinberg }}
 
-{{ kuhn }}
+> Another lesson to be learned, to continue using my oceanographic metaphor, is that while you are swimming and not sinking you should aim for rough water. When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
 
-> There’s an obvious way in which moving faster is important: if you’re 10% more productive, you will finish your work in 10% less time, so you can do 10% more work total. But I don’t think that’s the main reason that speed is important...
-
-> It’s worth pointing out at this point that all of the quotes above aren’t just about churning out work—they’re about processing information more quickly. The faster you process information, the faster you can incorporate the result into what you do next...
-
-> That means that moving quickly is an advantage that compounds. Being twice as fast doesn’t just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
-
-{{ ava_time }}
-
-> I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
-
-{{ altman_email }}
-
-> ...years ago I wrote a little program to look at this, like how quickly our best founders---the founders that run billion-plus companies---answer my emails versus our bad founders. I don’t remember the exact data, but it was mind-blowingly different. It was a difference of minutes versus days on average response times.
-
-{{ altman_successful }}
-
-> I have yet to meet a slow-moving person who is very successful.
-
-{{ mckenzie }}
-
-> The returns to pushing your cadence to faster are _everywhere_ and they _compound continuously_, for years. Don’t send the email tomorrow. Don’t default to scheduling the meeting for next week. Don’t delay a worthy sprint until after the next quarterly planning exercise. Design control and decisionmaking structures to bias heavily in favor of preserving operating cadence...
-
-> A _stupendous_ portion of that advantage is just consistently choosing to get more done. That sounds vacuous but hasn’t been in my experience. I have seen truly silly improvements occasioned by someone just consistently asking in meetings “Could we do that faster? What is the minimum increment required to ship? Could that be done faster?” It’s the Charge More of management strategy; the upside is so dramatic, the cost so low, and the hit rate so high that you should just invoke it ritualistically.
-
-Also, an aphorism I learned from college debate---"if you're writing, you're losing." If you have to write out your rebuttal, if you can't respond off the top of your head, you don't know your matter well enough. A sign of a bigger problem!
-
-## Take breaks
-
-This should go without saying!
+## But also work less hard
 
 {{ altman_productivity }}
 
@@ -199,6 +198,12 @@ This should go without saying!
 {{ nielsen }}
 
 > You also need to have the rest of your life in order to be an effective researcher. Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right. If you don’t get them right, not only will your life as a whole be less good, your research will suffer.
+
+{{ burkeman }}
+
+> ...you almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day.
+
+> The real lesson – or one of them – is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
 
 {{ adriene }}
 
