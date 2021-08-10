@@ -201,7 +201,7 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 {{ burkeman }}
 
-> ...you almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day.
+> ...you almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day...
 
 > The real lesson – or one of them – is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
 
