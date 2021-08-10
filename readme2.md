@@ -91,7 +91,7 @@ Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings
 
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here is:
 
-* [These songs do not have flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa?si=88e78669a1154f76)
+* [These Songs Do Not Have Flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa?si=88e78669a1154f76)
 * A playlist of [songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh?si=1e45c403545b4355).
 * A playlist of [songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi?si=709c9901d8e343a0).
 
