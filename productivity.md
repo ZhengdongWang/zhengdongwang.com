@@ -46,7 +46,9 @@ Okay now that you know that time for what you came for.
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
 {% capture collison %}Patrick Collison, [Advice if you're 10-20:](https://patrickcollison.com/advice){% endcapture %}
 {% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
+{% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
+{% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
 {% capture luu %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
@@ -151,6 +153,12 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 
 > A _stupendous_ portion of that advantage is just consistently choosing to get more done. That sounds vacuous but hasn’t been in my experience. I have seen truly silly improvements occasioned by someone just consistently asking in meetings “Could we do that faster? What is the minimum increment required to ship? Could that be done faster?” It’s the Charge More of management strategy; the upside is so dramatic, the cost so low, and the hit rate so high that you should just invoke it ritualistically.
 
+{{ graham }}
+
+> If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
+
+> The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
+
 Also, an aphorism I learned from college debate---"if you're writing, you're losing." If you have to write out your rebuttal, if you can't respond off the top of your head, you don't know your matter well enough. A sign of a bigger problem!
 
 ## Work really hard
@@ -170,6 +178,10 @@ Yeah, I know this just sounds like "be better." Sorry.
 > Access to a social environment which encourages and supports the development of research skills and research excellence can make an enormous difference to all aspect of one’s research, including self-discipline. The key is to be _accountable_ to other people. Some simple ways of achieving such accountability are to take on students, to collaborate with colleagues, or to set up mentoring relationships with colleagues.
 
 > The third factor affecting self-discipline is a special kind of honesty, honesty to oneself, about oneself. It’s extremely easy to kid ourselves about what we do and who we are. A colleague once told me of a friend of his who for some time used a stopwatch to keep track of how much research work he did each week. He was shocked to discover that after factoring in all the other activities he engaged in each day – interruptions, email, surfing the net, the phone, fruitless meetings, chatting with friends, and so on – he was averaging only half an hour of research per day. I wouldn’t be surprised if this was typical of many researchers.
+
+{{ deming }}
+
+> Action comes before motivation. Learn to get work done even if you don’t feel like it at first. Find which actions lead to the flywheel of effects (positive reinforcement from others, successful completion of tasks you enjoy) that will motivate you to pursue a certain path. Carefully design systems for yourself. You may feel extreme motivation after watching the Social Network movie, but in the 11th hour get bored and tired of chasing down some abstract programming bug - you must ensure that, if there is an important goal you’d like to achieve, the clear-eyed version of yourself sets up a system to ensure that a later, less motivated of yourself will get it done.
 
 {{ altman_successful }}
 
@@ -204,6 +216,10 @@ Yeah, I know this just sounds like "be better." Sorry.
 > ...you almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day...
 
 > The real lesson – or one of them – is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
+
+{{ deming }}
+
+> Have fun with your friends. Go to the beach together at midnight, light a bonfire and talk about ideas. Camp and hike together. Share life stories. Bake cookies and watch movies in your living room under a fort like the ones you constructed as a kid. Build robots together, do chemistry experiments at home. Living with a great group can be truly exceptional.
 
 {{ adriene }}
 
