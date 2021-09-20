@@ -9,7 +9,6 @@ title: Home
 <!-- fix js includes -->
 <!-- giving -->
 <!-- deprecate wttf -->
-<!-- reread and cut -->
 
 # Zhengdong Wang
 
@@ -22,8 +21,7 @@ title: Home
 
 ## What I'm doing now
 
-* Summer!
-* I'm an incoming research engineer at [DeepMind](https://deepmind.com) in London.
+* I'm a research engineer at [DeepMind](https://deepmind.com) in London.
 
 ## Writing
 

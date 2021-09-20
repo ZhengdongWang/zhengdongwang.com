@@ -46,6 +46,7 @@ I'm inspired by:
 
 * [Michael Nielsen](http://michaelnielsen.org)
 * [Riva Melissa-Tez](https://twitter.com/rivatez)
+* [Sean "Day\[9\]" Plott](https://day9.tv/)
 * [Dan Wang](https://danwang.co)
 * [Sam Altman](https://blog.samaltman.com)
 * [Agnes Callard](https://twitter.com/AgnesCallard)
