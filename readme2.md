@@ -12,6 +12,8 @@ I thought about writing a paragraph to describe who I am. But it was hard, so I 
 
 I guess I should have an opinion on this because it's my job and all. But I haven't done anything yet, so I'll write more later.
 
+But everyone should read [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+
 Here is an unsolicited, uninformed opinion instead. I think there's a good chance (my gut says 40 percent) that AI will never be smarter than humans. At general tasks. Sorry for the vague definitions. I can't explain why very well. It's just a feeling. But I did read [a New Yorker article that says what I already believe](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter), which is why I like it.
 
 Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
