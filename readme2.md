@@ -92,7 +92,7 @@ Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here is:
 
 * [These Songs Do Not Have Flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa?si=88e78669a1154f76)
-* Some albums that are very close to flawless, where every track is pulling their weight, which is very rare, are:
+* Some albums that are very close to flawless, where every track is pulling its weight, which is very rare, are:
   * Lana Del Rey, [Normal Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A?si=Vp_YQv6aQPKeIs5POlljDg&dl_branch=1)
   * Tak&eacute;nobu, [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8?si=93xLQz0QT2ecafMyYrwplg&dl_branch=1)
   * Sammy Rae & The Friends, [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar?si=2fjts77bQQC0MRjI6N85vg&dl_branch=1)
