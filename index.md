@@ -5,11 +5,6 @@ title: Home
 
 ![image](assets/images/flowers.jpg)
 
-<!-- fix css -->
-<!-- fix js includes -->
-<!-- giving -->
-<!-- deprecate wttf -->
-
 # Zhengdong Wang
 
 <h6>
@@ -30,7 +25,7 @@ title: Home
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).
 
-## Projects
+## Research
 
 * I contributed to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 with the [X quantum team](https://x.company).
 * I had an idea that turned into (but I didn't do most of the work for) a collaboration between Yale and ETH Zurich published in the Astrophysical Journal.

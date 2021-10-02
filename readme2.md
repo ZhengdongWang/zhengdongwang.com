@@ -18,9 +18,6 @@ Here is an unsolicited, uninformed opinion instead. I think there's a good chanc
 
 Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
-<!-- other peoples general audience opinions on the state of ai -->
-<!-- http://www.incompleteideas.net/IncIdeas/BitterLesson.html -->
-
 ## Academic disposition
 
 How I think about school was more relevant when I was in college. But that wasn't so long ago, and I'm still doing research.
@@ -95,6 +92,11 @@ Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here is:
 
 * [These Songs Do Not Have Flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa?si=88e78669a1154f76)
+* Some albums that are very close to flawless, where every track is pulling their weight, which is very rare, are:
+  * Lana Del Rey, [Normal Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A?si=Vp_YQv6aQPKeIs5POlljDg&dl_branch=1)
+  * Tak&eacute;nobu, [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8?si=93xLQz0QT2ecafMyYrwplg&dl_branch=1)
+  * Sammy Rae & The Friends, [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar?si=2fjts77bQQC0MRjI6N85vg&dl_branch=1)
+  * Afiara Quartet, Skratch Bastid, [Spin Cycle](https://open.spotify.com/album/6y7OOiJJ8q1qBNvNiVSIbg?si=F4bbbUrSQHqqjk4ZUQg0fA&dl_branch=1)
 * A playlist of [songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh?si=1e45c403545b4355).
 * A playlist of [songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi?si=709c9901d8e343a0).
 
