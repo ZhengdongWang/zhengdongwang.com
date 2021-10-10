@@ -210,7 +210,7 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 > Interviewer: Cursed because what? Because you feel you'd like 10 times more or-
 
-> Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life...  But it means that, you know, the aspect of this business, which is just flat-out hard work, is very important to me. It's very, very important, and it's the one thing that I feel is really in my control. If I didn't do that, I would sort of kick myself forever, for not having actually, you know, giving everything I have to try to actually do the things which are really important. 
+> Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life...  But it means that the aspect of this business, which is just flat-out hard work, is very important to me. It's very, very important, and it's the one thing that I feel is really in my control. If I didn't do that, I would sort of kick myself forever, for not having actually given everything I have to try to actually do the things which are really important. 
 
 ## But also work less hard
 
