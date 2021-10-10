@@ -38,6 +38,7 @@ Okay now that you know that time for what you came for.
 {% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman){% endcapture %}
 {% capture altman_productivity %}Sam Altman, [Productivity:](https://blog.samaltman.com/productivity){% endcapture %}
 {% capture altman_successful %}Sam Altman, [How To Be Successful:](https://blog.samaltman.com/how-to-be-successful){% endcapture %}
+{% capture arkani-hamed %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed:](https://www.youtube.com/watch?v=h6_iJRY6nU4){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
@@ -200,6 +201,16 @@ Yeah, I know this just sounds like "be better." Sorry.
 {{ weinberg }}
 
 > Another lesson to be learned, to continue using my oceanographic metaphor, is that while you are swimming and not sinking you should aim for rough water. When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
+
+{{ arkani-hamed }}
+
+> Interviewer: I've had this question that was rattling around in my head for some time, which is... why haven't you written a popular [science] book?
+
+> Arkani-Hamed: Part of the reason is that, well, like most physicists, I really love talking about physics. I definitely enjoy giving public talks. I enjoy interacting with non-physicists about what's going on in the subject... but I've decided fairly strongly that I'm not going to do this for a very long time... I think our real job is to push physics forward, and to try to learn something new about the way nature works, and that's a very tough business. I mean, it sounds obvious, but it really is a very tough business... I mean, I think it's conceivable, it's conceivable that I might be able to make some really important impact, and push physics forward. It's not obvious. It's not completely obvious. And especially in a case like that, I think the only thing that's in our control, the only thing that is in my control, is single-minded, - The time that you spend. Concentrated focus on the most important problem, the hardest problem, the most important problem that you have any hope of making some small progress on at any time, and the ability to concentrate and focus like that is absolutely crucial. My actual job is to try to figure out something about the way the world works, and I've been both blessed and cursed I think with just the right amount of talent, ability, motivation, to have a chance of doing it.
+
+> Interviewer: Cursed because what? Because you feel you'd like 10 times more or-
+
+> Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life.
 
 ## But also work less hard
 
