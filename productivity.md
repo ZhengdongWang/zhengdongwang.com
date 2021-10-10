@@ -38,7 +38,8 @@ Okay now that you know that time for what you came for.
 {% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman){% endcapture %}
 {% capture altman_productivity %}Sam Altman, [Productivity:](https://blog.samaltman.com/productivity){% endcapture %}
 {% capture altman_successful %}Sam Altman, [How To Be Successful:](https://blog.samaltman.com/how-to-be-successful){% endcapture %}
-{% capture arkani-hamed %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed:](https://www.youtube.com/watch?v=h6_iJRY6nU4){% endcapture %}
+{% capture arkani-hamed1 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part I:](https://www.youtube.com/watch?v=h6_iJRY6nU4){% endcapture %}
+{% capture arkani-hamed2 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part II:](https://www.youtube.com/watch?v=OzSDZ_EPiXk){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
@@ -49,6 +50,7 @@ Okay now that you know that time for what you came for.
 {% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
+{% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
@@ -83,6 +85,20 @@ Okay now that you know that time for what you came for.
 {{ hamming }}
 
 > There are many right problems, but very few people search carefully for them. Rather they simply drift along doing what comes to them, following the easiest path to tomorrow. Great scientists all spend a lot of time and effort in examining the important problems in their field. Many have a list of 10 to 20 problems that might be important if they had a decent attack. As a result, when they notice something new that they had not known but seems to be relevant, then they are prepared to turn to the corresponding problem, work on it, and get there first.
+
+{{ glass }}
+
+> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.
+
+{{ arkani-hamed2 }}
+
+> But let me say what this sort of qualitative strategy is... you need some concrete handle for how to proceed. That is the most difficult part of this whole business. We know what the big problems are, we know there are philosophies that guide us. All those things are there. The most difficult part is not that. Everyone has that. Everyone knows that.
+
+> The most different part is to find the little chink in the armor of the problem that's going to allow you to go in through the side and somehow start making some progress on it... we've discovered that we have to be led to the answer by the answer. We can't just flat-out jump to the final formulation. The progress is incremental in the sense that there is truth sitting there. And the wonderful thing about truth is that it's a great attractor. All you have to do is to get somewhere in its vicinity, and also not fight it.
+
+> If more people realized this, I think we'd get many more people interested in doing physics, in actually doing it, because having the truth out there as a friend and something that you're sort of looking for and trying to head towards, is a tremendous leveler of the playing field when it comes to talents, inclination, are you strong mathematically, not strong mathematically. Having nature as a guide and a friend makes a humongous difference, because people of vastly different levels of talent and, of course you have to be very dedicated, but still, I mean, you can have very, very, you can be fast worker, slow worker. All of these things sort of pale to being somewhere in the vicinity of the right answer.
+
+> And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
 
 ## There's nothing special about being good
 
@@ -202,7 +218,7 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 > Another lesson to be learned, to continue using my oceanographic metaphor, is that while you are swimming and not sinking you should aim for rough water. When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
 
-{{ arkani-hamed }}
+{{ arkani-hamed1 }}
 
 > Interviewer: I've had this question that was rattling around in my head for some time, which is... why haven't you written a popular [science] book?
 
