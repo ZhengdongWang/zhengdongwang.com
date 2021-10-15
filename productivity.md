@@ -54,8 +54,9 @@ Okay now that you know that time for what you came for.
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
-{% capture luu %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
-{% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:dignity){% endcapture %}
+{% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
+{% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
+{% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
@@ -130,7 +131,7 @@ Read the last two essays in full. It's worth it.
 
 > Recently, one of my favorite questions to bug people with has been “What is it you do to train that is comparable to a pianist practicing scales?”  If you don’t know the answer to that one, maybe you are doing something wrong or not doing enough. Or maybe you are (optimally?) not very ambitious?
 
-{{ luu }}
+{{ luu_95 }}
 
 > ...my belief is that it's easier to become relatively good at real life activities relative to games or sports because there's so little delibrate practice put into most real life activities...
 
@@ -175,6 +176,18 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 > If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
 
 > The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
+
+{{ luu_productivity }}
+
+> There are "phase changes" as you cross certain thresholds (details depend on the problem to some extent) where your entire way of working changes... There's a lot of things I could in theory do at any speed but in practice cannot, because as iteration time increases it first becomes so frustrating that I can't do it for long and eventually it takes so long that it literally drops out of my short-term memory, so I need to keep notes or otherwise organize it or I can't do it at all.
+
+> Certainly if I can do an experiment in an interactive UI by dragging on a slider and see the result in a fraction of a second, at that point it's very "no filter", if you want to try something you just do it.
+
+> Once you're at iteration times in the low seconds (say a compile-link cycle with a statically compiled lang) you don't just try stuff anymore, you also spend time thinking about whether it's gonna tell you anything because it takes long enough that you'd rather not waste a run.
+
+> Once you get into several-minute or multi-hour iteration times there's a lot of planning to not waste runs, and context switching because you do other stuff while you wait, and note-taking/bookkeeping; also at this level mistakes are both more expensive (because a wasted run wastes more time) and more common (because your attention is so divided).
+
+> As you scale that up even more you might now take significant resources for a noticeable amount of time and need to get that approved and budgeted, which takes its own meetings etc.
 
 Also, an aphorism I learned from college debate---"if you're writing, you're losing." If you have to write out your rebuttal, if you can't respond off the top of your head, you don't know your matter well enough. A sign of a bigger problem!
 
