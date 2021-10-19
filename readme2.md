@@ -12,7 +12,7 @@ I thought about writing a paragraph to describe who I am. But it was hard, so I 
 
 I guess I should have an opinion on this because it's my job and all. But I haven't done anything yet, so I'll write more later.
 
-But everyone should read [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+But every researcher and person curious about research should read [Research as Understanding](https://kanjun.me/writing/research-as-understanding) by Kanjun Qiu. And every artificial intelligence researcher should read [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
 Here is an unsolicited, uninformed opinion instead. I think there's a good chance (my gut says 40 percent) that AI will never be smarter than humans. At general tasks. Sorry for the vague definitions. I can't explain why very well. It's just a feeling. But I did read [a New Yorker article that says what I already believe](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter), which is why I like it.
 
