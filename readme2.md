@@ -97,6 +97,7 @@ My favorite music would take too long to explain and the explanations are a bit 
   * Tak&eacute;nobu, [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8?si=93xLQz0QT2ecafMyYrwplg&dl_branch=1)
   * Sammy Rae & The Friends, [The Good Life](https://open.spotify.com/album/2xCZSSa0kfIJFDhQR8bYar?si=2fjts77bQQC0MRjI6N85vg&dl_branch=1)
   * Afiara Quartet, Skratch Bastid, [Spin Cycle](https://open.spotify.com/album/6y7OOiJJ8q1qBNvNiVSIbg?si=F4bbbUrSQHqqjk4ZUQg0fA&dl_branch=1)
+  * ABAO, [kinakaian 母親的舌頭](https://open.spotify.com/album/1ftJhzrjCRo3meSeXDlaiQ?si=ep_ZYWnWSfy-Pk6S0oyuoA)
 * A playlist of [songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh?si=1e45c403545b4355).
 * A playlist of [songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi?si=709c9901d8e343a0).
 
