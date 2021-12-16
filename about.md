@@ -5,7 +5,7 @@ title: About
 
 # About
 
-As promised, here are some fun facts about this website:
+Here are some fun facts about this website:
 
 * In light mode, the background color is [cosmic latte](https://en.wikipedia.org/wiki/Cosmic_latte), the average color of the universe. In dark mode, the background color is a really dark blue I picked out a long time ago. If you're curious it's #000226.
 * The font is [Lato](https://fonts.google.com/specimen/Lato), by [Łukasz Dziedzic](http://www.lukaszdziedzic.eu).

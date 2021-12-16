@@ -35,5 +35,5 @@ title: Home
 ## About
 
 * I'm echoing [Patrick McKenzie's](https://www.kalzumeus.com/standing-invitation), [Dan Wang's](https://danwang.co/contact), and [Devon Zuegel's](https://devonzuegel.com/page/contact) standing invitations. I really like getting email.
-* Rules for and history of [giving](giving).
+* [Giving history](giving).
 * Fun facts [about this website](about). And the [source code](https://github.com/ZhengdongWang/zhengdongwang.com).

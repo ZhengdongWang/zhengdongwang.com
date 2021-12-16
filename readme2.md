@@ -10,13 +10,9 @@ I thought about writing a paragraph to describe who I am. But it was hard, so I 
 
 ## Regular and artificial intelligence
 
-I guess I should have an opinion on this because it's my job and all. But I haven't done anything yet, so I'll write more later.
+My opinions are still very much under construction. I've only just started doing this, after all.
 
 But every researcher and person curious about research should read [Research as Understanding](https://kanjun.me/writing/research-as-understanding) by Kanjun Qiu. And every artificial intelligence researcher should read [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton.
-
-Here is an unsolicited, uninformed opinion instead. I think there's a good chance (my gut says 40 percent) that AI will never be smarter than humans. At general tasks. Sorry for the vague definitions. I can't explain why very well. It's just a feeling. But I did read [a New Yorker article that says what I already believe](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter), which is why I like it.
-
-Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
 ## Academic disposition
 
@@ -38,6 +34,8 @@ So I decided not to apply for PhD programs in physics. But first, I found a lot 
 * Okay, fine, here are some real Yes PhD sources. Who wouldn't want to discover true facts about [doomed neutron stars](https://www.youtube.com/watch?v=x_Akn8fUBeQ), [the timelapse of our universe](https://www.youtube.com/watch?v=uD4izuDMUQA), [how every light in this video is not a star but a galaxy](https://www.youtube.com/watch?v=rOjrImaPh80), [orbital rendezvous](https://www.youtube.com/watch?v=B1R3dTdcpSU), or [black hole star shredders](https://www.youtube.com/watch?v=ubBzcSD8G8k)? Terrifying!
 
 The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195). Disclaimer: I haven't read any Hume. I will eventually read him and more from other philosophers to gain credibility, but I don't think doing so will change my mind.
+
+Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
 ## Cool people
 

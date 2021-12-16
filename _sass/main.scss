@@ -106,6 +106,16 @@ ol {
   padding-left: var(--size_huge);
 }
 
+table,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid var(--theme_color_text);
+  padding: 5px;
+  margin-bottom: var(--size_normal);
+  text-align: left;
+}
+
 a:link,
 a:visited,
 a:hover,

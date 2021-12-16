@@ -13,6 +13,7 @@ There's only two things here because:
 * It really depends! You should read:
   * [Jim Pryor's advice](http://www.jimpryor.net/teaching/guidelines/writing.html) for philosophy.
   * [John Cochrane's advice](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) for economics.
+  * [Dan Luu's writing non-advice](https://danluu.com/writing-non-advice/), which explains why most writing advice is unhelpful.
 
 ## You can write anywhere.
 
