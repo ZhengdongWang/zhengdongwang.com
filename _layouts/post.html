@@ -1,0 +1,14 @@
+---
+layout: main
+---
+
+<div class='container'>
+  <div class='text_box'>
+    <a href='/blog'>All posts</a>
+    <br><br>
+    <h2>{{ page.title }}</h2>
+    {{ page.date | date: '%Y-%m-%d' }}
+    <br><br>
+    {{ content }}
+  </div>
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: page
 title: Home
 ---
 
@@ -16,7 +16,7 @@ title: Home
 
 ## What I'm doing now
 
-* I'm a research engineer at [DeepMind](https://deepmind.com) in London.
+* I'm a research engineer at [DeepMind](https://deepmind.com) in London. My team works on generalization.
 
 ## Writing
 
@@ -24,6 +24,9 @@ title: Home
 * [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).
+* Some more seasonal content. My website isn't sure if it's a website or a blog. ([All posts](blog), [RSS](/feed.xml)) {% for post in site.posts %}
+  * {{ post.date | date: '%Y-%m-%d' }} \| [{{ post.title }}]({{post.url}})
+{% endfor %}
 
 ## Research
 

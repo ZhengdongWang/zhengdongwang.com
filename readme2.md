@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: page
 title: Readme
 permalink: readme # File named readme2 to avoid git conflict.
 ---
