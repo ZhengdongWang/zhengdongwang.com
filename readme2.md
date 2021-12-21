@@ -12,7 +12,14 @@ I thought about writing a paragraph to describe who I am. But it was hard, so I 
 
 My opinions are still very much under construction. I've only just started doing this, after all.
 
-But every researcher and person curious about research should read [Research as Understanding](https://kanjun.me/writing/research-as-understanding) by Kanjun Qiu. And every artificial intelligence researcher should read [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton.
+But every researcher and person curious about research should read,
+
+* [Research as Understanding](https://kanjun.me/writing/research-as-understanding) by Kanjun Qiu
+* [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research) by Laura Deming
+
+And every artificial intelligence researcher should read,
+
+* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton.
 
 ## Academic disposition
 
