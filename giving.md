@@ -1,9 +1,6 @@
 ---
-layout: page
 title: Giving
 ---
-
-# Giving
 
 Tracking my charitable donations.
 

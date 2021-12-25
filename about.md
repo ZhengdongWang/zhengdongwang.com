@@ -1,9 +1,6 @@
 ---
-layout: page
 title: About
 ---
-
-# About
 
 Here are some fun facts about this website:
 

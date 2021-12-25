@@ -1,9 +1,6 @@
 ---
-layout: page
-title: Writing
+title: Writing advice
 ---
-
-# Writing advice
 
 There's only two things here because:
 

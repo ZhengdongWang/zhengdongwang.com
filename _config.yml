@@ -4,3 +4,17 @@ plugins:
   - jekyll-seo-tag
 
 livereload: true
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'page'
+  -
+    scope:
+      path: '_posts'
+    values:
+      layout: 'post'
+
+timezone: Europe/London

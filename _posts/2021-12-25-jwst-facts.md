@@ -1,6 +1,6 @@
 ---
-layout: post
 title: JWST facts
+date: 2021-12-25 22:06:28
 ---
 
 All from [this article](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/).

@@ -1,9 +1,6 @@
 ---
-layout: page
-title: Productivity
+title: Productivity advice
 ---
-
-# Productivity advice
 
 Reading productivity advice is really fun for me. It's a great way to procrastinate. Don't worry about all the work I'm not doing now. I'm improving my system, which is even more important! In fact, with this new system I'll be so much more productive than I was before. I'll easily make up for not working now, right?
 

@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  What I listened to this year
+date: 2021-12-18 09:38:38
 ---
 
 The best albums I discovered this year are,
