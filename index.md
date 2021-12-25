@@ -25,8 +25,7 @@ title: Home
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).
 * Some more seasonal content. My website isn't sure if it's a website or a blog. ([All posts](blog), [RSS](/feed.xml)) {% for post in site.posts %}
-  * {{ post.date | date: '%Y-%m-%d' }} \| [{{ post.title }}]({{post.url}})
-{% endfor %}
+  * {{ post.date | date: '%Y-%m-%d' }} \| [{{ post.title }}]({{post.url}}) {% endfor %}
 
 ## Research
 
