@@ -86,8 +86,8 @@ These two are the best that regularly post. I follow my RSS feed pretty religiou
 
 My favorite movies are:
 
-* [La Grande Vadrouille](https://www.imdb.com/title/tt0060474). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
 * [Knives Out](https://www.imdb.com/title/tt8946378). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
+* [La Grande Vadrouille](https://www.imdb.com/title/tt0060474). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
 
 Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
 

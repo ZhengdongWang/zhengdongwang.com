@@ -3,7 +3,7 @@ title: JWST facts
 date: 2021-12-25 22:06:28
 ---
 
-All from [this article](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/).
+All from [this article](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/). The paragraphs I quoted don't always follow each other in the article; sorry about the confusion.
 
 On Hubble's launch,
 
