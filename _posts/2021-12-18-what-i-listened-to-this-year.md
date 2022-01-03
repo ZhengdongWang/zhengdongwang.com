@@ -1,6 +1,6 @@
 ---
 title:  What I listened to this year
-date: 2021-12-18 09:38:38
+date: 2021-12-18 09:38:00 -07
 ---
 
 The best albums I discovered this year are,
