@@ -7,7 +7,7 @@ date: 2022-01-03 19:09:00
 
 In which my friend Momen and I talk about choices we've made. We are under no illusions about how much you want to listen to us talk.
 
-[Podcast site](https://anchor.fm/complexio-delenda-est) and [Spotify link](https://open.spotify.com/show/7rIzPEbsuvonUXRXdx9Gkp).
+Podcast site on [Apple](https://podcasts.apple.com/us/podcast/complexio-delenda-est/id1603112202), [Anchor](https://anchor.fm/complexio-delenda-est), and [Spotify](https://open.spotify.com/show/7rIzPEbsuvonUXRXdx9Gkp).
 
 In case the episode description doesn't work here's the links again.
 
