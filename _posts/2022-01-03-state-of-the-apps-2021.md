@@ -18,3 +18,5 @@ In case the episode description doesn't work here's the links again.
 [Zhengdong's home screen](/assets/images/sota/2021/zd_home.jpg)
 
 [Zhengdong's today view](/assets/images/sota/2021/zd_today.jpg)
+
+Cover: [The Decline of the Carthaginian Empire, JMW Turner, exhibited 1817.](https://www.tate.org.uk/art/artworks/turner-the-decline-of-the-carthaginian-empire-n00499) Photo © Tate. Released under Creative Commons CC-BY-NC-ND (3.0 Unported).
