@@ -60,7 +60,10 @@ img[alt=image] {
   width: 20%;
   border-radius: 50%;
   border: 2px solid var(--theme_color_text);
+}
 
+img {
+  width: 100%;
 }
 
 /* Titles. */

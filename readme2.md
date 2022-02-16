@@ -11,12 +11,20 @@ My opinions are still very much under construction. I've only just started doing
 
 But every researcher and person curious about research should read,
 
-* [Research as Understanding](https://kanjun.me/writing/research-as-understanding) by Kanjun Qiu
-* [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research) by Laura Deming
+* [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
+* [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 
 And every artificial intelligence researcher should read,
 
-* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) by Rich Sutton.
+* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Rich Sutton.
+
+Here are some more niche things that ended up on my own path of learning that I really liked, but I'm in no position to recommend to _everyone_. Especially since they're already well-known, though I've only read them recently,
+
+* [Steps Toward Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf), Marvin Minsky, 1961
+* [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell, 2021
+* [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264), Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, Marc G. Bellemare, 2021
+* [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus 1965
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Richard Sutton, Doina Precup, Satinder Singh, 1999
 
 ## Academic disposition
 
