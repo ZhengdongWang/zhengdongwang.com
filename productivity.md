@@ -51,6 +51,7 @@ Okay now that you know that time for what you came for.
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
+{% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006?lang=en-GB){% endcapture %}
 {% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
@@ -139,6 +140,14 @@ Read the last two essays in full. It's worth it.
 > Find vivid examples of success in the domains you care about. If you want to become a great scientist, try to find ways to spend time with good (or, ideally, great) scientists in person. Watch YouTube videos of interviews. Follow some on Twitter.
 
 For example, [Timothy Gowers solving a math problem in real time](https://www.youtube.com/watch?v=NmEVwJ_lJ1A).
+
+Finally,
+
+{{ lee }}
+
+> Before I learned the art, a punch was just a punch, and a kick, just a kick. After I learned the art, a punch was no longer a punch, a kick, no longer a kick. Now that I understand the art, a punch is just a punch and a kick is just a kick.
+
+> The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum.
 
 ## Fast fast fast cut cut cut
 
