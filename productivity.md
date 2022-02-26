@@ -37,6 +37,7 @@ Okay now that you know that time for what you came for.
 {% capture altman_successful %}Sam Altman, [How To Be Successful:](https://blog.samaltman.com/how-to-be-successful){% endcapture %}
 {% capture arkani-hamed1 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part I:](https://www.youtube.com/watch?v=h6_iJRY6nU4){% endcapture %}
 {% capture arkani-hamed2 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part II:](https://www.youtube.com/watch?v=OzSDZ_EPiXk){% endcapture %}
+{% capture arkani-hamed3 %}Nima Arkani-Hamed, [The Morality of Fundamental Physics:](https://www.youtube.com/watch?v=5aAMJNVmdoY){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
@@ -47,6 +48,7 @@ Okay now that you know that time for what you came for.
 {% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
+{% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
@@ -246,6 +248,18 @@ Yeah, I know this just sounds like "be better." Sorry.
 > Interviewer: Cursed because what? Because you feel you'd like 10 times more or-
 
 > Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life...  But it means that the aspect of this business, which is just flat-out hard work, is very important to me. It's very, very important, and it's the one thing that I feel is really in my control. If I didn't do that, I would sort of kick myself forever, for not having actually given everything I have to try to actually do the things which are really important. 
+
+And some of his advice for working hard,
+
+{{ arkani-hamed3 }}
+
+> Einstein and Grothendieck and these people who managed to work solid on a problem for eight years, trust me, you don't get up in the morning able to do that. The way you're able to work on a problem for eight years is you first manage to work on a problem for two months, three months, four months, a year. You have to exercise these muscles. You have to get good at it. You have to bite off as much as you can chew. And it's a hard balance, but you will know. You will know if you're honest with yourself--if what you're doing is just really easy and it's not challenging you at all, or if what you're doing is so hard that it's also not challenging you at all because you're not doing it. You have to find the perfect intermediate stage where you're in pain all the time. You're in pain all the time but it's a good kind of pain, because you're making a little bit of progress.
+
+{{ einstein }}
+
+> In light of knowledge attained, the happy achievement seems almost a matter of course, and any intelligent student can grasp it without too much trouble. But the years of anxious searching in the dark, with their intense longing, their alterations of confidence and exhaustion and the final emergence into the light--only those who have experienced it can understand it.
+
+Einstein worked on relativity for eight years. Imagine the patience! I'd get concerned working on a project if nothing happened for six months.
 
 ## But also work less hard
 

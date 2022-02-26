@@ -9,10 +9,12 @@ I thought about writing a paragraph to describe who I am. But it was hard, so I 
 
 My opinions are still very much under construction. I've only just started doing this, after all.
 
-But every researcher and person curious about research should read,
+But every researcher and person curious about research should read (in order of increasing commitment to consume),
 
-* [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
+* [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
+* [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed (the subject is physics, but this moral code applies to all discovery of Truth)
+* [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
 
 And every artificial intelligence researcher should read,
 
