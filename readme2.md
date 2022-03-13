@@ -55,22 +55,19 @@ Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s
 
 I'm inspired by:
 
-* [Michael Nielsen](http://michaelnielsen.org)
 * [Riva Melissa-Tez](https://twitter.com/rivatez)
 * [Sean "Day\[9\]" Plott](https://day9.tv/)
-* [Dan Wang](https://danwang.co)
-* [Sam Altman](https://blog.samaltman.com)
 * [Agnes Callard](https://twitter.com/AgnesCallard)
+* [Michael Nielsen](http://michaelnielsen.org)
+* [Dan Wang](https://danwang.co)
 * Others I can't think of right now.
 
 Some of my friends have websites too:
 
-* [Quinn](https://www.qmc4.com)
+* [Jim](https://jimzenn.com)
 * [Rebecca](https://rebeccagoldberg.info)
 * [Zach](https://zacharystanik.myportfolio.com)
 * [Amanda](https://huntressie.wordpress.com)
-* [Sunnie](https://sunnie-liu.myportfolio.com/work)
-* [Jim](https://jimzenn.com)
 * [philoslothical](https://philoslothical.wixsite.com/philoslothical)
 
 ## Maximum fun
