@@ -29,7 +29,7 @@ So how should you react? You can try to:
 
 Okay now that you know that time for what you came for.
 
-**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life.
+**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life. (But for something wholly different, read [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336))
 
 {% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 {% capture altman_email %}Sam Altman, [on answering email:](https://conversationswithtyler.com/episodes/sam-altman){% endcapture %}
