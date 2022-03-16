@@ -57,6 +57,7 @@ Okay now that you know that time for what you came for.
 {% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
+{% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
@@ -234,6 +235,16 @@ Yeah, I know this just sounds like "be better." Sorry.
 {{ collison }}
 
 > To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!
+
+{{ murakami }}
+
+> Pain is inevitable. Suffering is optional. Say you’re running and you think, ‘Man, this hurts, I can’t take it anymore. The ‘hurt’ part is an unavoidable reality, but whether or not you can stand anymore is up to the runner himself.
+
+How Murakami convinced himself to put in the work,
+
+{{ murakami }}
+
+> I’m not a human. I’m a piece of machinery. I don’t need to feel a thing. Just forge on ahead.
 
 {{ weinberg }}
 
