@@ -59,6 +59,7 @@ Okay now that you know that time for what you came for.
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
 
@@ -102,6 +103,13 @@ Okay now that you know that time for what you came for.
 
 > And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
 
+In some sense, the following is also about direction, from world and Olympic record holder, world and Olympic speed skating champion,
+
+{{ van_der_poel }}
+
+> But as soon as the Specific season started I changed focus to doing laps at competition speed on the ice. I now completely subsided from the threshold training in order to free up energy to spend on skating laps on the ice. I never skated slower than competition speed due to two reasons. Firstly (1) I consider technique to be altered to a specific speed. So as I was skating at a slower speed I contaminated my competition speed technique. Secondly (2) I didn’t want to wear out, or tire, my legs by skating slowly as the number of competition speed-laps I could perform weekly would decrease if I wasted my
+energy by also going slow on the ice.
+
 ## There's nothing special about being good
 
 {{ chambliss }}
@@ -121,6 +129,10 @@ Okay now that you know that time for what you came for.
 > But it's better for us not to know the kinds of sacrifices the professional-grade athlete has made to get so very good at one particular thing. Oh, we'll invoke lush clichés about the lonely heroism of Olympic athletes, the pain and analgesia of football, the early rising and hours of practice and restricted diets, the preflight celibacy, et cetera. But the actual facts of the sacrifices repel us when we see them: basketball geniuses who cannot read, sprinters who dope themselves, defensive tackles who shoot up with bovine hormones until they collapse or explode. We prefer not to consider closely the shockingly vapid and primitive comments uttered by athletes in postcontest interviews or to consider what impoverishments in one's mental life would allow people actually to think the way great athletes seem to think.  Note the way "up close and personal" profiles of professional athletes strain so hard to find evidence of a rounded human life–outside interests and activities, values beyond the sport. We ignore what's obvious, that most of this straining is farce. It's farce because the realities of top-level athletics today require an early and total commitment to one area of excellence. An ascetic focus. A subsumption of almost all other features of human life to one chosen talent and pursuit. A consent to live in a world that, like a child's world, is very small.
 
 Read the last two essays in full. It's worth it.
+
+{{ van_der_poel }}
+
+> True self confidence comes from experience. My very race specific ice sessions supplied me with the facts of my capacity and the trust in myself. I wasn’t mentaly strong as a kid, I hated to compete ever since I started speed skating, I truly hated it. It is still a little anxiety provoking for me, I think it always will be when I test myself in an activity that I really care about. But today it’s a walk in the park compared to when I was a kid. This development was mainly acquired through continuous voluntary confrontation with the challenge (read that sentence again and emphasis voluntary). It was first when I understood that, or felt like, I volunteered, that I was able to compete with a free mind.
 
 {{ ava_routines }}
 
@@ -246,6 +258,10 @@ How Murakami convinced himself to put in the work,
 
 > I’m not a human. I’m a piece of machinery. I don’t need to feel a thing. Just forge on ahead.
 
+{{ van_der_poel }}
+
+> Instead the main idea of my training program was that you will become good at whatever it is that you train. The idea was that whoever skated the most laps of 30,0 during the last three months prior to the competition would win the 10k.
+
 {{ weinberg }}
 
 > Another lesson to be learned, to continue using my oceanographic metaphor, is that while you are swimming and not sinking you should aim for rough water. When I was teaching at the Massachusetts Institute of Technology in the late 1960s, a student told me that he wanted to go into general relativity rather than the area I was working on, elementary particle physics, because the principles of the former were well known, while the latter seemed like a mess to him. It struck me that he had just given a perfectly good reason for doing the opposite. Particle physics was an area where creative work could still be done. It really was a mess in the 1960s, but since that time the work of many theoretical and experimental physicists has been able to sort it out, and put everything (well, almost everything) together in a beautiful theory known as the standard model. My advice is to go for the messes — that's where the action is.
@@ -291,6 +307,10 @@ Einstein worked on relativity for eight years. Imagine the patience! I'd get con
 {{ deming }}
 
 > Have fun with your friends. Go to the beach together at midnight, light a bonfire and talk about ideas. Camp and hike together. Share life stories. Bake cookies and watch movies in your living room under a fort like the ones you constructed as a kid. Build robots together, do chemistry experiments at home. Living with a great group can be truly exceptional.
+
+{{ van_der_poel }}
+
+> Creating meaning and value in life outside of the speed skating oval helped me get through tough training periods. When the training wasn’t going great, perhaps something else in life did and that cheered me up. Later on, when I became more successful and there was a media hype around me, the normal part of my life helped me keep myself grounded. I knew who I was and I was not just a speed skater. Today I’m very happy for all the friends I’ve made on all of those two rest days. Most of these friends are not speed skaters and to me they shed light upon my life from a new perspective. For that I am very thankful. I believe that it was the value I created outside of the sport, and not the success within it, that made it worthwhile to live in this manner; to face the horrific fact that only one of us will win the competition and all the others will lose; that injury or sickness can sabotage four years of work. It was not my success that justified my sacrifices, it was my friends, and I owed it to them to try to live up to my full potential.
 
 {{ adriene }}
 
