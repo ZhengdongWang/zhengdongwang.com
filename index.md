@@ -20,6 +20,7 @@ title: Home
 ## Writing
 
 * If you only read one thing, read this [readme](readme). It's like documentation, but about me!
+<!-- * [Overloaded](overloaded) -->
 * [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).

@@ -5,12 +5,12 @@ title: Writing advice
 There's only two things here because:
 
 * I'm not that good at writing.
-* I really like these pieces of advice, and I didn't want to distract from them.
+* I really like these pieces of advice, and I don't want to distract from them.
 * I don't know how to generalize most writing advice people give me. When I get a comment like "make your argument clearer," I can only describe specifically how I'm going to do it for that argument only.
 * It really depends! You should read:
   * [Jim Pryor's advice](http://www.jimpryor.net/teaching/guidelines/writing.html) for philosophy.
   * [John Cochrane's advice](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) for economics.
-  * [Dan Luu's writing non-advice](https://danluu.com/writing-non-advice/), which explains why most writing advice is unhelpful.
+  * [Dan Luu's writing non-advice](https://danluu.com/writing-non-advice/), or why most writing advice is unhelpful.
 
 ## You can write anywhere.
 

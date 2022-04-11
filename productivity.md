@@ -4,32 +4,37 @@ title: Productivity advice
 
 Reading productivity advice is really fun for me. It's a great way to procrastinate. Don't worry about all the work I'm not doing now. I'm improving my system, which is even more important! In fact, with this new system I'll be so much more productive than I was before. I'll easily make up for not working now, right?
 
-At the same time I take productivity advice too seriously. If you're actively looking for productivity essays to read (like me), you might be like me. This section is for you. Some of the worst I've felt about myself was guilt over not being more productive after reading other people's advice. Here are these Really Smart and Successful People who are Productive Forces of Nature. They have it all figured out, and they're even feeding me the steps! Why can't I just "be better" like them?
+At the same time I take productivity advice too seriously. If you're actively looking for productivity essays to read (like me), you might be like me. This section is for you. Some of the worst I've felt about myself was guilt over not being more productive after reading other people's advice. Here are these Really Smart and Successful People who are Productive Forces of Nature. They have it all figured out, and they're even feeding me the steps. Why can I not simply Be Better.
 
-I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty easily. Productivity advice is probably more legit. But the scam is also better concealed. Nobody ever becomes 10X or even 2X more productive after reading a self-help book or starting the Pomodoro Technique.
+I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty easily. Productivity advice is a better concealed scam. Nobody ever becomes 10X or even 2X more productive after reading a self-help book or starting the Pomodoro Technique.
 
 Honestly! Here are two hopefully clarifying reasons why, with very original names from me:
 
-1. The **No Free Lunch Theorem** of Productivity Advice: You are _no more productive_ after implementing a productivity trick than you were before. Why?
-  * The willpower to adhere to your new productivity trick is the same willpower to stop procrastinating.
-  * You will optimize to be as lazy as possible within the constraints of your new productivity trick.
-  * You will exploit the unique weaknesses of your new productivity trick.
+1. No Free Lunch: You are no more productive after implementing a productivity trick than you were before.
+  * You're using the same willpower to adhere to your new productivity trick as you were to stop procrastinating. It's the same crappy willpower.
+  * You will optimize to be as lazy as possible within the constraints of your new trick.
+  * You will exploit the unique weaknesses of your new trick.
   * You will feel a false sense of productivity having implemented your new trick.
-2. The **Efficient Market Hypothesis** of Productivity Advice: If there exists a productivity trick that you can _feasibly_ implement and actually made you 2X more productive, you've already implemented it.
+2. Efficient Markets: If there existed a productivity trick that you could feasibly implement and actually made you 2X more productive, you've already implemented it.
   * I've met people who are 2X more productive than other people. But have you met anyone who suddenly forced themselves to be 2X more productive? Not me.
 
-Alexey Guzey gave examples when he said [every productivity system stops working eventually and there’s nothing you can do about it](https://guzey.com/productivity/#every-productivity-system-stops-working-eventually-and-theres-nothing-you-can-do-about-it). Another example of the holy grail not existing is in [how famous creative people allegedly spent their time](https://podio.com/site/creative-routines). All kinds of schemes seem to work.
+Oh you want some "empirical evidence" ok:
 
-So how should you react? You can try to:
+* Alexey Guzey has some good examples of [every productivity system stops working eventually and there’s nothing you can do about it](https://guzey.com/productivity/#every-productivity-system-stops-working-eventually-and-theres-nothing-you-can-do-about-it).
+* Another example of the holy grail not existing is in [how famous creative people allegedly spent their time](https://podio.com/site/creative-routines). Notice how literally anything will work.
 
-* Realize **productivity advice is just for fun**. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
-* **Stop caring about productivity**. Work is but a small sliver of the full range of human experience! Go outside.
-* **Be nice to yourself**. There's nothing wrong with you! Everybody sucks at not procrastinating. You shouldn't feel bad that your life isn't as perfect as social media makes other peoples' lives seem. Same idea here.
-  * In the words of the great Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg).
+So what to do. Well I try to:
+
+* Realize productivity advice is just for fun. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
+* Stop caring about productivity. Work is but a narrow sliver of the full range of human experience. Go outside.
+* Be nice to yourself. Everybody sucks at not procrastinating.
+  * Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg).
 
 Okay now that you know that time for what you came for.
 
-**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. You should read the original essays to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life. (But for something wholly different, read [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336))
+**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. I grouped the things people into what I think is the same about them. You should read the original essays just to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life.
+
+(By the way, the counterexample to "everybody is saying the same thing is [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336).)
 
 {% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 {% capture alexander %}Christopher Alexander, [in the foreword for Patterns of Software:](https://www.goodreads.com/en/book/show/685486){% endcapture %}
@@ -92,13 +97,11 @@ Okay now that you know that time for what you came for.
 
 {{ glass }}
 
-> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.
+> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
 
 {{ arkani-hamed2 }}
 
-> But let me say what this sort of qualitative strategy is... you need some concrete handle for how to proceed. That is the most difficult part of this whole business. We know what the big problems are, we know there are philosophies that guide us. All those things are there. The most difficult part is not that. Everyone has that. Everyone knows that.
-
-> The most different part is to find the little chink in the armor of the problem that's going to allow you to go in through the side and somehow start making some progress on it... we've discovered that we have to be led to the answer by the answer. We can't just flat-out jump to the final formulation. The progress is incremental in the sense that there is truth sitting there. And the wonderful thing about truth is that it's a great attractor. All you have to do is to get somewhere in its vicinity, and also not fight it.
+> The wonderful thing about truth is that it's a great attractor. All you have to do is to get somewhere in its vicinity, and also not fight it.
 
 > If more people realized this, I think we'd get many more people interested in doing physics, in actually doing it, because having the truth out there as a friend and something that you're sort of looking for and trying to head towards, is a tremendous leveler of the playing field when it comes to talents, inclination, are you strong mathematically, not strong mathematically. Having nature as a guide and a friend makes a humongous difference, because people of vastly different levels of talent and, of course you have to be very dedicated, but still, I mean, you can have very, very, you can be fast worker, slow worker. All of these things sort of pale to being somewhere in the vicinity of the right answer.
 
@@ -119,13 +122,15 @@ In some sense, the following is also about direction, from world and Olympic rec
 > But as soon as the Specific season started I changed focus to doing laps at competition speed on the ice. I now completely subsided from the threshold training in order to free up energy to spend on skating laps on the ice. I never skated slower than competition speed due to two reasons. Firstly (1) I consider technique to be altered to a specific speed. So as I was skating at a slower speed I contaminated my competition speed technique. Secondly (2) I didn’t want to wear out, or tire, my legs by skating slowly as the number of competition speed-laps I could perform weekly would decrease if I wasted my
 energy by also going slow on the ice.
 
-## There's nothing special about being good
+## There's nothing special about being good (rather, work really hard)
+
+Yeah, I know this just sounds like "be better." Sorry. But this is a big section, it really is what people say.
 
 {{ chambliss }}
 
 > The mundanity of excellence is typically unrecognized. I think the reason is fairly simple. Usually we see great athletes only after they have become great-after the years of learning the new methods, gaining the habits of competitiveness and consistency, after becoming comfortable in their world. They have long since perfected the myriad of techniques that together constitute excellence. Ignorant of all of the specific steps that have led to the performance and to the confidence, we think that somehow excellence sprang fullgrown from this person, and we say he or she "has talent" or "is gifted." Even when seen close up, the mundanity of excellence is often not believed:
 
->  Every week at the Mission Viejo training pool, where the National Champion Nadadores team practiced, coaches from around the world would be on the deck visiting, watching as the team did their workouts, swimming back and forth for hours. The visiting coaches would be excited at first, just to be here; then, soon-within an hour or so, usually-they grew bored, walking back and forth looking at the deck, glancing around at the hills around the town, reading the bulletin boards, glancing down at their watches, wondering, after the long flight out to California, when something dramatic was going to happen. "They all have to come to Mecca, and see what we do," coach Mark Schubert said. "They think we have some big secret." (Field notes)
+>  Every week at the Mission Viejo training pool, where the National Champion Nadadores team practiced, coaches from around the world would be on the deck visiting, watching as the team did their workouts, swimming back and forth for hours. The visiting coaches would be excited at first, just to be here; then, soon-within an hour or so, usually-they grew bored, walking back and forth looking at the deck, glancing around at the hills around the town, reading the bulletin boards, glancing down at their watches, wondering, after the long flight out to California, when something dramatic was going to happen. "They all have to come to Mecca, and see what we do," coach Mark Schubert said. "They think we have some big secret."
 
 >  But of course there is no secret; there is only the doing of all those little things, each one done correctly, time and again, until excellence in every detail becomes a firmly ingrained habit, an ordinary part of one's everyday life.
 
@@ -141,7 +146,17 @@ Read the last two essays in full. It's worth it.
 
 {{ van_der_poel }}
 
-> True self confidence comes from experience. My very race specific ice sessions supplied me with the facts of my capacity and the trust in myself. I wasn’t mentaly strong as a kid, I hated to compete ever since I started speed skating, I truly hated it. It is still a little anxiety provoking for me, I think it always will be when I test myself in an activity that I really care about. But today it’s a walk in the park compared to when I was a kid. This development was mainly acquired through continuous voluntary confrontation with the challenge (read that sentence again and emphasis voluntary). It was first when I understood that, or felt like, I volunteered, that I was able to compete with a free mind.
+> Instead the main idea of my training program was that you will become good at whatever it is that you train. The idea was that whoever skated the most laps of 30,0 during the last three months prior to the competition would win the 10k.
+
+And,
+
+> True self confidence comes from experience. My very race specific ice sessions supplied me with the facts of my capacity and the trust in myself. I wasn’t mentaly strong as a kid, I hated to compete ever since I started speed skating, I truly hated it. It is still a little anxiety provoking for me, I think it always will be when I test myself in an activity that I really care about. But today it’s a walk in the park compared to when I was a kid. This development was mainly acquired through continuous voluntary confrontation with the challenge (read that sentence again and emphasize voluntary). It was first when I understood that, or felt like, I volunteered, that I was able to compete with a free mind.
+
+{{ lee }}
+
+> Before I learned the art, a punch was just a punch, and a kick, just a kick. After I learned the art, a punch was no longer a punch, a kick, no longer a kick. Now that I understand the art, a punch is just a punch and a kick is just a kick.
+
+> The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum.
 
 {{ ava_routines }}
 
@@ -155,75 +170,9 @@ Read the last two essays in full. It's worth it.
 
 {{ luu_95 }}
 
-> ...my belief is that it's easier to become relatively good at real life activities relative to games or sports because there's so little delibrate practice put into most real life activities...
+> My belief is that it's easier to become relatively good at real life activities relative to games or sports because there's so little delibrate practice put into most real life activities...
 
 > One thing to note here is that it's important to actually track what you're doing and not just guess at what you're doing. When I've recorded what people do and compare it to what they think they're doing, these are often quite different.
-
-{{ collison }}
-
-> Find vivid examples of success in the domains you care about. If you want to become a great scientist, try to find ways to spend time with good (or, ideally, great) scientists in person. Watch YouTube videos of interviews. Follow some on Twitter.
-
-For example, [Timothy Gowers solving a math problem in real time](https://www.youtube.com/watch?v=NmEVwJ_lJ1A).
-
-Finally,
-
-{{ lee }}
-
-> Before I learned the art, a punch was just a punch, and a kick, just a kick. After I learned the art, a punch was no longer a punch, a kick, no longer a kick. Now that I understand the art, a punch is just a punch and a kick is just a kick.
-
-> The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum.
-
-## Fast fast fast cut cut cut
-
-{{ kuhn }}
-
-> There’s an obvious way in which moving faster is important: if you’re 10% more productive, you will finish your work in 10% less time, so you can do 10% more work total. But I don’t think that’s the main reason that speed is important...
-
-> It’s worth pointing out at this point that all of the quotes above aren’t just about churning out work—they’re about processing information more quickly. The faster you process information, the faster you can incorporate the result into what you do next...
-
-> That means that moving quickly is an advantage that compounds. Being twice as fast doesn’t just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
-
-{{ ava_time }}
-
-> I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
-
-{{ altman_email }}
-
-> ...years ago I wrote a little program to look at this, like how quickly our best founders---the founders that run billion-plus companies---answer my emails versus our bad founders. I don’t remember the exact data, but it was mind-blowingly different. It was a difference of minutes versus days on average response times.
-
-{{ altman_successful }}
-
-> I have yet to meet a slow-moving person who is very successful.
-
-{{ mckenzie }}
-
-> The returns to pushing your cadence to faster are _everywhere_ and they _compound continuously_, for years. Don’t send the email tomorrow. Don’t default to scheduling the meeting for next week. Don’t delay a worthy sprint until after the next quarterly planning exercise. Design control and decisionmaking structures to bias heavily in favor of preserving operating cadence...
-
-> A _stupendous_ portion of that advantage is just consistently choosing to get more done. That sounds vacuous but hasn’t been in my experience. I have seen truly silly improvements occasioned by someone just consistently asking in meetings “Could we do that faster? What is the minimum increment required to ship? Could that be done faster?” It’s the Charge More of management strategy; the upside is so dramatic, the cost so low, and the hit rate so high that you should just invoke it ritualistically.
-
-{{ graham }}
-
-> If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
-
-> The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
-
-{{ luu_productivity }}
-
-> There are "phase changes" as you cross certain thresholds (details depend on the problem to some extent) where your entire way of working changes... There's a lot of things I could in theory do at any speed but in practice cannot, because as iteration time increases it first becomes so frustrating that I can't do it for long and eventually it takes so long that it literally drops out of my short-term memory, so I need to keep notes or otherwise organize it or I can't do it at all.
-
-> Certainly if I can do an experiment in an interactive UI by dragging on a slider and see the result in a fraction of a second, at that point it's very "no filter", if you want to try something you just do it.
-
-> Once you're at iteration times in the low seconds (say a compile-link cycle with a statically compiled lang) you don't just try stuff anymore, you also spend time thinking about whether it's gonna tell you anything because it takes long enough that you'd rather not waste a run.
-
-> Once you get into several-minute or multi-hour iteration times there's a lot of planning to not waste runs, and context switching because you do other stuff while you wait, and note-taking/bookkeeping; also at this level mistakes are both more expensive (because a wasted run wastes more time) and more common (because your attention is so divided).
-
-> As you scale that up even more you might now take significant resources for a noticeable amount of time and need to get that approved and budgeted, which takes its own meetings etc.
-
-Also, an aphorism I learned from college debate---"if you're writing, you're losing." If you have to write out your rebuttal, if you can't respond off the top of your head, you don't know your matter well enough. A sign of a bigger problem!
-
-## Work really hard
-
-Yeah, I know this just sounds like "be better." Sorry.
 
 {{ nielsen }}
 
@@ -241,7 +190,7 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 {{ deming }}
 
-> Action comes before motivation. Learn to get work done even if you don’t feel like it at first. Find which actions lead to the flywheel of effects (positive reinforcement from others, successful completion of tasks you enjoy) that will motivate you to pursue a certain path. Carefully design systems for yourself. You may feel extreme motivation after watching the Social Network movie, but in the 11th hour get bored and tired of chasing down some abstract programming bug - you must ensure that, if there is an important goal you’d like to achieve, the clear-eyed version of yourself sets up a system to ensure that a later, less motivated of yourself will get it done.
+> Action comes before motivation. Learn to get work done even if you don’t feel like it at first. Find which actions lead to the flywheel of effects (positive reinforcement from others, successful completion of tasks you enjoy) that will motivate you to pursue a certain path. Carefully design systems for yourself. You may feel extreme motivation after watching the Social Network movie, but in the 11th hour get bored and tired of chasing down some abstract programming bug---you must ensure that, if there is an important goal you’d like to achieve, the clear-eyed version of yourself sets up a system to ensure that a later, less motivated of yourself will get it done.
 
 {{ altman_successful }}
 
@@ -253,23 +202,13 @@ Yeah, I know this just sounds like "be better." Sorry.
 
 > Those who had been praised for their effort significantly improved on their first score—by about 30 percent. Those who’d been told they were smart did worse than they had at the very beginning—by about 20 percent.
 
-{{ collison }}
-
-> To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!
-
 {{ murakami }}
 
 > Pain is inevitable. Suffering is optional. Say you’re running and you think, ‘Man, this hurts, I can’t take it anymore. The ‘hurt’ part is an unavoidable reality, but whether or not you can stand anymore is up to the runner himself.
 
 How Murakami convinced himself to put in the work,
 
-{{ murakami }}
-
 > I’m not a human. I’m a piece of machinery. I don’t need to feel a thing. Just forge on ahead.
-
-{{ van_der_poel }}
-
-> Instead the main idea of my training program was that you will become good at whatever it is that you train. The idea was that whoever skated the most laps of 30,0 during the last three months prior to the competition would win the 10k.
 
 {{ weinberg }}
 
@@ -277,27 +216,85 @@ How Murakami convinced himself to put in the work,
 
 {{ arkani-hamed1 }}
 
-> Interviewer: I've had this question that was rattling around in my head for some time, which is... why haven't you written a popular [science] book?
+> Interviewer: Why haven't you written a popular [science] book?
 
-> Arkani-Hamed: Part of the reason is that, well, like most physicists, I really love talking about physics. I definitely enjoy giving public talks. I enjoy interacting with non-physicists about what's going on in the subject... but I've decided fairly strongly that I'm not going to do this for a very long time... I think our real job is to push physics forward, and to try to learn something new about the way nature works, and that's a very tough business. I mean, it sounds obvious, but it really is a very tough business... I mean, I think it's conceivable, it's conceivable that I might be able to make some really important impact, and push physics forward. It's not obvious. It's not completely obvious. And especially in a case like that, I think the only thing that's in our control, the only thing that is in my control, is single-minded, concentrated focus on the most important problem, the hardest problem, the most important problem that you have any hope of making some small progress on at any time, and the ability to concentrate and focus like that is absolutely crucial. My actual job is to try to figure out something about the way the world works, and I've been both blessed and cursed I think with just the right amount of talent, ability, motivation, to have a chance of doing it.
+> Arkani-Hamed: I think our real job is to push physics forward, and to try to learn something new about the way nature works, and that's a very tough business. It sounds obvious, but it really is a very tough business... I think it's conceivable that I might be able to make some really important impact, and push physics forward. It's not obvious. It's not completely obvious. And especially in a case like that, I think the only thing that's in our control, the only thing that is in my control, is single-minded, concentrated focus on the most important problem, the hardest problem, the most important problem that you have any hope of making some small progress on at any time, and the ability to concentrate and focus like that is absolutely crucial. My actual job is to try to figure out something about the way the world works, and I've been both blessed and cursed I think with just the right amount of talent, ability, motivation, to have a chance of doing it.
 
 > Interviewer: Cursed because what? Because you feel you'd like 10 times more or-
 
-> Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life...  But it means that the aspect of this business, which is just flat-out hard work, is very important to me. It's very, very important, and it's the one thing that I feel is really in my control. If I didn't do that, I would sort of kick myself forever, for not having actually given everything I have to try to actually do the things which are really important. 
+> Arkani-Hamed: Well, I mean 10 times more would be fantastic. 10 times less it would be fairly clear that I couldn't do it, and it would also lead to a very different life... But it means that the aspect of this business, which is just flat-out hard work, is very important to me. It's very, very important, and it's the one thing that I feel is really in my control. If I didn't do that, I would sort of kick myself forever, for not having actually given everything I have to try to actually do the things which are really important. 
 
 And some of his advice for working hard,
 
 {{ arkani-hamed3 }}
 
-> Einstein and Grothendieck and these people who managed to work solid on a problem for eight years, trust me, you don't get up in the morning able to do that. The way you're able to work on a problem for eight years is you first manage to work on a problem for two months, three months, four months, a year. You have to exercise these muscles. You have to get good at it. You have to bite off as much as you can chew. And it's a hard balance, but you will know. You will know if you're honest with yourself--if what you're doing is just really easy and it's not challenging you at all, or if what you're doing is so hard that it's also not challenging you at all because you're not doing it. You have to find the perfect intermediate stage where you're in pain all the time. You're in pain all the time but it's a good kind of pain, because you're making a little bit of progress.
+> Einstein and Grothendieck and these people who managed to work solid on a problem for eight years. Trust me, you don't get up in the morning able to do that. The way you're able to work on a problem for eight years is you first manage to work on a problem for two months, three months, four months, a year. You have to exercise these muscles. You have to get good at it. You have to bite off as much as you can chew. And it's a hard balance, but you will know. You will know if you're honest with yourself---if what you're doing is just really easy and it's not challenging you at all, or if what you're doing is so hard that it's also not challenging you at all because you're not doing it. You have to find the perfect intermediate stage where you're in pain all the time. You're in pain all the time but it's a good kind of pain, because you're making a little bit of progress.
 
 {{ einstein }}
 
-> In light of knowledge attained, the happy achievement seems almost a matter of course, and any intelligent student can grasp it without too much trouble. But the years of anxious searching in the dark, with their intense longing, their alterations of confidence and exhaustion and the final emergence into the light--only those who have experienced it can understand it.
+> In light of knowledge attained, the happy achievement seems almost a matter of course, and any intelligent student can grasp it without too much trouble. But the years of anxious searching in the dark, with their intense longing, their alterations of confidence and exhaustion and the final emergence into the light---only those who have experienced it can understand it.
 
 Einstein worked on relativity for eight years. Imagine the patience! I'd get concerned working on a project if nothing happened for six months.
 
-## But also work less hard
+{{ collison }}
+
+> To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!
+
+And,
+
+> Find vivid examples of success in the domains you care about. If you want to become a great scientist, try to find ways to spend time with good (or, ideally, great) scientists in person. Watch YouTube videos of interviews. Follow some on Twitter.
+
+For example, [Timothy Gowers solving a math problem in real time](https://www.youtube.com/watch?v=NmEVwJ_lJ1A).
+
+## Fast fast fast cut cut cut
+
+{{ kuhn }}
+
+> There’s an obvious way in which moving faster is important: if you’re 10% more productive, you will finish your work in 10% less time, so you can do 10% more work total. But I don’t think that’s the main reason that speed is important...
+
+> It’s worth pointing out at this point that all of the quotes above aren’t just about churning out work—they’re about processing information more quickly. The faster you process information, the faster you can incorporate the result into what you do next...
+
+> That means that moving quickly is an advantage that compounds. Being twice as fast doesn’t just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
+
+{{ ava_time }}
+
+> I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
+
+{{ altman_email }}
+
+> Years ago I wrote a little program to look at this, like how quickly our best founders---the founders that run billion-plus companies---answer my emails versus our bad founders. I don’t remember the exact data, but it was mind-blowingly different. It was a difference of minutes versus days on average response times.
+
+{{ altman_successful }}
+
+> I have yet to meet a slow-moving person who is very successful.
+
+{{ mckenzie }}
+
+> The returns to pushing your cadence to faster are _everywhere_ and they _compound continuously_, for years. Don’t send the email tomorrow. Don’t default to scheduling the meeting for next week. Don’t delay a worthy sprint until after the next quarterly planning exercise. Design control and decisionmaking structures to bias heavily in favor of preserving operating cadence...
+
+> A _stupendous_ portion of that advantage is just consistently choosing to get more done. That sounds vacuous but hasn’t been in my experience. I have seen truly silly improvements occasioned by someone just consistently asking in meetings “Could we do that faster? What is the minimum increment required to ship? Could that be done faster?” It’s the Charge More of management strategy; the upside is so dramatic, the cost so low, and the hit rate so high that you should just invoke it ritualistically.
+
+{{ luu_productivity }}
+
+> There are "phase changes" as you cross certain thresholds (details depend on the problem to some extent) where your entire way of working changes... There's a lot of things I could in theory do at any speed but in practice cannot, because as iteration time increases it first becomes so frustrating that I can't do it for long and eventually it takes so long that it literally drops out of my short-term memory, so I need to keep notes or otherwise organize it or I can't do it at all.
+
+> Certainly if I can do an experiment in an interactive UI by dragging on a slider and see the result in a fraction of a second, at that point it's very "no filter", if you want to try something you just do it.
+
+> Once you're at iteration times in the low seconds (say a compile-link cycle with a statically compiled lang) you don't just try stuff anymore, you also spend time thinking about whether it's gonna tell you anything because it takes long enough that you'd rather not waste a run.
+
+> Once you get into several-minute or multi-hour iteration times there's a lot of planning to not waste runs, and context switching because you do other stuff while you wait, and note-taking/bookkeeping; also at this level mistakes are both more expensive (because a wasted run wastes more time) and more common (because your attention is so divided).
+
+> As you scale that up even more you might now take significant resources for a noticeable amount of time and need to get that approved and budgeted, which takes its own meetings etc.
+
+{{ graham }}
+
+> If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
+
+> The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
+
+Also, an aphorism I learned from college debate---"if you're writing, you're losing."
+
+## But also work less hard and slow down
 
 {{ altman_productivity }}
 
@@ -309,9 +306,9 @@ Einstein worked on relativity for eight years. Imagine the patience! I'd get con
 
 {{ burkeman }}
 
-> ...you almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day...
+> You almost certainly can't consistently do the kind of work that demands serious mental focus for more than about three or four hours a day...
 
-> The real lesson – or one of them – is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
+> The real lesson---or one of them---is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
 
 {{ deming }}
 
