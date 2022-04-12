@@ -318,13 +318,7 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 > After a few months, I noticed I was getting less enthusiastic about this bike ride. I think I had mentally linked it with being completely exhausted.
 
-> So one day I decided I would do the same ride, but just chill. Take it easy, nice and slow. OK, not super slow, but dialing it back to about 50 percent of my usual effort.
-
-> And ahhh… what a nice ride. I was relaxed and smiling and looking around. I was barely giving it any effort.
-
-> I saw two dolphins in the water. A pelican flew right over me in Marina del Rey. When I looked up to say “wow!” he shit in my mouth. I can still remember that taste of digested shellfish. I had to laugh at the novelty of it.
-
-> I’m usually so damn driven, always doing everything as intensely as I can. It was so nice to take it easy for once. I felt I could do this forever, without any exhaustion.
+> So one day I decided I would do the same ride, but just chill. Take it easy, nice and slow. OK, not super slow, but dialing it back to about 50 percent of my usual effort...
 
 > When I finished, I looked at the time: forty-five minutes.
 
