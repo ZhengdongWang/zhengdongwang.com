@@ -66,6 +66,7 @@ Okay now that you know that time for what you came for.
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
@@ -311,6 +312,24 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 > The real lesson---or one of them---is that it pays to use whatever freedom you do have over your schedule not to "maximise your time" or "optimise your day", in some vague way, but specifically to ringfence three or four hours of undisturbed focus (ideally when your energy levels are highest). Stop assuming that the way to make progress on your most important projects is to work for longer... Just focus on protecting four hours – and don't worry if the rest of the day is characterised by the usual scattered chaos.
 
+{{ sivers }}
+
+> I’d finish exhausted and look at the time: forty-three minutes. Every time. Maybe a minute more on a really windy day, but basically always forty-three minutes.
+
+> After a few months, I noticed I was getting less enthusiastic about this bike ride. I think I had mentally linked it with being completely exhausted.
+
+> So one day I decided I would do the same ride, but just chill. Take it easy, nice and slow. OK, not super slow, but dialing it back to about 50 percent of my usual effort.
+
+> And ahhh… what a nice ride. I was relaxed and smiling and looking around. I was barely giving it any effort.
+
+> I saw two dolphins in the water. A pelican flew right over me in Marina del Rey. When I looked up to say “wow!” he shit in my mouth. I can still remember that taste of digested shellfish. I had to laugh at the novelty of it.
+
+> I’m usually so damn driven, always doing everything as intensely as I can. It was so nice to take it easy for once. I felt I could do this forever, without any exhaustion.
+
+> When I finished, I looked at the time: forty-five minutes.
+
+> Which then makes me realize that half of my effort wasn’t effort at all, but just unnecessary stress that made me feel like I was doing my best.
+
 {{ deming }}
 
 > Have fun with your friends. Go to the beach together at midnight, light a bonfire and talk about ideas. Camp and hike together. Share life stories. Bake cookies and watch movies in your living room under a fort like the ones you constructed as a kid. Build robots together, do chemistry experiments at home. Living with a great group can be truly exceptional.
@@ -322,6 +341,8 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 {{ adriene }}
 
 > You are only as young and as happy as your spine.
+
+从容
 
 ## A final reminder
 
