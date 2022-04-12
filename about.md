@@ -1,5 +1,6 @@
 ---
 title: About
+image: steamboat
 ---
 
 Here are some fun facts about this website:

@@ -1,6 +1,7 @@
 ---
 title: Readme
 permalink: readme # File named readme2 to avoid git conflict.
+image: regulus
 ---
 
 I thought about writing a paragraph to describe who I am. But it was hard, so I gave up. Instead, here is a collection of things from all over the internet that relates to me in some way. They are things I like, things I think about, things that have influenced me, and more.

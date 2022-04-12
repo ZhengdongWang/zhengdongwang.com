@@ -1,5 +1,6 @@
 ---
 title: Blog index
+image: calais
 ---
 
 [RSS](/feed.xml)

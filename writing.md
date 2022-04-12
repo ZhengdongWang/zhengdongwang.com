@@ -1,5 +1,6 @@
 ---
 title: Writing advice
+image: burning
 ---
 
 There's only two things here because:
