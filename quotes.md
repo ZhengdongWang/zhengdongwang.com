@@ -3,7 +3,7 @@ title: Quotations
 image: sun
 ---
 
-Beauty (not truth) is the only requirement to be here.
+Beauty---not truth---is the only requirement to be here.
 
 [Marguerite Yourcenar, trans. Grace Frick, Memoirs of Hadrian](https://www.goodreads.com/book/show/12172.Memoirs_of_Hadrian)
 
