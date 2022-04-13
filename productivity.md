@@ -70,6 +70,7 @@ Okay now that you know that time for what you came for.
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
+{% capture zhang %}Valerie Zhang, [DONE IS BETTER THAN PERFECT A POST IN CAPS LOCK:](https://valeriezhang.substack.com/p/done-is-better-than-perfect){% endcapture %}
 
 ## Think about direction
 
@@ -293,6 +294,20 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 > If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
 
 > The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
+
+{{ zhang }}
+
+> OR EVEN GOOD OR EVEN OKAY
+
+> I AM WRITING THIS POST TO ILLUSTRATE THIS POINT
+
+> IT IS NOT A GOOD POST AT ALL. IT’S LITERALLY BULLET POINTS AND IMPOSSIBLE TO READ BECAUSE I MADE THE DECISION TO DO IT ALL IN CAPS LOCK.
+
+> BUT THAT IS STILL WAY BETTER THAN NOT WRITING AT ALL
+
+> ...
+
+> TAKE SHORTCUTS. TURN IN SHITTY WORK. CONTINUE.
 
 Also, an aphorism I learned from college debate---"if you're writing, you're losing."
 
