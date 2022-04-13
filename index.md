@@ -22,6 +22,7 @@ title: Home
 * If you only read one thing, read this [readme](readme). It's like documentation, but about me!
 * [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, maybe.
+* [Quotations](quotes) I think are beautiful.
 * Rules for [picking classes at Yale](bluebook).
 * Some more seasonal content. My website isn't sure if it's a website or a blog. {% for post in site.posts limit:3 %}
   * {{ post.date | date: '%Y-%m-%d' }} \| [{{ post.title }}]({{post.url}}) {% endfor %}
