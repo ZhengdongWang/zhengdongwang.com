@@ -1,6 +1,6 @@
 ---
 title: Giving
-image: railway_light
+image: railway
 ---
 
 Tracking my charitable donations.
