@@ -52,7 +52,7 @@ Just to be clear, what _doesn't matter at all_?
 * Actual content taught in the course.
 * Other things that are not the professor.
 
-Do you think it matters whether you learn this course content instead of that course content? Do not kid yourself. You are an undergraduate at an American liberal arts college.
+Do you think it matters whether you learn this course content instead of that course content? Sir, do not kid yourself. You are an undergraduate at an American liberal arts college.
 
 I'm serious. Don't read the course descriptions. Cover up the titles in the catalog if they distract you. Only research professors. A bad professor will make you dread going to a class on a subject you love. A good professor will inspire enthusiasm in a topic you previously didn't care about. I'm willing to bet that you agree with me if you've had either experience.
 
@@ -88,7 +88,7 @@ Your other classes should be low-workload but still serious. This excludes tradi
 What's wrong with the usual guts?
 
 * No one really wants to be there. They're doing it for the distributional requirement, or because the rest of their schedule is hard. They honestly just like a different subject. They aren't fully there. It's a drag.
-* These classes are oddly competitive. Not just to get into, but sometimes even to do well. If it's easy for everybody and there's a curve, you might start stressing about a class you didn't budget for.
+* These classes are oddly competitive. Not just to get into, but sometimes even to do well. You have to differentiate yourself from the hundred other lemmings in the class. If it's easy for everyone and there's a curve, you might start stressing about a class you didn't budget for.
 * Widely-acknowledged guts often mean busy work. It's easy for everyone. It reflects that the professor knows they're teaching a gut, too. You overestimate your tolerance for busy work.
 
 Find classes other people are taking for the material (or even better, the professor), _that also happen to be low-workload_. Okay, but these classes sound like a unicorns, you say. Where am I supposed to find these magical low-workload but also serious classes? Serious professors rarely give little work, and work trades off with what you get out of the class.

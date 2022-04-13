@@ -1,6 +1,6 @@
 ---
 title: About
-image: steamboat
+image: rome
 ---
 
 Here are some fun facts about this website:
