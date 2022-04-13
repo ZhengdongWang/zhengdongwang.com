@@ -351,7 +351,7 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 > You are only as young and as happy as your spine.
 
-从容
+从容&#x3002;
 
 ## A final reminder
 
