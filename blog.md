@@ -1,6 +1,6 @@
 ---
 title: Blog index
-image: orleans
+image: tree
 ---
 
 [RSS](/feed.xml)
