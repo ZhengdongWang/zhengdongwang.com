@@ -7,6 +7,16 @@ function dark_off() {
   document.documentElement.setAttribute('data-theme', 'light')
   localStorage.setItem('dark', 'off')
 }
+
+function sans_on() {
+  document.documentElement.setAttribute('data-theme', 'sans')
+  localStorage.setItem('sans', 'on')
+}
+
+function sans_off() {
+  document.documentElement.setAttribute('data-theme', 'serifs')
+  localStorage.setItem('sans', 'off')
+}
 async function particles() {
   // Particles only on homepage.
   if (window.location.pathname != '/') {
@@ -41,7 +51,15 @@ function toggle_dark() {
   }
   particles()
 }
-// Default is dark.
+
+function toggle_sans() {
+  if (localStorage.getItem('sans') == 'off') {
+    sans_on()
+  } else {
+    sans_off()
+  }
+}
+// Default is light with serifs.
 // Cannot set boolean values in localStorage.
 window.onload = function() {
   if (localStorage.getItem('dark') == null) {
@@ -50,4 +68,9 @@ window.onload = function() {
     dark_on()
   }
   particles()
+  if (localStorage.getItem('sans') == null) {
+    localStorage.setItem('sans', 'off')
+  } else if (localStorage.getItem('sans') == 'on') {
+    sans_on()
+  }
 }

@@ -24,7 +24,7 @@ Here are things on the beaten path of artificial intelligence learning that I re
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell
 * [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264), Rishabh Agarwal et al.
 * [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Richard Sutton, Doina Precup, Satinder Singh
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Rich Sutton, Doina Precup, Satinder Singh
 
 ## Academic disposition
 

@@ -12,6 +12,7 @@
   --theme_color_background: #FFF8E7;
   --theme_color_text: black;
   --theme_color_box: rgba(255, 255, 255, 0.7);
+  --theme_font_family: Lusitana, serif;
   --size_huge: 2em;
   --size_bigger: 1.5em;
   --size_big: 1.2em;
@@ -27,10 +28,14 @@
   --theme_color_box: rgba(64, 64, 64, 0.5);
 }
 
+[data-theme=sans] {
+  --theme_font_family: Lato, sans-serif;
+}
+
 body {
   background-color: var(--theme_color_background);
   color: var(--theme_color_text);
-  font-family: Lato, sans-serif;
+  font-family: var(--theme_font_family);
   margin-top: 0em;
   margin-bottom: 0em;
   line-height: 1.5;

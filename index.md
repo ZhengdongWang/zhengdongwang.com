@@ -10,6 +10,7 @@ title: Home
   <a href='mailto:zhengdong.wang@gmail.com'>mail</a> |
   <a href='assets/documents/zhengdong_wang_resume.pdf'>resume</a> |
   <a href='http://github.com/ZhengdongWang'>git</a> |
+  <a href='#' onclick='toggle_sans();return false;'>serifs</a> |
   <a href='#' onclick='toggle_dark();return false;'>lights</a>
 </h6>
 
