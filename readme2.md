@@ -48,7 +48,7 @@ So I decided not to apply for PhD programs in physics. But first, I found a lot 
 
 The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195). Disclaimer: I haven't read any Hume. I will eventually read him and more from other philosophers to gain credibility, but I don't think doing so will change my mind.
 
-Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most five, from Paul Erd&ouml;s to Ronald Graham to Hung Ngo to Ce Zhang to Kevin Schawinski to me. Crazy how that's only two more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
+Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most four, from Paul Erd&ouml;s to Vasek Chv&aacute;tal to Yori Zwols to Thomas Keck to me. Crazy how that's only one more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
 ## Cool people
 
