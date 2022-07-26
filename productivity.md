@@ -52,7 +52,8 @@ Okay now that you know that time for what you came for.
 {% capture burkeman %}Oliver Burkeman, [The three-or-four-hours rule for getting creative work done:](https://www.oliverburkeman.com/fourhours){% endcapture %}
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
 {% capture collison %}Patrick Collison, [Advice if you're 10-20:](https://patrickcollison.com/advice){% endcapture %}
-{% capture cowen %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
+{% capture cowen_practice %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
+{% capture cowen_publishing %}Tyler Cowen, [Simple advice for academic publishing:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
@@ -167,7 +168,7 @@ And,
 
 > To put it another way: consistency is a way of paying attention. By showing up every day, you’re saying, hi, I’m here and I’m listening. I’m here and I’m trying. Carefully directed attention is the best way to solve any problem.
 
-{{ cowen }}
+{{ cowen_practice }}
 
 > Recently, one of my favorite questions to bug people with has been “What is it you do to train that is comparable to a pianist practicing scales?”  If you don’t know the answer to that one, maybe you are doing something wrong or not doing enough. Or maybe you are (optimally?) not very ambitious?
 
@@ -262,6 +263,10 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 {{ ava_time }}
 
 > I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
+
+{{ cowen_publishing }}
+
+> Get something done every day.  Few academics fail from not getting enough done each day.  Many fail from living many days with zero output.
 
 {{ altman_email }}
 
