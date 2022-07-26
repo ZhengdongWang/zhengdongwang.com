@@ -16,7 +16,7 @@ title: Home
 
 ## What I'm doing now
 
-* I'm a Research Engineer at [DeepMind](https://deepmind.com) in London. My team works on generalization.
+* I'm a Research Engineer at [DeepMind](https://deepmind.com) in London.
 
 ## Writing
 
