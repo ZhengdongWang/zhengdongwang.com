@@ -74,12 +74,12 @@ Some of my friends have websites too:
 Where I give you fun recommendations.
 
 Reading is so great. You learn so much. And it takes as much time as you want. And it can be free, if you want. My favorite books are:
-
-* [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
 * [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) by Gabriel Garc&iacute;a M&aacute;rquez. Wikipedia says this book is "often cited as one of the supreme achievements in literature" with four citations. Come on people! What more do you need.
-* [Interpreter of Maladies](https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies) by Jhumpa Lahiri. The characters remind me of people in my life. My favorite is "When Mr. Pirzada Came to Dine," whose main character is also a child. It's not a children's book, but you can't escape the children.
+* [Memoirs of Hadrian](https://www.goodreads.com/book/show/12172.Memoirs_of_Hadrian) by Marguerite Yourcenar. Something something it's not about the idea but the execution.
+* [Interpreter of Maladies](https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies) by Jhumpa Lahiri. The characters remind me of people in my life. My favorite is "When Mr. Pirzada Came to Dine."
 * [Dune](https://www.goodreads.com/book/show/234225.Dune) by Frank Herbert. Yeah, so basic. In general I like sci-fi where technology is only part of the background, like the short story [Folding Beijing](https://uncannymagazine.com/article/folding-beijing-2) by Hao Jingfang.
-* [Bone: The Complete Collection](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith. I read straight through, not what you're supposed to do with serialized graphic novels. It was an entirely different experience. It feels like you got through a Lord-of-the-Rings-like experience in a tenth of the reading time. The art is so sumptuous.
+* [Bone: The Complete Collection](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith. It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous.
+* Honorable mention: [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
 
 Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
 
