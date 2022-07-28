@@ -114,7 +114,7 @@ My favorite podcast is:
 
 * [This American Life](https://www.thisamericanlife.org). Which is even better than people say it is. I used to list other podcasts here. And I listen to others, but I've gotten bored of every other one, even if it takes a few years. Also, the Torey Malatia jokes at the end are great.
 
-If you know me, please play these games with me:
+Play these games with me:
 
 * [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)
 * [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
