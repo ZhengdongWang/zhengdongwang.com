@@ -13,7 +13,7 @@ There's only two things here because:
   * [John Cochrane's advice](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) for economics.
   * [Dan Luu's writing non-advice](https://danluu.com/writing-non-advice/), or why most writing advice is unhelpful.
 
-## You can write anywhere.
+## You can write anywhere
 
 From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren Berlant, which can apply to anything:
 
@@ -25,7 +25,7 @@ From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren B
 
 > Things are usually in my way but that’s the thing about writing.
 
-## Use a dictionary, not a thesaurus.
+## Use a dictionary, not a thesaurus
 
 From [Draft No. 4: On the Writing Process](https://www.goodreads.com/book/show/18194765-draft-no-4) by John McPhee. Here is an [excerpt](https://www.newyorker.com/magazine/2013/04/29/draft-no-4):
 
