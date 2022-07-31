@@ -35,7 +35,7 @@ Okay now that you know that time for what you came for.
 
 **Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. I grouped the things people into what I think is the same about them. You should read the original essays just to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life.
 
-(By the way, the counterexample to "everybody is saying the same thing is [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336).)
+(By the way, the counterexample to "everybody is saying the same thing" is [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336).)
 
 {% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 {% capture alexander %}Christopher Alexander, [in the foreword for Patterns of Software:](https://www.goodreads.com/en/book/show/685486){% endcapture %}
