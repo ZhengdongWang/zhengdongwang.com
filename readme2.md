@@ -80,8 +80,7 @@ Reading is so great. You learn so much. And it takes as much time as you want. A
 * [Dune](https://www.goodreads.com/book/show/234225.Dune) by Frank Herbert. Yeah, so basic. In general I like sci-fi where technology is only part of the background, like the short story [Folding Beijing](https://uncannymagazine.com/article/folding-beijing-2) by Hao Jingfang.
 * [Bone: The Complete Collection](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith. It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous.
 * Honorable mention: [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
-
-Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
+<!-- Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)! -->
 
 My favorite poem is:
 
@@ -96,8 +95,7 @@ My favorite movies are:
 
 * [Knives Out](https://www.imdb.com/title/tt8946378). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
 * [La Grande Vadrouille](https://www.imdb.com/title/tt0060474). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
-
-Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
+<!-- Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0). -->
 
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here are:
 
