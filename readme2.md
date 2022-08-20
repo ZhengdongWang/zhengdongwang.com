@@ -14,7 +14,7 @@ But every researcher and person curious about research should see (in order of i
 
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
-* [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed (the subject is physics, but this moral code applies to all discovery of Truth)
+* [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
 * [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 * [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
