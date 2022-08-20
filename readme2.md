@@ -15,18 +15,18 @@ But every researcher and person curious about research should see (in order of i
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed (the subject is physics, but this moral code applies to all discovery of Truth)
+* [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
+* [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 * [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
 
 Here are things on the beaten path of artificial intelligence learning that I really liked. But I'm in no position to recommend to _everyone_:
 
-* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Rich Sutton
 * [Steps Toward Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf), Marvin Minsky
+* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Rich Sutton, Doina Precup, Satinder Singh
+* [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Rich Sutton
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell
 * [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264), Rishabh Agarwal et al.
 * [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus
-* [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Rich Sutton, Doina Precup, Satinder Singh
-* [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
-* [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 
 ## Academic disposition
 
