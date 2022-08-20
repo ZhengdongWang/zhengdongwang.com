@@ -26,6 +26,7 @@ Here are things on the beaten path of artificial intelligence learning that I re
 * [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Rich Sutton, Doina Precup, Satinder Singh
 * [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
+* [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 
 ## Academic disposition
 
