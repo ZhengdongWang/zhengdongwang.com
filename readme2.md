@@ -47,11 +47,11 @@ So I decided not to apply for PhD programs in physics. But first, I found a lot 
 * During high school space camp, I met [Nicholas Suntzeff](https://en.wikipedia.org/wiki/Nicholas_B._Suntzeff). He talked about leaving a dinner in Chile celebrating his Nobel-winning research. On the way home, he ran into a girl begging on the street. [Why spend one centavo on cosmology when little girls are crouching in subway stairwells, begging?](https://www.lastwordonnothing.com/2012/08/13/guest-post-that-eternal-question) I don't think the answer is always that we shouldn't. But for me, it's No PhD.
 * Okay, fine, here are some real Yes PhD sources. Who wouldn't want to discover true facts about [doomed neutron stars](https://www.youtube.com/watch?v=x_Akn8fUBeQ), [the timelapse of our universe](https://www.youtube.com/watch?v=uD4izuDMUQA), [how every light in this video is not a star but a galaxy](https://www.youtube.com/watch?v=rOjrImaPh80), [orbital rendezvous](https://www.youtube.com/watch?v=B1R3dTdcpSU), [megamasers](https://en.wikipedia.org/wiki/Megamaser), or [black hole star shredders](https://www.youtube.com/watch?v=ubBzcSD8G8k)? Terrifying!
 
-The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195). Disclaimer: I haven't read any Hume. I will eventually read him and more from other philosophers to gain credibility, but I don't think doing so will change my mind.
+The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.co/essays/hume-is-the-amiable-modest-generous-philosopher-we-need-today) and [also this essay](https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195).
 
 Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most four, from Paul Erd&ouml;s to Vasek Chv&aacute;tal to Yori Zwols to Thomas Keck to me. Crazy how that's only one more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
-## Cool people
+<!-- ## Cool people
 
 I'm inspired by:
 
@@ -69,7 +69,7 @@ Some of my friends have websites too:
 * [Zach](https://zacharystanik.myportfolio.com)
 * [Amanda](https://huntressie.wordpress.com)
 * [philoslothical](https://philoslothical.wixsite.com/philoslothical)
-
+ -->
 ## Maximum fun
 
 Where I give you fun recommendations.
