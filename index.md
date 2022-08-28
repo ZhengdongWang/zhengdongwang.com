@@ -4,6 +4,8 @@ title: Home
 
 ![image](assets/images/flowers.jpg)
 
+<!-- THERE IS A BUG IF YOU PRESS LIGHTS AND SERIFS -->
+
 # Zhengdong Wang
 
 <h6>
