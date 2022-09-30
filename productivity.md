@@ -58,6 +58,7 @@ Okay now that you know that time for what you came for.
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
+{% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
@@ -239,6 +240,16 @@ And some of his advice for working hard,
 > In light of knowledge attained, the happy achievement seems almost a matter of course, and any intelligent student can grasp it without too much trouble. But the years of anxious searching in the dark, with their intense longing, their alterations of confidence and exhaustion and the final emergence into the light---only those who have experienced it can understand it.
 
 Einstein worked on relativity for eight years. Imagine the patience! I'd get concerned working on a project if nothing happened for six months.
+
+{{ gowers }}
+
+> While the negative portrayal of mathematicians may be damaging, by putting off people who would otherwise enjoy the subject and be good at it, the damage done by the word genius is more insidious and possibly greater. Here is a rough and ready definition of genius: somebody who can do easily, and at a young age, something that almost nobody else can do except after years of practice, if at all. The achievements of geniuses have some sort of magic quality about them - it is as if their brains work not just more efficiently than ours, but in a completely different way. Every year or two a mathematics undergraduate arrives at Cambridge who regularly manages to solve a in a few minutes problems that take most people, including those who are supposed to be teaching them, several hours or more. When faced with such a person, all one can do is stand back and admire.
+
+> And yet, these extraordinary people are not always the most successful research mathematicians. If you want to solve a problem that other professional mathematicians have tried and failed to solve before you, then, of the many qualities you will need, genius as I have defined it is neither necessary nor sufficient. To illustrate with an extreme example, Andrew Wiles, who (at the age of just over forty) proved Fermat's Last Theorem (which states that if x, y, z, and n are all positive integers and n is greater than 2, then x^n + y^n cannot equal z^n) and thereby solved the world's most famous unsolved mathematics problem, is undoubtedly very clever, but he is not a genius in my sense.
+
+> How, you might ask, could he possibly have done what he did without some sort of mysterious extra brainpower? The answer is that, remarkable though his achievement was, it is not so remarkable as to defy explanation. I do not know precisely what enabled him to succeed, but he would have needed great courage, determination, and patience, a wide knowledge of some very difficult work done by others, the good fortune to be in the right mathematical area at the right time, and an exceptional strategic ability.
+
+> This last quality is, ultimately, more important than freakish mental speed: the most profound contributions to mathematics are often made by tortoises rather than hares. As mathematicians develop, they learn various tricks of the trade, partly from the work of other mathematicians and partly as a result of many hours spent thinking about mathematics. What determines whether they can use their expertise to solve notorious problems is, in large measure, a matter of careful planning: attempting problems that are likely to be fruitful, knowing when to give up a line of thought (a difficult judgement to make), being able to sketch broad outlines of arguments before, just occasionally, managing to fill in the details. This demands a level of maturity which is by no means incompatible with genius but which does not always accompany it.
 
 {{ collison }}
 
