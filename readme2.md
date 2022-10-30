@@ -17,6 +17,7 @@ But every researcher and person curious about research should see (in order of i
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
+* [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/), Michael Nielsen and Kanjun Qiu
 * [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 * [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
 
@@ -28,6 +29,7 @@ Here are things on the beaten path of artificial intelligence learning that I re
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell
 * [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264), Rishabh Agarwal et al.
 * [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus
+* [Creative blocks](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence), David Deutsch
 
 ## Academic disposition
 
@@ -52,25 +54,6 @@ The best philosopher is David Hume. I'm convinced by [this essay](https://aeon.c
 
 Fun fact: I have an [Erd&ouml;s number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of at most four, from Paul Erd&ouml;s to Vasek Chv&aacute;tal to Yori Zwols to Thomas Keck to me. Crazy how that's only one more than the median Fields Medalist. Anyway, I consider this a very scientific measure of my progress as a researcher, can't wait for it to go down as I reach my final form.
 
-<!-- ## Cool people
-
-I'm inspired by:
-
-* [Sean "Day\[9\]" Plott](https://day9.tv/)
-* [Riva Melissa-Tez](https://twitter.com/rivatez)
-* [Agnes Callard](https://twitter.com/AgnesCallard)
-* [Michael Nielsen](http://michaelnielsen.org)
-* [Dan Wang](https://danwang.co)
-* Others I can't think of right now.
-
-Some of my friends have websites too:
-
-* [Jim](https://jimzenn.com)
-* [Rebecca](https://rebeccagoldberg.info)
-* [Zach](https://zacharystanik.myportfolio.com)
-* [Amanda](https://huntressie.wordpress.com)
-* [philoslothical](https://philoslothical.wixsite.com/philoslothical)
- -->
 ## Maximum fun
 
 Where I give you fun recommendations.
@@ -82,22 +65,17 @@ Reading is so great. You learn so much. And it takes as much time as you want. A
 * [Dune](https://www.goodreads.com/book/show/234225.Dune) by Frank Herbert. Yeah, so basic. In general I like sci-fi where technology is only part of the background, like the short story [Folding Beijing](https://uncannymagazine.com/article/folding-beijing-2) by Hao Jingfang.
 * [Bone: The Complete Collection](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith. It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous.
 * Honorable mention: [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
-<!-- Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)! -->
+Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
 
 My favorite poem is:
 
 * [I died for beauty, but was scarce](https://www.bartleby.com/113/4010.html) by Emily Dickinson. I don't know anything about poetry.
 
-My favorite blogs are:
-
-* [bookbear express](https://ava.substack.com) by Ava.
-* [Marginal Revolution](https://marginalrevolution.com) by Tyler Cowen and Alex Tabarrok.
-
 My favorite movies are:
 
 * [Knives Out](https://www.imdb.com/title/tt8946378). Maybe one of the greatest of all time, don't let any pretentious gatekeepers tell you otherwise. It's so clever. And so funny. And the obviously bad accent tells you it doesn't take itself too seriously.
 * [La Grande Vadrouille](https://www.imdb.com/title/tt0060474). I remember watching a Chinese dub with my dad. It's here because of nostalgia.
-<!-- Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0). -->
+Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
 
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here are:
 
