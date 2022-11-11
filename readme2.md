@@ -12,6 +12,7 @@ My opinions that I want you to read are still under construction. I've only just
 
 But every researcher and person curious about research should see (in order of increasing commitment to consume):
 
+* [On Exactitude in Science](https://kwarc.info/teaching/TDM/Borges.pdf), Jorge Luis Borges
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
