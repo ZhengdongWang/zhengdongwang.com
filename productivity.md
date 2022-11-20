@@ -71,6 +71,7 @@ Okay now that you know that time for what you came for.
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
+{% capture wang %}Dan Wang, [2017 letter](https://danwang.co/2017-letter/){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
 {% capture zhang %}Valerie Zhang, [DONE IS BETTER THAN PERFECT A POST IN CAPS LOCK:](https://valeriezhang.substack.com/p/done-is-better-than-perfect){% endcapture %}
 
@@ -100,6 +101,22 @@ Okay now that you know that time for what you came for.
 
 > Finally, to repeat one more time: productivity in the wrong direction isn’t worth anything at all.  Think more about what to work on.
 
+{{ glass }}
+
+> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
+
+Here is an example.
+
+{{ wang }}
+
+> Here’s a general principle I’d like to put forward: That learning, broadly defined, ought to accelerate over time. It’s an analytical error to analogize the growth rate of knowledge (and I’m going to be vague about this) to something like the growth rate of a country’s GDP. Instead of expecting it to slow over time, we should spend our days trying to accelerate the growth of our knowledge base.
+
+> My observation is that most people expect learning to decelerate. It’s not uncommon to see this attitude among fresh college grads: “I’m done with school and it’s time to join the workforce so that it’s time to implement all the stuff I’ve learned.” They tend to tie learning together with being forced to read books and attend lectures, and since they no longer need to do these things, therefore they don’t have to keep learning. The result is that they more or less lose interest in improvement.
+
+> Countries generally can’t maintain high growth rates, but that doesn’t equally have to affect individuals. I’d like for people to think in different terms. The world is big enough, and any individual is small enough, that we can accelerate learning over time. And I submit that positive belief that this claim is true would make it so.
+
+Now a few quotes about research.
+
 {{ dijkstra }}
 
 > Remember that research with a big R is rarely mission-oriented and plan in terms of decades, not years. Resist all pressure —be it financial or cultural— to do work that is of ephemeral significance at best.
@@ -107,10 +124,6 @@ Okay now that you know that time for what you came for.
 {{ hamming }}
 
 > There are many right problems, but very few people search carefully for them. Rather they simply drift along doing what comes to them, following the easiest path to tomorrow. Great scientists all spend a lot of time and effort in examining the important problems in their field. Many have a list of 10 to 20 problems that might be important if they had a decent attack. As a result, when they notice something new that they had not known but seems to be relevant, then they are prepared to turn to the corresponding problem, work on it, and get there first.
-
-{{ glass }}
-
-> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
 
 {{ arkani-hamed2 }}
 
@@ -120,7 +133,7 @@ Okay now that you know that time for what you came for.
 
 > And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
 
-In some sense, the following is also about direction, from world and Olympic record holder, world and Olympic speed skating champion,
+In some sense, the following is also about direction, from world and Olympic speed skating record holder, and world and Olympic speed skating champion,
 
 {{ van_der_poel }}
 
