@@ -24,3 +24,7 @@ Beauty---not truth---is the only requirement to be here.
 [John F. Kennedy, 1961 Inaugural Address](https://www.archives.gov/milestone-documents/president-john-f-kennedys-inaugural-address)
 
 > Now the trumpet summons us again---not as a call to bear arms, though arms we need; not as a call to battle, though embattled we are---but a call to bear the burden of a long twilight struggle, year in and year out, "rejoicing in hope, patient in tribulation"---a struggle against the common enemies of man: tyranny, poverty, disease, and war itself.
+
+[Paul Feyerabend, Against Method](https://www.goodreads.com/book/show/137979.Against_Method)
+
+> The point of view underlying this book is not the result of a well-planned train of thought but of arguments prompted by accidental encounters. Anger at the wanton destruction of cultural achievements from which we all could have learned, at the conceited assurance with which some intellectuals interfere with the lives of people, and contempt for the phrases they use to embellish their misdeeds, was and still is the motive force behind my work.

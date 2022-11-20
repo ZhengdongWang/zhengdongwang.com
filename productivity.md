@@ -76,6 +76,20 @@ Okay now that you know that time for what you came for.
 
 ## Think about direction
 
+{{ alexander }}
+
+> In my life as an architect, I find that the single thing which inhibits young professionals, new students most severely, is their acceptance of standards that are too low. If I ask a student whether her design is as good as Chartres, she often smiles tolerantly at me as if to say, "Of course not, that isn’t what I am trying to do. . . . I could never do that."
+
+> Then, I express my disagreement, and tell her: "That standard must be our standard. If you are going to be a builder, no other standard is worthwhile. That is what I expect of myself in my own buildings, and it is what I expect of my students." Gradually, I show the students that they have a right to ask this of themselves, and must ask this of themselves. Once that level of standard is in their minds, they will be able to figure out, for themselves, how to do better, how to make something that is as profound as that.
+
+> Two things emanate from this changed standard. First, the work becomes more fun. It is deeper, it never gets tiresome or boring, because one can never really attain this standard. One's work becomes a lifelong work, and one keeps trying and trying. So it becomes very fulfilling, to live in the light of a goal like this. But secondly, it does change what people are trying to do. It takes away from them the everyday, lower-level aspiration that is purely technical in nature, (and which we have come to accept) and replaces it with something deep, which will make a real difference to all of us that inhabit the earth.
+
+{{ autotranslucence }}
+
+> The way to extraordinary growth and changes often involves a fundamental ontological or ‘lens’ shift in how you see the world. Magicians are wearing not just better, but fundamentally differently shaped lenses to the rest of us...
+
+> ‘What are the things I say I value but don’t act as if I value, and what would my life feel like on inside if I actually acted as if I valued those things?’
+
 {{ altman_productivity }}
 
 > It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!...
@@ -85,12 +99,6 @@ Okay now that you know that time for what you came for.
 > The right goal is to allocate your year optimally, not your day...
 
 > Finally, to repeat one more time: productivity in the wrong direction isn’t worth anything at all.  Think more about what to work on.
-
-{{ autotranslucence }}
-
-> The way to extraordinary growth and changes often involves a fundamental ontological or ‘lens’ shift in how you see the world. Magicians are wearing not just better, but fundamentally differently shaped lenses to the rest of us...
-
-> ‘What are the things I say I value but don’t act as if I value, and what would my life feel like on inside if I actually acted as if I valued those things?’
 
 {{ dijkstra }}
 
@@ -111,14 +119,6 @@ Okay now that you know that time for what you came for.
 > If more people realized this, I think we'd get many more people interested in doing physics, in actually doing it, because having the truth out there as a friend and something that you're sort of looking for and trying to head towards, is a tremendous leveler of the playing field when it comes to talents, inclination, are you strong mathematically, not strong mathematically. Having nature as a guide and a friend makes a humongous difference, because people of vastly different levels of talent and, of course you have to be very dedicated, but still, I mean, you can have very, very, you can be fast worker, slow worker. All of these things sort of pale to being somewhere in the vicinity of the right answer.
 
 > And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
-
-{{ alexander }}
-
-> In my life as an architect, I find that the single thing which inhibits young professionals, new students most severely, is their acceptance of standards that are too low. If I ask a student whether her design is as good as Chartres, she often smiles tolerantly at me as if to say, "Of course not, that isn’t what I am trying to do. . . . I could never do that."
-
-> Then, I express my disagreement, and tell her: "That standard must be our standard. If you are going to be a builder, no other standard is worthwhile. That is what I expect of myself in my own buildings, and it is what I expect of my students." Gradually, I show the students that they have a right to ask this of themselves, and must ask this of themselves. Once that level of standard is in their minds, they will be able to figure out, for themselves, how to do better, how to make something that is as profound as that.
-
-> Two things emanate from this changed standard. First, the work becomes more fun. It is deeper, it never gets tiresome or boring, because one can never really attain this standard. One's work becomes a lifelong work, and one keeps trying and trying. So it becomes very fulfilling, to live in the light of a goal like this. But secondly, it does change what people are trying to do. It takes away from them the everyday, lower-level aspiration that is purely technical in nature, (and which we have come to accept) and replaces it with something deep, which will make a real difference to all of us that inhabit the earth.
 
 In some sense, the following is also about direction, from world and Olympic record holder, world and Olympic speed skating champion,
 
@@ -329,13 +329,21 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 ## But also work less hard and slow down
 
-{{ altman_productivity }}
+{{ deming }}
 
-> Don’t neglect your family and friends for the sake of productivity—that’s a very stupid tradeoff (and very likely a net productivity loss, because you’ll be less happy).  Don’t neglect doing things you love or that clear your head either.
+> Have fun with your friends. Go to the beach together at midnight, light a bonfire and talk about ideas. Camp and hike together. Share life stories. Bake cookies and watch movies in your living room under a fort like the ones you constructed as a kid. Build robots together, do chemistry experiments at home. Living with a great group can be truly exceptional.
+
+{{ van_der_poel }}
+
+> Creating meaning and value in life outside of the speed skating oval helped me get through tough training periods. When the training wasn’t going great, perhaps something else in life did and that cheered me up. Later on, when I became more successful and there was a media hype around me, the normal part of my life helped me keep myself grounded. I knew who I was and I was not just a speed skater. Today I’m very happy for all the friends I’ve made on all of those two rest days. Most of these friends are not speed skaters and to me they shed light upon my life from a new perspective. For that I am very thankful. I believe that it was the value I created outside of the sport, and not the success within it, that made it worthwhile to live in this manner; to face the horrific fact that only one of us will win the competition and all the others will lose; that injury or sickness can sabotage four years of work. It was not my success that justified my sacrifices, it was my friends, and I owed it to them to try to live up to my full potential.
 
 {{ nielsen }}
 
 > You also need to have the rest of your life in order to be an effective researcher. Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right. If you don’t get them right, not only will your life as a whole be less good, your research will suffer.
+
+{{ altman_productivity }}
+
+> Don’t neglect your family and friends for the sake of productivity—that’s a very stupid tradeoff (and very likely a net productivity loss, because you’ll be less happy).  Don’t neglect doing things you love or that clear your head either.
 
 {{ burkeman }}
 
@@ -354,14 +362,6 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 > When I finished, I looked at the time: forty-five minutes.
 
 > Which then makes me realize that half of my effort wasn’t effort at all, but just unnecessary stress that made me feel like I was doing my best.
-
-{{ deming }}
-
-> Have fun with your friends. Go to the beach together at midnight, light a bonfire and talk about ideas. Camp and hike together. Share life stories. Bake cookies and watch movies in your living room under a fort like the ones you constructed as a kid. Build robots together, do chemistry experiments at home. Living with a great group can be truly exceptional.
-
-{{ van_der_poel }}
-
-> Creating meaning and value in life outside of the speed skating oval helped me get through tough training periods. When the training wasn’t going great, perhaps something else in life did and that cheered me up. Later on, when I became more successful and there was a media hype around me, the normal part of my life helped me keep myself grounded. I knew who I was and I was not just a speed skater. Today I’m very happy for all the friends I’ve made on all of those two rest days. Most of these friends are not speed skaters and to me they shed light upon my life from a new perspective. For that I am very thankful. I believe that it was the value I created outside of the sport, and not the success within it, that made it worthwhile to live in this manner; to face the horrific fact that only one of us will win the competition and all the others will lose; that injury or sickness can sabotage four years of work. It was not my success that justified my sacrifices, it was my friends, and I owed it to them to try to live up to my full potential.
 
 {{ adriene }}
 
