@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![image](assets/images/flowers.jpg)
+![image](assets/images/grass_crop.jpg)
 
 <!-- THERE IS A BUG IF YOU PRESS LIGHTS AND SERIFS -->
 
