@@ -4,8 +4,6 @@ title: Home
 
 ![image](assets/images/grass_crop.jpg)
 
-<!-- THERE IS A BUG IF YOU PRESS LIGHTS AND SERIFS -->
-
 # Zhengdong Wang
 
 <h6>
@@ -24,6 +22,7 @@ title: Home
 
 * If you only read one thing, read this [readme](readme). It's like documentation, but about me!
 * [Quotations](quotes) I think are beautiful.
+<!-- * [Facts](facts). -->
 * [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).

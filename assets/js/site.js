@@ -1,35 +1,65 @@
 function dark_on() {
-  document.documentElement.setAttribute('data-theme', 'dark')
-  localStorage.setItem('dark', 'on')
+  console.log('Setting theme to dark.')
+  localStorage.setItem('dark', 'dark')
+  console.log('dark: '.concat(localStorage.getItem('dark')))
 }
 
 function dark_off() {
-  document.documentElement.setAttribute('data-theme', 'light')
-  localStorage.setItem('dark', 'off')
+  console.log('Setting theme to light.')
+  localStorage.setItem('dark', 'light')
+  console.log('dark: '.concat(localStorage.getItem('dark')))
 }
 
 function sans_on() {
-  document.documentElement.setAttribute('data-theme', 'sans')
-  localStorage.setItem('sans', 'on')
+  console.log('Setting font to sans.')
+  localStorage.setItem('sans', 'sans')
+  console.log('sans: '.concat(localStorage.getItem('sans')))
 }
 
 function sans_off() {
-  document.documentElement.setAttribute('data-theme', 'serifs')
-  localStorage.setItem('sans', 'off')
+  console.log('Setting font to serif.')
+  localStorage.setItem('sans', 'serif')
+  console.log('sans: '.concat(localStorage.getItem('sans')))
 }
-async function particles() {
-  // Particles only on homepage.
+async function toggle_dark() {
+  if (localStorage.getItem('dark') == 'light') {
+    dark_on()
+  } else {
+    dark_off()
+  }
+  await set_theme_and_particles()
+}
+async function toggle_sans() {
+  if (localStorage.getItem('sans') == 'serif') {
+    sans_on()
+  } else {
+    sans_off()
+  }
+  await set_theme_and_particles(refresh = false)
+}
+async function set_theme_and_particles(refresh = true) {
+  let dark = localStorage.getItem('dark')
+  let sans = localStorage.getItem('sans')
+  console.log('dark: '.concat(dark))
+  console.log('sans: '.concat(sans))
+  let data_theme = dark.concat(sans)
+  document.documentElement.setAttribute('data-theme', data_theme)
+  console.log(data_theme)
+  await particles(refresh)
+}
+async function particles(refresh = true) {
   if (window.location.pathname != '/') {
+    console.log('Not the homepage; skipping particles.')
     return
   }
-  // Load if not already loaded.
+  console.log('Loading particles.')
   if (tsParticles.dom().length == 0) {
-    let result = await tsParticles.loadJSON(
+    await tsParticles.loadJSON(
       'tsparticles', 'assets/json/particles.json')
   }
-  // Correct particles theme.
+  console.log('Theming particles.')
   let options = tsParticles.domItem(0)._options
-  if (localStorage.getItem('dark') == 'on') {
+  if (localStorage.getItem('dark') == 'dark') {
     options.particles.color.value = '#ffffff'
     options.particles.number.value = 50
     options.particles.links.enable = false
@@ -40,37 +70,21 @@ async function particles() {
     options.particles.links.enable = true
     options.particles.links.color.value = '#000000'
   }
-  tsParticles.domItem(0).refresh()
+  if (refresh) {
+    tsParticles.domItem(0).refresh()
+  }
+  console.log('Loaded particles.')
 }
-
-function toggle_dark() {
-  if (localStorage.getItem('dark') == 'off') {
+window.onload = async function on_load() {
+  if (localStorage.getItem('dark') == 'on') {
     dark_on()
   } else {
     dark_off()
   }
-  particles()
-}
-
-function toggle_sans() {
-  if (localStorage.getItem('sans') == 'off') {
+  if (localStorage.getItem('sans') == 'on') {
     sans_on()
   } else {
     sans_off()
   }
-}
-// Default is light with serifs.
-// Cannot set boolean values in localStorage.
-window.onload = function() {
-  if (localStorage.getItem('dark') == null) {
-    localStorage.setItem('dark', 'off')
-  } else if (localStorage.getItem('dark') == 'on') {
-    dark_on()
-  }
-  particles()
-  if (localStorage.getItem('sans') == null) {
-    localStorage.setItem('sans', 'off')
-  } else if (localStorage.getItem('sans') == 'on') {
-    sans_on()
-  }
+  await set_theme_and_particles()
 }

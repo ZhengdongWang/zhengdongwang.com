@@ -105,8 +105,6 @@ Okay now that you know that time for what you came for.
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
 
-Here is an example.
-
 {{ wang }}
 
 > Here’s a general principle I’d like to put forward: That learning, broadly defined, ought to accelerate over time. It’s an analytical error to analogize the growth rate of knowledge (and I’m going to be vague about this) to something like the growth rate of a country’s GDP. Instead of expecting it to slow over time, we should spend our days trying to accelerate the growth of our knowledge base.

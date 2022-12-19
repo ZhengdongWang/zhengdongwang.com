@@ -21,14 +21,35 @@
   --size_negative: -1.5em;
 }
 
-[data-theme=dark] {
+[data-theme=lightserif] {
+  /* Cosmic latte. */
+  --theme_color_background: #FFF8E7;
+  --theme_color_text: black;
+  --theme_color_box: rgba(255, 255, 255, 0.7);
+  --theme_font_family: Lusitana, serif;
+}
+
+[data-theme=lightsans] {
+  /* Cosmic latte. */
+  --theme_color_background: #FFF8E7;
+  --theme_color_text: black;
+  --theme_color_box: rgba(255, 255, 255, 0.7);
+  --theme_font_family: Lato, sans-serif;
+}
+
+[data-theme=darkserif] {
   /* My very dark blue. */
   --theme_color_background: #000226;
   --theme_color_text: white;
   --theme_color_box: rgba(64, 64, 64, 0.5);
+  --theme_font_family: Lusitana, serif;
 }
 
-[data-theme=sans] {
+[data-theme=darksans] {
+  /* My very dark blue. */
+  --theme_color_background: #000226;
+  --theme_color_text: white;
+  --theme_color_box: rgba(64, 64, 64, 0.5);
   --theme_font_family: Lato, sans-serif;
 }
 
@@ -61,8 +82,8 @@ body {
 
 img[alt=image] {
   float: right;
-  margin-top: 5px;
-  width: 20%;
+  margin-top: 10px;
+  width: 30%;
   border-radius: 50%;
   border: 2px solid var(--theme_color_text);
 }
