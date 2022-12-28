@@ -2,14 +2,12 @@
 title: Home
 ---
 
-![image](assets/images/grass_crop.jpg)
+![profile](/assets/images/grass.jpg)
 
 # Zhengdong Wang
 
 <h6>
   <a href='mailto:zhengdong.wang@gmail.com'>mail</a> |
-  <!-- <a href='assets/documents/zhengdong_wang_resume.pdf'>resume</a> | -->
-  <!-- <a href='http://github.com/ZhengdongWang'>git</a> | -->
   <a href='#' onclick='toggle_sans();return false;'>serifs</a> |
   <a href='#' onclick='toggle_dark();return false;'>lights</a>
 </h6>
@@ -22,7 +20,6 @@ title: Home
 
 * If you only read one thing, read this [readme](readme). It's like documentation, but about me!
 * [Quotations](quotes) I think are beautiful.
-<!-- * [Facts](facts). -->
 * [Writing advice](writing) that has worked for me.
 * [Productivity advice](productivity) that has worked for me, maybe.
 * Rules for [picking classes at Yale](bluebook).
