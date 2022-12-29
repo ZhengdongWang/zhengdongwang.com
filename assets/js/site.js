@@ -49,7 +49,7 @@ async function set_theme_and_particles(refresh = true) {
 }
 async function particles(refresh = true) {
   if (window.location.pathname != '/') {
-    console.log('Not the homepage; skipping particles.')
+    console.log('Not the homepage, skipping particles.')
     return
   }
   console.log('Loading particles.')
@@ -76,12 +76,12 @@ async function particles(refresh = true) {
   console.log('Loaded particles.')
 }
 window.onload = async function on_load() {
-  if (localStorage.getItem('dark') == 'on') {
+  if (localStorage.getItem('dark') == 'dark') {
     dark_on()
   } else {
     dark_off()
   }
-  if (localStorage.getItem('sans') == 'on') {
+  if (localStorage.getItem('sans') == 'sans') {
     sans_on()
   } else {
     sans_off()
