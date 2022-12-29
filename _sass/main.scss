@@ -14,8 +14,8 @@
   --theme_color_box: rgba(255, 255, 255, 0.7);
   --theme_font_family: Lusitana, serif;
   --size_huge: 2em;
-  --size_bigger: 1.5em;
-  --size_big: 1.2em;
+  --size_big: 1.5em;
+  --size_medium: 1.1em;
   --size_normal: 1em;
   --size_small: .2em;
   --size_negative: -1.5em;
@@ -57,7 +57,7 @@ body {
   background-color: var(--theme_color_background);
   color: var(--theme_color_text);
   font-family: var(--theme_font_family);
-  font-size: var(--size_big);
+  font-size: var(--size_medium);
   margin-top: 0em;
   margin-bottom: 0em;
   line-height: 1.5;
@@ -102,7 +102,7 @@ h1 {
 
 /* Section headings. */
 h2 {
-  font-size: var(--size_big);
+  font-size: var(--size_medium);
   margin-top: inherit;
   margin-bottom: var(--size_normal);
 }
@@ -117,7 +117,7 @@ h5 {
 
 /* Links on home. */
 h6 {
-  font-size: var(--size_big);
+  font-size: var(--size_medium);
   margin-top: var(--size_negative);
   margin-bottom: var(--size_huge);
   font-weight: normal;
@@ -175,7 +175,7 @@ h6 a:hover {
   }
 
   h1 {
-    font-size: var(--size_bigger);
+    font-size: var(--size_big);
   }
 
   h6 {
@@ -184,6 +184,6 @@ h6 a:hover {
 
   ul,
   ol {
-    padding-left: var(--size_big);
+    padding-left: var(--size_medium);
   }
 }
