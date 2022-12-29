@@ -15,6 +15,7 @@ But every researcher and person curious about research should see (in order of i
 * [On Exactitude in Science](https://kwarc.info/teaching/TDM/Borges.pdf), Jorge Luis Borges
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
+* [On Slow Research](http://davidpfau.com/slow_research.html), David Pfau
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
