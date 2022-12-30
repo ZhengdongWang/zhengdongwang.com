@@ -81,14 +81,14 @@ Other things I've watched on [IMDb](https://www.imdb.com/user/ur88537668/ratings
 
 My favorite music would take too long to explain and the explanations are a bit personal. So without explanation, here are:
 
-* [Songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh?si=1e45c403545b4355)
-* [Songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi?si=709c9901d8e343a0)
-* [These Songs Do Not Have Flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa?si=88e78669a1154f76)
+* [Songs I associate with people](https://open.spotify.com/playlist/319y6SKgOjIyBq0tDkn3vh)
+* [Songs I associate with places](https://open.spotify.com/playlist/0peet4i7FIzMxefhhA3lqi)
+* [These Songs Do Not Have Flaws](https://open.spotify.com/playlist/6CFotAZGG30wEw8q5ktupa)
 * Albums that are very close to flawless, where every track is pulling its weight, which is very rare, are:
-  * Lana Del Rey, [Normal Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A?si=Vp_YQv6aQPKeIs5POlljDg&dl_branch=1)
-  * Tak&eacute;nobu, [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8?si=93xLQz0QT2ecafMyYrwplg&dl_branch=1)
-  * Afiara Quartet, Skratch Bastid, [Spin Cycle](https://open.spotify.com/album/6y7OOiJJ8q1qBNvNiVSIbg?si=F4bbbUrSQHqqjk4ZUQg0fA&dl_branch=1)
-  * ABAO, [kinakaian 母親的舌頭](https://open.spotify.com/album/1ftJhzrjCRo3meSeXDlaiQ?si=ep_ZYWnWSfy-Pk6S0oyuoA)
+  * Lana Del Rey, [Normal Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A)
+  * Tak&eacute;nobu, [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8)
+  * Afiara Quartet, Skratch Bastid, [Spin Cycle](https://open.spotify.com/album/6y7OOiJJ8q1qBNvNiVSIbg)
+  * ABAO, [kinakaian 母親的舌頭](https://open.spotify.com/album/1ftJhzrjCRo3meSeXDlaiQ)
 
 My favorite podcast is:
 
