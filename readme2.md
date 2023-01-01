@@ -100,7 +100,7 @@ Play these games with me:
 * [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
 * [StarCraft II](https://starcraft2.com/en-us)
 
-Eventually I want to make a game. Right now I have no experience and am not serious about getting any. But it seems like one of the best ways to practice many skills---coding the game, writing the story, drawing the art, and composing the music. The peak exercise of renaissance ability. You're creating a whole experience for people to enjoy. I really admire people who did everything or almost everything for really great games:
+Eventually I want to make a game. Right now I have no experience and am not serious about getting any. But it seems like one of the best ways to practice many skills---coding the game, writing the story, drawing the art, and composing the music. The peak exercise of renaissance ability. You're creating a whole experience for people to enjoy. Watch [Jenova Chen talk about designing Journey](https://www.gdcvault.com/play/1017700/Designing). I really admire people who did everything or almost everything for really great games:
 
 * [Eric Barone](https://twitter.com/ConcernedApe) for [Stardew Valley](https://www.stardewvalley.net).
 * [Justin Ma](https://twitter.com/Jarmustard) and Matthew Davis for [Faster Than Light](https://subsetgames.com/ftl.html) and [Into the Breach](https://subsetgames.com/itb.html).
