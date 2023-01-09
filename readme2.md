@@ -31,6 +31,7 @@ Here are things on the beaten path of artificial intelligence learning that I re
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell
 * [Deep Reinforcement Learning at the Edge of the Statistical Precipice](https://arxiv.org/abs/2108.13264), Rishabh Agarwal et al.
 * [Alchemy and artificial intelligence](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf), Hubert Dreyfus
+* [The Lighthill report](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/p001.htm), James Lighthill
 * [Creative blocks](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence), David Deutsch
 
 ## Academic disposition
