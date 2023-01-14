@@ -63,6 +63,7 @@ Okay now that you know that time for what you came for.
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
 {% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006?lang=en-GB){% endcapture %}
+{% capture littlewood %}John Edensor Littlewood, [A Mathematician's Miscellany:](https://www.goodreads.com/book/show/1893697.Littlewood_s_Miscellany){% endcapture %}
 {% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
@@ -373,6 +374,10 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 > When I finished, I looked at the time: forty-five minutes.
 
 > Which then makes me realize that half of my effort wasn’t effort at all, but just unnecessary stress that made me feel like I was doing my best.
+
+{{ littlewood }}
+
+> A governing principle is that 3 weeks, exactly 21 days---the period is curiously precise---is enough for recovery from the severest mental fatigue provided there is nothing pathological. This is expert opinion and my expertise agrees entirely, even to the point that, for example, 19 is not enough. Further, 3 weeks is more or less essential for much milder fatigue. So the prescription is 3 weeks holiday at the beginning of each vacation. It is vital, however, that it should be absolutly unbroken, whatever the temptation or provocation.
 
 {{ adriene }}
 
