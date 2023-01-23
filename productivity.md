@@ -62,7 +62,8 @@ Okay now that you know that time for what you came for.
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
-{% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006?lang=en-GB){% endcapture %}
+{% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006){% endcapture %}
+{% capture li %}Shengwu Li, [preface to his problem sets:](https://twitter.com/shengwuli/status/1614637276113563648){% endcapture %}
 {% capture littlewood %}John Edensor Littlewood, [A Mathematician's Miscellany:](https://www.goodreads.com/book/show/1893697.Littlewood_s_Miscellany){% endcapture %}
 {% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
@@ -131,6 +132,10 @@ Now a few quotes about research.
 > If more people realized this, I think we'd get many more people interested in doing physics, in actually doing it, because having the truth out there as a friend and something that you're sort of looking for and trying to head towards, is a tremendous leveler of the playing field when it comes to talents, inclination, are you strong mathematically, not strong mathematically. Having nature as a guide and a friend makes a humongous difference, because people of vastly different levels of talent and, of course you have to be very dedicated, but still, I mean, you can have very, very, you can be fast worker, slow worker. All of these things sort of pale to being somewhere in the vicinity of the right answer.
 
 > And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
+
+{{ li }}
+
+> Pedagogic note: Part of what makes research hard is that you work on problems without knowing the answer in advance. A key skill is to learn to be at peace when working under uncertainty, and to be comfortable making guesses and seeing where they lead. To build this skill, these problems pose conjectures but do not indicate whether you should seek a proof or a counterexample. If you get stuck on finding a proof, try switching to search for counterexamples, and vice versa. Another way this resembles research is that you probably will not find the answers to every question. (If you can answer 3 out of 5, you're doing fine!)
 
 In some sense, the following is also about direction, from world and Olympic speed skating record holder, and world and Olympic speed skating champion,
 

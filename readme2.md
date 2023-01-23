@@ -16,9 +16,10 @@ But every researcher and person curious about research should see (in order of i
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
 * [On Slow Research](http://davidpfau.com/slow_research.html), David Pfau
+* [Cultivating depth and stillness in research](https://andymatuschak.org/stillness/), Andy Matuschak
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
+* [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/), SLIME MOLD TIME MOLD
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
-* [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
 * [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/), Michael Nielsen and Kanjun Qiu
 * [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 * [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
@@ -26,6 +27,7 @@ But every researcher and person curious about research should see (in order of i
 Here are things on the beaten path of artificial intelligence learning that I really liked. But I'm in no position to recommend to _everyone_:
 
 * [Steps Toward Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf), Marvin Minsky
+* [Information, Physics, Quantum: The Search for Links](https://scienceplusplus.org/visions/assets/Wheeler1989.pdf), John Archibald Wheeler
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf), Rich Sutton, Doina Precup, Satinder Singh
 * [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), Rich Sutton
 * [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871), Melanie Mitchell
