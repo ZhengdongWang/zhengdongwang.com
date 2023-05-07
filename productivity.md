@@ -47,6 +47,7 @@ Okay now that you know that time for what you came for.
 {% capture arkani-hamed3 %}Nima Arkani-Hamed, [The Morality of Fundamental Physics:](https://www.youtube.com/watch?v=5aAMJNVmdoY){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
+{% capture ava_magic %}Ava, [practical magic:](https://ava.substack.com/p/practical-magic){% endcapture %}
 {% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
 {% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840){% endcapture %}
 {% capture burkeman %}Oliver Burkeman, [The three-or-four-hours rule for getting creative work done:](https://www.oliverburkeman.com/fourhours){% endcapture %}
@@ -70,11 +71,13 @@ Okay now that you know that time for what you came for.
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{% capture qu %}Nabeel Qu, [How To Understand Things](https://nabeelqu.substack.com/p/understanding){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture wang %}Dan Wang, [2017 letter](https://danwang.co/2017-letter/){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
+{% capture wolfson %}Brie Wolfson, [Notes on "Taste":](https://www.are.na/blog/notes-on-taste){% endcapture %}
 {% capture zhang %}Valerie Zhang, [DONE IS BETTER THAN PERFECT A POST IN CAPS LOCK:](https://valeriezhang.substack.com/p/done-is-better-than-perfect){% endcapture %}
 
 ## Think about direction
@@ -106,6 +109,10 @@ Okay now that you know that time for what you came for.
 {{ glass }}
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
+
+{{ wolfson }}
+
+> Though taste may appear effortless, you can’t have taste by mistake. It requires intention, focus, and care. Taste is a commitment to a state of attention.  It’s a process of peeling back layer after layer, turning over rock after rock. As John Saltivier says in an essay about building a set of stairs, “surprising detail is a near universal property of getting up close and personal with reality.” 
 
 {{ wang }}
 
@@ -195,6 +202,16 @@ And,
 > My belief is that it's easier to become relatively good at real life activities relative to games or sports because there's so little delibrate practice put into most real life activities...
 
 > One thing to note here is that it's important to actually track what you're doing and not just guess at what you're doing. When I've recorded what people do and compare it to what they think they're doing, these are often quite different.
+
+{{ qu }}
+
+> I concluded that what we call 'intelligence' is as much about virtues such as honesty, integrity, and bravery, as it is about 'raw intellect’.
+
+> Intelligent people simply aren’t willing to accept answers that they don’t understand — no matter how many other people try to convince them of it, or how many other people believe it, if they aren’t able to convince them selves of it, they won’t accept it.
+
+> Importantly, this is a ‘software’ trait & is independent of more ‘hardware’ traits such as processing speed, working memory, and other such things.
+
+> Moreover, I have noticed that these ‘hardware’ traits vary greatly in the smartest people I know -- some are remarkably quick thinkers, calculators, readers, whereas others are ‘slow’. The software traits, though, they all have in common -- and can, with effort, be learned. 
 
 {{ nielsen }}
 
@@ -291,6 +308,14 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 {{ ava_time }}
 
 > I once read this great blogpost that used the analogy of keeping your inventory low. The author used inventory as an metaphor for things that you’re currently waiting on, the preconditions that need to be fulfilled before you act. For example, I want to hear about back this job before I apply for others. Or I need to lose weight before I wear this dress. Or, I need to have closure from my crush before I can move on and start dating other people. To be clear, sometimes the preconditions are real, but often they aren’t and you don’t actually need to wait for X to happen before you do Y. One way of keeping inventory low is to set self-imposed deadlines: if I don’t hear back in a week, I move on. Or you could just decide that the precondition doesn’t really matter.
+
+{{ ava_magic }}
+
+> Keeping mental inventory low
+
+> Generally, there should not be many things you’re “waiting on.” If you’re waiting on multiple replies before you can make a big decision with your life (_did I get this job? Does this person want to date me?_) I would suggest assuming the answer is no and moving onto the natural next step. If you’re waiting for something with a quick deadline it’s different (_I find it out in three months which grad schools I get in) but waiting for amorphous (and especially amorphous low-probability things_) can be ruinous.
+
+> It’s very common to subconsciously want to prolong the wait time. If you find yourself doing that, push for a quick response. You’ll feel better afterwards.
 
 {{ cowen_publishing }}
 
