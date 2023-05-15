@@ -61,6 +61,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
+{% capture hambling %}Maggie Hambling, [to Mason Currey](https://masoncurrey.substack.com/p/maggi-hambling-brancusi-mental-state-making-art){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
 {% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006){% endcapture %}
@@ -109,6 +110,10 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {{ glass }}
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
+
+{{ hambling }}
+
+> It is not difficult to make a work of art, the difficulty lies in being in the right state to do it.
 
 {{ wolfson }}
 
