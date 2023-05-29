@@ -3,7 +3,7 @@ title: Writing advice
 image: burning
 ---
 
-There's only three things here because:
+There's only four things here because:
 
 * I'm not that good at writing.
 * I really like these pieces of advice, and I don't want to distract from them.
@@ -24,6 +24,12 @@ From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren B
 > Some people have long, lean writing muscles; mine are shortened and taut like a repetitive stress injury turned into a personal tendency. I can write anywhere now but not for long, and it’s only in the morning that I have that kind of energy and interest.
 
 > Things are usually in my way but that’s the thing about writing.
+
+## Actually write, don't outline
+
+Michael Nielsen, [Outlining](https://michaelnotebook.com/ongoing/sporadica.html#outlining):
+
+> And when I actually write, I can see why: I'll write a sentence that seemed obvious, then realize it's a little off, not quite true. Then realize that it's wrong in an important way. And I'll improve my understanding, and write something more true. And it'll change the whole rest of the argument, sometimes in subtle ways, sometimes completely changing it. Not just later bits of the argument, either: often it changes everything. And the thing is: I can only discover this by getting right down into the guts of the issue. If I'd outlined, I would have had to throw out my outline at this point. And it happens over and over and over and over and… you get the idea. The trouble with outlining is that writing is a transformative process; I write in order to transform my own understanding. And no outline survives contact with such transformation. If an outline "worked" it would mean my understanding hadn't been transformed; while the outline would have worked, the writing would have failed.
 
 ## Use a dictionary, not a thesaurus
 

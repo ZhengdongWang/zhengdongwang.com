@@ -73,6 +73,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture qu %}Nabeel Qu, [How To Understand Things](https://nabeelqu.substack.com/p/understanding){% endcapture %}
+{% capture russell %}Bertrand Russell, [The Conquest of Happiness](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
@@ -375,6 +376,10 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 Also, an aphorism I learned from college debate---"if you're writing, you're losing."
 
 ## But also work less hard and slow down
+
+{{ russell }}
+
+> One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.
 
 {{ deming }}
 
