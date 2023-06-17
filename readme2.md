@@ -70,6 +70,7 @@ Reading is so great. You learn so much. And it takes as much time as you want. A
 * [Dune](https://www.goodreads.com/book/show/234225.Dune) by Frank Herbert. Yeah, so basic. In general I like sci-fi where technology is only part of the background, like the short story [Folding Beijing](https://uncannymagazine.com/article/folding-beijing-2) by Hao Jingfang.
 * [Bone: The Complete Collection](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith. It feels like you got through a Lord-of-the-Rings-like experience in one sitting. The art is so sumptuous.
 * Honorable mention: [When You Reach Me](https://www.goodreads.com/book/show/5310515-when-you-reach-me) by Rebecca Stead. It's a children's book. I read it in sixth grade, so you can too. It's very short, so don't read any blurbs, just read the book. When I was young, every bit of the book seemed perfect. Now with nostalgia, it still seems perfect. Sorry if you're already older than 15, you can try to have the experience I did reading it.
+* Honorable mention: [Read something wonderful](https://readsomethingwonderful.com/) on the internet.
 Be my friend on [Goodreads](https://www.goodreads.com/review/list/69913212?sort=rating)!
 
 My favorite poem is:

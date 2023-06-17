@@ -58,6 +58,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
+{% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
@@ -145,6 +146,12 @@ Now a few quotes about research.
 > If more people realized this, I think we'd get many more people interested in doing physics, in actually doing it, because having the truth out there as a friend and something that you're sort of looking for and trying to head towards, is a tremendous leveler of the playing field when it comes to talents, inclination, are you strong mathematically, not strong mathematically. Having nature as a guide and a friend makes a humongous difference, because people of vastly different levels of talent and, of course you have to be very dedicated, but still, I mean, you can have very, very, you can be fast worker, slow worker. All of these things sort of pale to being somewhere in the vicinity of the right answer.
 
 > And you just have to sort of head towards there, figure out some way of getting there, and just sort of keep at it, keep asking, keep following the important questions, and see the light sort of through the thicket and get closer and closer to it... it doesn't much matter if you have a bulldozer or if you have just a machete, or even a little crappy knife to go through the thicket. You'll get there. But it's important to get in its vicinity.
+
+{{ feynman }}
+
+> The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to. A problem is grand in science if it lies before us unsolved and we see some way for us to make some headway into it. I would advise you to take even simpler, or as you say, humbler, problems until you find some you can really solve easily, no matter how trivial. You will get the pleasure of success, and of helping your fellow man, even if it is only to answer a question in the mind of a colleague less able than you. You must not take away from yourself these pleasures because you have some erroneous idea of what is worthwhile...
+
+> You say you are a nameless man. You are not to your wife and to your child. You will not long remain so to your immediate colleagues if you can answer their simple questions when they come into your office. You are not nameless to me. Do not remain nameless to yourself - it is too sad a way to be. now your place in the world and evaluate yourself fairly, not in terms of your naive ideals of your own youth, nor in terms of what you erroneously imagine your teacher's ideals are.
 
 {{ li }}
 

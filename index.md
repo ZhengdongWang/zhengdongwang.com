@@ -31,10 +31,10 @@ title: Home
 
 * General and Scalable Hierarchical Reinforcement Learning\
 Bernardo Avila Pires, Feryal Behbahani, Hubert Soyer, Kyriacos Nikiforou, Thomas
-Keck, **Zhengdong Wang**, Satinder Singh, 2022, RLDM
-* Internal contributions to [TensorFlow Quantum](https://www.tensorflow.org/quantum) in summer 2019 at [X](https://x.company).
+Keck, **Zhengdong Wang**, Satinder Singh, 2022, RLDM [(extended abstract)](https://rldm.org/papers/extendedabstracts.pdf)
 * GaMorNet: A Convolutional Neural Network to study morphology and quenching in SDSS and CANDELS\
 Aritra Ghosh, Megan Urry, **Zhengdong Wang**, Dennis Turp, Kevin Schawinski, Meredith Powell, 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47), arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
+* Internal contributions to [TensorFlow Quantum](https://www.tensorflow.org/quantum) summer 2019 at [X](https://x.company).
 
 ## About
 
