@@ -21,6 +21,7 @@ But every researcher and person curious about research should see (in order of i
 * [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/), SLIME MOLD TIME MOLD
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/), Michael Nielsen and Kanjun Qiu
+* [Morelli, Freud and Sherlock Holmes: Clues and Scientific Method](http://users.clas.ufl.edu/burt/filmphilology/ginzburgmorellifreudholmes.pdf), Carlo Ginzburg
 * [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
 * [The Beginning of Infinity](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity), David Deutsch
 
