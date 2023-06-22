@@ -18,6 +18,7 @@ But every researcher and person curious about research should see (in order of i
 * [On Slow Research](http://davidpfau.com/slow_research.html), David Pfau
 * [Cultivating depth and stillness in research](https://andymatuschak.org/stillness/), Andy Matuschak
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
+* [Speech to the Association of Los Alamos Scientists](https://www.atomicarchive.com/resources/documents/manhattan-project/oppenheimer-farewell.html), J. Robert Oppenheimer, November 2, 1945
 * [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/), SLIME MOLD TIME MOLD
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/), Michael Nielsen and Kanjun Qiu

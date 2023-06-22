@@ -3,6 +3,10 @@ title: Productivity advice
 image: victory
 ---
 
+We begin with the wise words of [Sylvia Plath](https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath):
+
+> What is my life for and what am I going to do with it? I don't know and I’m afraid. I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And what do I want? I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life.
+
 Reading productivity advice is really fun for me. It's a great way to procrastinate. Don't worry about all the work I'm not doing now. I'm improving my system, which is even more important! In fact, with this new system I'll be so much more productive than I was before. I'll easily make up for not working now, right?
 
 At the same time I take productivity advice too seriously. If you're actively looking for productivity essays to read (like me), you might be like me. This section is for you. Some of the worst I've felt about myself was guilt over not being more productive after reading other people's advice. Here are these Really Smart and Successful People who are Productive Forces of Nature. They have it all figured out, and they're even feeding me the steps. Why can I not simply Be Better.
