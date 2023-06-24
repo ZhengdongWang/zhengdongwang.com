@@ -3,7 +3,7 @@ title: Productivity advice
 image: victory
 ---
 
-We begin with the wise words of [Sylvia Plath](https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath):
+We begin with the [wise words of Sylvia Plath](https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath):
 
 > What is my life for and what am I going to do with it? I don't know and I’m afraid. I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And what do I want? I want to live and feel all the shades, tones, and variations of mental and physical experience possible in my life.
 
@@ -33,7 +33,6 @@ So what to do. Well I try to:
 * Realize productivity advice is just for fun. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
 * Stop caring about productivity. Work is but a narrow sliver of the full range of human experience. Go outside.
 * Be nice to yourself. Everybody sucks at not procrastinating.
-  * Taylor Swift: [this is me trying](https://www.youtube.com/watch?v=9bdLTPNrlEg).
 
 Okay now that you know that time for what you came for.
 
