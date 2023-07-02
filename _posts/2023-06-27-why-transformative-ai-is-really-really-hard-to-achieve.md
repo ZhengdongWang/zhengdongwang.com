@@ -2,6 +2,7 @@
 title:  Why transformative AI is really, really hard to achieve
 date: 2023-06-27 12:38:00
 image: babel
+description: A collection of the best technical, social, and economic arguments
 ---
 
 ![babel](https://thegradient.pub/content/images/size/w1600/2023/06/babel.jpg)
