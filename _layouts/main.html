@@ -17,6 +17,10 @@
   {% if jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+  {% if page.image %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  {% endif %}
 </head>
 
 <body>

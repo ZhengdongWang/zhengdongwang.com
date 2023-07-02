@@ -1,6 +1,7 @@
 ---
 title:  Why transformative AI is really, really hard to achieve
 date: 2023-06-27 12:38:00
+image: babel
 ---
 
 ![babel](https://thegradient.pub/content/images/size/w1600/2023/06/babel.jpg)
@@ -193,7 +194,7 @@ The steam engine certainly increased growth and made the world an unrecognizable
 
 *The authors: [Arjun Ramani](https://arjunramani.com/) is the global business and economics correspondent at The Economist. [Zhengdong Wang](https://zhengdongwang.com/) is a research engineer at Google DeepMind. Views our own and not those of our employers.*
 
-*We thank Hugh Zhang, Will Arnesen, Mike Webb, Basil Halperin, Tom McGrath, and Nathalie Bussemaker for reading drafts, and many others for helpful discussions.*
+*We thank Hugh Zhang, Will Arnesen, Mike Webb, Basil Halperin, Tom McGrath, Nathalie Bussemaker, and Vijay Viswanathan for reading drafts, and many others for helpful discussions.*
 
 ---
 
