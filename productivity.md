@@ -64,7 +64,8 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
-{% capture graham %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
+{% capture graham_life %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
+{% capture graham_work %}Paul Graham, [How to Do Great Work:](http://paulgraham.com/greatwork.html){% endcapture %}
 {% capture hambling %}Maggie Hambling, [to Mason Currey](https://masoncurrey.substack.com/p/maggi-hambling-brancusi-mental-state-making-art){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
@@ -159,6 +160,14 @@ Now a few quotes about research.
 {{ li }}
 
 > Pedagogic note: Part of what makes research hard is that you work on problems without knowing the answer in advance. A key skill is to learn to be at peace when working under uncertainty, and to be comfortable making guesses and seeing where they lead. To build this skill, these problems pose conjectures but do not indicate whether you should seek a proof or a counterexample. If you get stuck on finding a proof, try switching to search for counterexamples, and vice versa. Another way this resembles research is that you probably will not find the answers to every question. (If you can answer 3 out of 5, you're doing fine!)
+
+{{ graham_work }}
+
+> Many more people could try to do great work than do. What holds them back is a combination of modesty and fear. It seems presumptuous to try to be Newton or Shakespeare. It also seems hard; surely if you tried something like that, you'd fail. Presumably the calculation is rarely explicit. Few people consciously decide not to try to do great work. But that's what's going on subconsciously; they shy away from the question.
+
+> So I'm going to pull a sneaky trick on you. Do you want to do great work, or not? Now you have to decide consciously. Sorry about that. I wouldn't have done it to a general audience. But we already know you're interested.
+
+> Don't worry about being presumptuous. You don't have to tell anyone. And if it's too hard and you fail, so what? Lots of people have worse problems than that. In fact you'll be lucky if it's the worst problem you have.
 
 In some sense, the following is also about direction, from world and Olympic speed skating record holder, and world and Olympic speed skating champion,
 
@@ -363,7 +372,7 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 
 > As you scale that up even more you might now take significant resources for a noticeable amount of time and need to get that approved and budgeted, which takes its own meetings etc.
 
-{{ graham }}
+{{ graham_life }}
 
 > If life is short, we should expect its shortness to take us by surprise. And that is just what tends to happen. You take things for granted, and then they're gone. You think you can always write that book, or climb that mountain, or whatever, and then you realize the window has closed. The saddest windows close when other people die. Their lives are short too. After my mother died, I wished I'd spent more time with her. I lived as if she'd always be there. And in her typical quiet way she encouraged that illusion. But an illusion it was. I think a lot of people make the same mistake I did.
 
