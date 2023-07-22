@@ -77,7 +77,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen_principles %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
-{& capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html){% endcapture %}
+{% capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html){% endcapture %}
 {% capture qu %}Nabeel Qu, [How To Understand Things](https://nabeelqu.substack.com/p/understanding){% endcapture %}
 {% capture russell %}Bertrand Russell, [The Conquest of Happiness](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
