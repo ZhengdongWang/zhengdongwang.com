@@ -84,6 +84,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture wang %}Dan Wang, [2017 letter](https://danwang.co/2017-letter/){% endcapture %}
+{% capture weil %}Simone Weil, [Reflections on the Right Use of School Studies with a View to the Love of God:](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
 {% capture wolfson %}Brie Wolfson, [Notes on "Taste":](https://www.are.na/blog/notes-on-taste){% endcapture %}
 {% capture zhang %}Valerie Zhang, [DONE IS BETTER THAN PERFECT A POST IN CAPS LOCK:](https://valeriezhang.substack.com/p/done-is-better-than-perfect){% endcapture %}
@@ -117,6 +118,10 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {{ glass }}
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
+
+{{ weil }}
+
+> Will power, the kind that, if need be, makes us set our teeth and endure suffering, is the principal weapon of the apprentice engaged in manual work. But, contrary to the usual belief, it has practically no place in study. The intelli gence can only be led by desire. For there to be desire, there must be pleasure and joy in the work. The intelligence only grows and bears fruit in joy. The joy of learning is as indis pensable in study as breathing is in running. Where it is lacking there are no real students, but only poor caricatures of apprentices who, at the end of their apprenticeship, will not even have a trade.
 
 {{ hambling }}
 

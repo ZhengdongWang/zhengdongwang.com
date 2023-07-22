@@ -20,6 +20,7 @@ But every researcher and person curious about research should see (in order of i
 * [Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)](https://germanhistorydocs.ghi-dc.org/pdf/eng/English101.pdf)
 * [Speech to the Association of Los Alamos Scientists](https://www.atomicarchive.com/resources/documents/manhattan-project/oppenheimer-farewell.html), J. Robert Oppenheimer, November 2, 1945
 * [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/), SLIME MOLD TIME MOLD
+* [Reflections on the Right Use of School Studies with a View to the Love of God](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf), Simone Weil
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/), Michael Nielsen and Kanjun Qiu
 * [Morelli, Freud and Sherlock Holmes: Clues and Scientific Method](http://users.clas.ufl.edu/burt/filmphilology/ginzburgmorellifreudholmes.pdf), Carlo Ginzburg
