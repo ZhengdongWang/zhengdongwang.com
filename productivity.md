@@ -76,7 +76,8 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
-{% capture nielsen %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{% capture nielsen_principles %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
+{& capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html){% endcapture %}
 {% capture qu %}Nabeel Qu, [How To Understand Things](https://nabeelqu.substack.com/p/understanding){% endcapture %}
 {% capture russell %}Bertrand Russell, [The Conquest of Happiness](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
@@ -134,6 +135,10 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 > Countries generally can’t maintain high growth rates, but that doesn’t equally have to affect individuals. I’d like for people to think in different terms. The world is big enough, and any individual is small enough, that we can accelerate learning over time. And I submit that positive belief that this claim is true would make it so.
 
 Now a few quotes about research.
+
+{{ nielsen_quick}}
+
+> Given all that: the problems you work on matter enormously. I say "work on" but that's not the same as "pick". Einstein got interested in some strange transformation properties of Maxwell's equations; in trying to resolve that, he discovered that space and time, mass and energy, are not as they seemed, but fundamentally different. Darwin went on a geology expedition, but was so curious and observant that he ended up understanding the origin of species. Great problems have to be discovered; often the solution of the problem is only a tiny part of the story, most of it is really about discovering the problem.
 
 {{ dijkstra }}
 
@@ -206,6 +211,10 @@ And,
 
 > True self confidence comes from experience. My very race specific ice sessions supplied me with the facts of my capacity and the trust in myself. I wasn’t mentaly strong as a kid, I hated to compete ever since I started speed skating, I truly hated it. It is still a little anxiety provoking for me, I think it always will be when I test myself in an activity that I really care about. But today it’s a walk in the park compared to when I was a kid. This development was mainly acquired through continuous voluntary confrontation with the challenge (read that sentence again and emphasize voluntary). It was first when I understood that, or felt like, I volunteered, that I was able to compete with a free mind.
 
+{{ nielsen_quick }}
+
+> Learn what it means to work hard: this is surprisingly difficult. It means knowing when to push, when not. It means knowing how to vacation well and how to enjoy your life. You must not become a drudge – a surprisingly common problem among the ambitious. You must become alive to moments of leverage and creative opportunity and insight. And, of course, it also means knowing how to work incredibly hard and with great courage and determination.
+
 {{ lee }}
 
 > Before I learned the art, a punch was just a punch, and a kick, just a kick. After I learned the art, a punch was no longer a punch, a kick, no longer a kick. Now that I understand the art, a punch is just a punch and a kick is just a kick.
@@ -238,7 +247,7 @@ And,
 
 > Moreover, I have noticed that these ‘hardware’ traits vary greatly in the smartest people I know -- some are remarkably quick thinkers, calculators, readers, whereas others are ‘slow’. The software traits, though, they all have in common -- and can, with effort, be learned. 
 
-{{ nielsen }}
+{{ nielsen_principles }}
 
 > It is a tempting but ultimately counterproductive fallacy to believe that self-discipline is merely a matter of will, of deciding what it is that you want to do, and then doing it. Many other factors affect self-discipline, and it’s important to understand those other factors. Furthermore, if you believe that it’s all a matter of willpower then you’re likely to get rather depressed when you fall short, sapping your confidenc, and resulting in less disciplined behaviour.
 
@@ -408,7 +417,7 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 > Creating meaning and value in life outside of the speed skating oval helped me get through tough training periods. When the training wasn’t going great, perhaps something else in life did and that cheered me up. Later on, when I became more successful and there was a media hype around me, the normal part of my life helped me keep myself grounded. I knew who I was and I was not just a speed skater. Today I’m very happy for all the friends I’ve made on all of those two rest days. Most of these friends are not speed skaters and to me they shed light upon my life from a new perspective. For that I am very thankful. I believe that it was the value I created outside of the sport, and not the success within it, that made it worthwhile to live in this manner; to face the horrific fact that only one of us will win the competition and all the others will lose; that injury or sickness can sabotage four years of work. It was not my success that justified my sacrifices, it was my friends, and I owed it to them to try to live up to my full potential.
 
-{{ nielsen }}
+{{ nielsen_principles }}
 
 > You also need to have the rest of your life in order to be an effective researcher. Make sure you’re fit. Look after your health. Spend high quality time with your family. Have fun. These things require a lot of thought and effort to get right. If you don’t get them right, not only will your life as a whole be less good, your research will suffer.
 
