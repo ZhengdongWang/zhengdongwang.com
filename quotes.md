@@ -58,3 +58,17 @@ Pierre Curie, August 10, 1894 letter to Marie Curie
 > "But by arranged marriages we mean those in which both have already had their wild times. It's like scarlet fever, one has to go through it."
 
 > "Then we should find some artificial inoculation against love, as with smallpox."
+
+[Jane Austen, Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice)
+
+> "Do you talk by rule, then, while you are dancing?"
+
+> "Sometimes. One must speak a little, you know. It would look odd to be entirely silent for half an hour together; and yet, for the advantage of _some_, conversation ought to be so arranged as that they may have the trouble of saying as little as possible."
+
+> "Are you consulting your own feelings in the present case, or do you imagine that you are gratifying mine?"
+
+> "Both," replied Elizabeth archly; "for I have always seen a great similarity in the turn of our minds. We are each of an unsocial, taciturn disposition, unwilling to speak, unless we expect to say something that will amaze the whole room, and be handed down to posterity with all the _éclat_ of a proverb."
+
+> "This is no very striking resemblance of your own character, I am sure," said he. "How near it may be to _mine_, I cannot pretend to say. _You_ think it a faithful portrait, undoubtedly."
+
+> "I must not decide on my own performance."
