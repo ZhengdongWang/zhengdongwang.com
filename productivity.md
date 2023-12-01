@@ -48,6 +48,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture arkani-hamed1 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part I:](https://www.youtube.com/watch?v=h6_iJRY6nU4){% endcapture %}
 {% capture arkani-hamed2 %}Nima Arkani-Hamed, [The Power of Principles, Physics Revealed Part II:](https://www.youtube.com/watch?v=OzSDZ_EPiXk){% endcapture %}
 {% capture arkani-hamed3 %}Nima Arkani-Hamed, [The Morality of Fundamental Physics:](https://www.youtube.com/watch?v=5aAMJNVmdoY){% endcapture %}
+{% capture asparouhov %}Delian Asparouhov, [Thirty Observations at Thirty:](https://delian.io/thirty){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
 {% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
 {% capture ava_magic %}Ava, [practical magic:](https://ava.substack.com/p/practical-magic){% endcapture %}
@@ -60,6 +61,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture cowen_publishing %}Tyler Cowen, [Simple advice for academic publishing:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
+{% capture ecclesiastes %}[Ecclesiastes 1:8](https://www.biblegateway.com/passage/?search=Ecclesiastes%201%3A8&version=KJV), via [Henry Oliver](https://www.commonreader.co.uk/p/35-pieces-of-practical-wisdom-from){% endcapture %}
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
@@ -188,6 +190,10 @@ In some sense, the following is also about direction, from world and Olympic spe
 energy by also going slow on the ice.
 
 ## There's nothing special about being good (rather, work really hard)
+
+{{ ecclesiastes }}
+
+> All things are full of labour.
 
 Yeah, I know this just sounds like "be better." Sorry. But this is a big section, it really is what people say.
 
@@ -414,6 +420,12 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 Also, an aphorism I learned from college debate---"if you're writing, you're losing."
 
 ## But also work less hard and slow down
+
+{{ asparouhov }}
+
+> I feel that the year is demarcated by times with my family, and everything in between is just the noise that I reflect on during my time with them. If I didn’t architect my life this way, I wouldn’t be the person I am today.
+
+> It’s always been my top priority, and I am thankful my family life is meaningful and filled with joy. That doesn’t happen by default, it has to be your top priority. 
 
 {{ russell }}
 
