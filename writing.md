@@ -3,19 +3,9 @@ title: Writing advice
 image: burning
 ---
 
-There's only four things here because:
-
-* I'm not that good at writing.
-* I really like these pieces of advice, and I don't want to distract from them.
-* I don't know how to generalize most writing advice people give me. When I get a comment like "make your argument clearer," I can only describe specifically how I'm going to do it for that argument only.
-* It really depends! You should read:
-  * [Jim Pryor's advice](http://www.jimpryor.net/teaching/guidelines/writing.html) for philosophy.
-  * [John Cochrane's advice](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eda74919c44fa5f87452697/1591374993570/phd_paper_writing.pdf) for economics.
-  * [Dan Luu's writing non-advice](https://danluu.com/writing-non-advice/), or why most writing advice is unhelpful.
-
 ## You can write anywhere
 
-From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren Berlant, which can apply to anything:
+Lauren Berlant, [The Hundreds](https://www.goodreads.com/en/book/show/39859869)
 
 > Once, I needed the perfect time and place to write. I stood in my way like a poison-pen letter to myself. But slowly, under the velocities of worldy reals that came and went, I learned to write in my own skin, like it or not.
 
@@ -25,15 +15,9 @@ From [The Hundreds](https://www.goodreads.com/en/book/show/39859869) by Lauren B
 
 > Things are usually in my way but that’s the thing about writing.
 
-## Actually write, don't outline
-
-Michael Nielsen, [Outlining](https://michaelnotebook.com/ongoing/sporadica.html#outlining):
-
-> And when I actually write, I can see why: I'll write a sentence that seemed obvious, then realize it's a little off, not quite true. Then realize that it's wrong in an important way. And I'll improve my understanding, and write something more true. And it'll change the whole rest of the argument, sometimes in subtle ways, sometimes completely changing it. Not just later bits of the argument, either: often it changes everything. And the thing is: I can only discover this by getting right down into the guts of the issue. If I'd outlined, I would have had to throw out my outline at this point. And it happens over and over and over and over and… you get the idea. The trouble with outlining is that writing is a transformative process; I write in order to transform my own understanding. And no outline survives contact with such transformation. If an outline "worked" it would mean my understanding hadn't been transformed; while the outline would have worked, the writing would have failed.
-
 ## Use a dictionary, not a thesaurus
 
-From [Draft No. 4: On the Writing Process](https://www.goodreads.com/book/show/18194765-draft-no-4) by John McPhee. Here is an [excerpt](https://www.newyorker.com/magazine/2013/04/29/draft-no-4):
+John McPhee, [Draft No. 4: On the Writing Process](https://www.goodreads.com/book/show/18194765-draft-no-4)---[an excerpt](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)
 
 > With dictionaries, I spend a great deal more time looking up words I know than words I have never heard of&mdash;at least ninety-nine to one. The dictionary definitions of words you are trying to replace are far more likely to help you out than a scattershot wad from a thesaurus. If you use the dictionary after the thesaurus, the thesaurus will not hurt you...
 
@@ -43,7 +27,7 @@ From [Draft No. 4: On the Writing Process](https://www.goodreads.com/book/show/1
 
 ## Is it pertinent?
 
-You've heard kill your darlings, but have you heard, from [Annie Dillard, The Writing Life](https://www.goodreads.com/book/show/12530.The_Writing_Life):
+Annie Dillard, [The Writing Life](https://www.goodreads.com/book/show/12530.The_Writing_Life)
 
 > Several delusions weaken the writer’s resolve to throw a way work. If he has read his pages too often, those pages will have a necessary quality, the ring of the inevitable, like poetry known by heart; they will perfectly answer their own familiar rhythms. He will retain them. He may retain those pages if they possess some virtues, such as power in themselves, though they lack the cardinal virtue, which is pertinence to, and unity with, the book’s thrust. Sometimes the writer leaves his early chapters in place from gratitude; he cannot contemplate them or read them without feeling again the blessed relief that exalted him when the words first appeared—relief that he was writing anything at all. That beginning served to get him where he was going, after all: surely the reader needs it, too, as groundwork. But no.
 

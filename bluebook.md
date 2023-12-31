@@ -3,6 +3,8 @@ title: Bluebooking for happiness
 image: aosta
 ---
 
+*Note: I last made a significant update to this in 2021, the year I graduated. Some facts about Yale course selection has changed, but I still stand by my general point.*
+
 Every semester Yale begins with shopping period. You can go to any class, and at the end of two weeks, turn in your final schedule. It's different from other shopping-period-like systems where you sign up for more classes than you intend to take and then drop them. I usually have no idea what I'll actually end up taking when the semester begins.
 
 There's a lot of classes to choose from. Most of the time the first meeting of a class isn't as good as you thought it would be based on the description. [Reality is often disappointing.](https://www.youtube.com/watch?v=PyWozUKQHvo) It's time-prohibitive to seriously consider every class, and at best you'll only get through a quarter of the list before getting lazy.
@@ -91,7 +93,7 @@ What's wrong with the usual guts?
 * These classes are oddly competitive. Not just to get into, but sometimes even to do well. You have to differentiate yourself from the hundred other lemmings in the class. If it's easy for everyone and there's a curve, you might start stressing about a class you didn't budget for.
 * Widely-acknowledged guts often mean busy work. It's easy for everyone. It reflects that the professor knows they're teaching a gut, too. You overestimate your tolerance for busy work.
 
-Find classes other people are taking for the material (or even better, the professor), _that also happen to be low-workload_. Okay, but these classes sound like a unicorns, you say. Where am I supposed to find these magical low-workload but also serious classes? Serious professors rarely give little work, and work trades off with what you get out of the class.
+Find classes other people are taking for the material (or even better, the professor), _that also happen to be low-workload_. Okay, but these classes sound like unicorns, you say. Where am I supposed to find these magical low-workload but also serious classes? Serious professors rarely give little work, and work trades off with what you get out of the class.
 
 But easy, serious classes exist! I don't know a general rule for finding them. But here are some suggestions:
 

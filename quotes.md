@@ -1,5 +1,5 @@
 ---
-title: Quotations
+title: Quotes
 image: sun
 ---
 
@@ -37,27 +37,11 @@ Beauty---not truth---is the only requirement to be here.
 
 > The novelist's happy discovery was to think of substituting for those opaque sections, impenetrable by the human spirit, their equivalent in immaterial sections, things, that is, which the spirit can assimilate to itself. After which it matters not that the actions, the feelings of this new order of creatures appear to us in the guise of truth, since we have made them our own, since it is in ourselves that they are happening, that they are holding in thrall, while we turn over, feverishly, the pages of the book, our quickened breath and staring eyes. And once the novelist has brought us to that state, in which, as in all purely mental states, every emotion is multiplied ten-fold, into which his book comes to disturb us as might a dream, but a dream more lucid, and of a more lasting impression than those which come to us in sleep; why, then, for the space of an hour he sets free within us all the joys and sorrows in the world, a few of which, only, we should have to spend years of our actual life in getting to know, and the keenest, the most intense of which would never have been revealed to us because the slow course of their development stops our perception of them.
 
-Pierre Curie, August 10, 1894 letter to Marie Curie
+[Pierre Curie, August 10, 1894 letter to Marie Curie](https://theromantic.com/LoveLetters/pierrecurie.htm)
 
 > We have promised each other — haven't we? — to be at least great friends. If you will only not change your mind! For there are no promises that are binding; such things cannot be ordered at will. It would be a fine thing, just the same, in which I hardly dare believe, to pass our lives near each other, hypnotized by our dreams: your patriotic dream, our humanitarian dream, and our scientific dream.
 
 > Of all those dreams the last is, I believe, the only legitimate one. I mean by that that we are powerless to change the social order and, even if we were not, we should not know what to do; in taking action, no matter in what direction, we should never be sure of not doing more harm than good, by retarding some inevitable evolution. From the scientific point of view, on the contrary, we may hope to do something; the ground is solider here, and any discovery that we may make, however small, will remain acquired knowledge.
-
-[Leo Tolstoy, trans. Constance Garnett, Anna Karenina]()
-
-> "I"m surprised at the parents. They say it's a marriage of passion."
-
-> "Of passion? What antediluvian thoughts you have! Who talks about passions these days?" said the ambassador's wife.
-
-> "What's to be done? This stupid old fashion hasn't gone out of use," said Vronsky.
-
-> "So much the worse for those who cling to it. The only happy marriages I know are arranged ones."
-
-> "Yes, but how often the happiness of an arranged marriage scatters like dust, precisely because of the appearance of that very passion which was not acknowledged," said Vronsky.
-
-> "But by arranged marriages we mean those in which both have already had their wild times. It's like scarlet fever, one has to go through it."
-
-> "Then we should find some artificial inoculation against love, as with smallpox."
 
 [Jane Austen, Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice)
 

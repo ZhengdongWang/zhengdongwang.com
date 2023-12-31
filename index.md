@@ -12,32 +12,10 @@ title: Home
   <a href='#' onclick='toggle_dark();return false;'>lights</a>
 </h6>
 
-## What I'm doing now
+I'm a Research Engineer at [DeepMind](https://deepmind.com) in London. I work on assorted problems in reinforcement learning and large modeling. If you only read one thing, read this [readme](readme). It's like documentation, but about me.
 
-* I'm a Research Engineer at [DeepMind](https://deepmind.com) in London.
-
-## Writing
-
-* If you only read one thing, read this [readme](readme). It's like documentation, but about me!
-* [Quotations](quotes) I think are beautiful.
-* [Writing advice](writing) that has worked for me.
-* [Productivity advice](productivity) that has worked for me, maybe.
-* Rules for [picking classes at Yale](bluebook).
-* Some more seasonal content. My website isn't sure if it's a website or a blog. {% for post in site.posts limit:3 %}
+Some seasonal content: {% for post in site.posts limit:5 %}
   * {{ post.date | date: '%Y-%m-%d' }} \| [{{ post.title }}]({{post.url}}) {% endfor %}
   * [All posts](blog), [RSS](/feed.xml).
 
-## Research
-
-* General and Scalable Hierarchical Reinforcement Learning\
-Bernardo Avila Pires, Feryal Behbahani, Hubert Soyer, Kyriacos Nikiforou, Thomas
-Keck, **Zhengdong Wang**, Satinder Singh, 2022, RLDM
-* GaMorNet: A Convolutional Neural Network to study morphology and quenching in SDSS and CANDELS\
-Aritra Ghosh, Megan Urry, **Zhengdong Wang**, Dennis Turp, Kevin Schawinski, Meredith Powell, 2020, ApJ, 895, 112, doi: [10.3847/1538-4357/ab8a47](https://doi.org/10.3847/1538-4357/ab8a47), arXiv: [2006.14639](https://arxiv.org/abs/2006.14639)
-* Internal contributions to [TensorFlow Quantum](https://www.tensorflow.org/quantum) summer 2019 at [X](https://x.company).
-
-## About
-
-* I'm echoing [Devon Zuegel's](https://devonzuegel.com/page/contact), [Dan Wang's](https://danwang.co/contact), and [Patrick McKenzie's](https://www.kalzumeus.com/standing-invitation) standing invitations. I really like getting email.
-<!-- * [Giving](giving). -->
-* Fun facts [about this website](about). And the [source code](https://github.com/ZhengdongWang/zhengdongwang.com).
+More persistently, here are [quotes](quotes) I find beautiful, [writing advice](writing) that has worked for me, [productivity advice](productivity) that has worked for me (maybe), rules for [picking classes at Yale](bluebook), and the [colophon](about). I'm echoing [many](https://devonzuegel.com/page/contact) [other](https://danwang.co/contact) [people's](https://www.kalzumeus.com/standing-invitation) standing invitations. I really like getting email.

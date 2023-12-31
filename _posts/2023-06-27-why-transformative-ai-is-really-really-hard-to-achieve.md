@@ -195,7 +195,7 @@ The steam engine certainly increased growth and made the world an unrecognizable
 
 *The authors: [Arjun Ramani](https://arjunramani.com/) is the global business and economics correspondent at The Economist. [Zhengdong Wang](https://zhengdongwang.com/) is a research engineer at Google DeepMind. Views our own and not those of our employers.*
 
-*We thank Hugh Zhang, Will Arnesen, Mike Webb, Basil Halperin, Tom McGrath, Nathalie Bussemaker, and Vijay Viswanathan for reading drafts, and many others for helpful discussions.*
+*We are grateful to Hugh Zhang for excellent edits. We also thank Will Arnesen, Mike Webb, Basil Halperin, Tom McGrath, Nathalie Bussemaker, and Vijay Viswanathan for reading drafts, and many others for helpful discussions.*
 
 ---
 

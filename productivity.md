@@ -9,36 +9,15 @@ We begin with the [wise words of Sylvia Plath](https://www.goodreads.com/book/sh
 
 Reading productivity advice is really fun for me. It's a great way to procrastinate. Don't worry about all the work I'm not doing now. I'm improving my system, which is even more important! In fact, with this new system I'll be so much more productive than I was before. I'll easily make up for not working now, right?
 
-At the same time I take productivity advice too seriously. If you're actively looking for productivity essays to read (like me), you might be like me. This section is for you. Some of the worst I've felt about myself was guilt over not being more productive after reading other people's advice. Here are these Really Smart and Successful People who are Productive Forces of Nature. They have it all figured out, and they're even feeding me the steps. Why can I not simply Be Better.
+Of course reading productivity advice gets self-destructive quite easily. I've felt so guilty for not being more productive after reading about other people. Here are these Really Smart and Successful and Productive Forces of Nature. They have it all figured out, and they're even feeding me the steps. Why can I not Simply Be Better.
 
-I can identify "this one weird trick" and "doctors hate 'em!" as scams pretty easily. Productivity advice is a better concealed scam. Nobody ever becomes 10X or even 2X more productive after reading a self-help book or starting the Pomodoro Technique.
+Though better concealed, productivity advice is a scam like "this one weird trick" and "doctors hate 'em." Nobody ever becomes even twice as productive after starting the Pomodoro Technique. You can thank the efficient market of yourself for that.
 
-Honestly! Here are two hopefully clarifying reasons why, with very original names from me:
+So try to remember that productivity advice is just for fun. Like reading a niche celebrity tabloid, or playing a farming minigame. And "work," traditionally construed, is but a sliver of the full range of human experience. Finally, be nice to yourself. Everybody procrastinates something. And looking at [how famous creatives allegedly spent their time](https://podio.com/site/creative-routines), literally anything will work.
 
-1. No Free Lunch: You are no more productive after implementing a productivity trick than you were before.
-  * You're using the same willpower to adhere to your new productivity trick as you were to stop procrastinating. It's the same crappy willpower.
-  * You will optimize to be as lazy as possible within the constraints of your new trick.
-  * You will exploit the unique weaknesses of your new trick.
-  * You will feel a false sense of productivity having implemented your new trick.
-2. Efficient Markets: If there existed a productivity trick that you could feasibly implement and actually made you 2X more productive, you've already implemented it.
-  * I've met people who are 2X more productive than other people. But have you met anyone who suddenly forced themselves to be 2X more productive? Not me.
+Okay, now what you came for. **Everybody is saying the same thing.**
 
-Oh you want some "empirical evidence" ok:
-
-* Alexey Guzey has some good examples of [every productivity system stops working eventually and there’s nothing you can do about it](https://guzey.com/productivity/#every-productivity-system-stops-working-eventually-and-theres-nothing-you-can-do-about-it).
-* Another example of the holy grail not existing is in [how famous creative people allegedly spent their time](https://podio.com/site/creative-routines). Notice how literally anything will work.
-
-So what to do. Well I try to:
-
-* Realize productivity advice is just for fun. I like playing those farming games where you can rearrange your plots and sprinklers so your farm is more efficient. Imagining the marginal efficiency improvements is the fun part for me. If my farm was super important to my life, it would no longer be fun.
-* Stop caring about productivity. Work is but a narrow sliver of the full range of human experience. Go outside.
-* Be nice to yourself. Everybody sucks at not procrastinating.
-
-Okay now that you know that time for what you came for.
-
-**Everybody is saying the same thing.** At least, it looks that way from the quotes I picked. I grouped the things people into what I think is the same about them. You should read the original essays just to make sure. Another reason to read them in full is because I quoted only the parts that are relevant to my life, which is not your life.
-
-By the way, the counterexample to "everybody is saying the same thing" is [Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336). And remember also [it is not all up to you](https://escapingflatland.substack.com/p/childhoods).
+At least, it looks that way from the quotes I picked, which I organized into sections. You should read the original essays just to make sure. Another reason to read them in full is because I cherrypicked the parts relevant to my life, which is not your life. (By the way, "everybody saying the same thing" is everybody [except Agnes Callard](https://twitter.com/AgnesCallard/status/1503108298349838336).)
 
 {% capture adriene %}Yoga with Adriene, [often:](https://www.youtube.com/channel/UCFKE7WVJfvaHW5q283SxchA){% endcapture %}
 {% capture alexander %}Christopher Alexander, [in the foreword for Patterns of Software:](https://www.goodreads.com/en/book/show/685486){% endcapture %}
@@ -50,9 +29,9 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture arkani-hamed3 %}Nima Arkani-Hamed, [The Morality of Fundamental Physics:](https://www.youtube.com/watch?v=5aAMJNVmdoY){% endcapture %}
 {% capture asparouhov %}Delian Asparouhov, [Thirty Observations at Thirty:](https://delian.io/thirty){% endcapture %}
 {% capture autotranslucence %}autotranslucence, [Becoming a magician:](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician){% endcapture %}
-{% capture ava_routines %}Ava, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
-{% capture ava_magic %}Ava, [practical magic:](https://ava.substack.com/p/practical-magic){% endcapture %}
-{% capture ava_time %}Ava, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
+{% capture ava_routines %}Ava Huang, [routines, rituals, meaning:](https://ava.substack.com/p/routines-rituals-meaning){% endcapture %}
+{% capture ava_magic %}Ava Huang, [practical magic:](https://ava.substack.com/p/practical-magic){% endcapture %}
+{% capture ava_time %}Ava Huang, [it never feels like the right time:](https://ava.substack.com/p/it-never-feels-like-the-right-time){% endcapture %}
 {% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840){% endcapture %}
 {% capture burkeman %}Oliver Burkeman, [The three-or-four-hours rule for getting creative work done:](https://www.oliverburkeman.com/fourhours){% endcapture %}
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
@@ -61,14 +40,14 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture cowen_publishing %}Tyler Cowen, [Simple advice for academic publishing:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture deming %}Laura Deming, [Advice for ambitious teenagers:](https://ldeming.posthaven.com/advice-for-ambitious-teenagers){% endcapture %}
 {% capture dijkstra %}Edsger Dijkstra, [untitled research advice:](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1055A.html){% endcapture %}
-{% capture ecclesiastes %}[Ecclesiastes 1:8](https://www.biblegateway.com/passage/?search=Ecclesiastes%201%3A8&version=KJV), via [Henry Oliver](https://www.commonreader.co.uk/p/35-pieces-of-practical-wisdom-from){% endcapture %}
+{% capture ecclesiastes %}[Ecclesiastes 1:8](https://www.biblegateway.com/passage/?search=Ecclesiastes%201%3A8&version=KJV), via [Henry Oliver:](https://www.commonreader.co.uk/p/35-pieces-of-practical-wisdom-from){% endcapture %}
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham_life %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture graham_work %}Paul Graham, [How to Do Great Work:](http://paulgraham.com/greatwork.html){% endcapture %}
-{% capture hambling %}Maggie Hambling, [to Mason Currey](https://masoncurrey.substack.com/p/maggi-hambling-brancusi-mental-state-making-art){% endcapture %}
+{% capture hambling %}Maggie Hambling, [to Mason Currey:](https://masoncurrey.substack.com/p/maggi-hambling-brancusi-mental-state-making-art){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
 {% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006){% endcapture %}
@@ -79,14 +58,15 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen_principles %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
-{% capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html){% endcapture %}
+{% capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research:](https://michaelnotebook.com/qtr/index.html){% endcapture %}
 {% capture oppenheimer %}Robert Oppenheimer, [letter to his brother Frank:](https://www.goodreads.com/book/show/1603705.Robert_Oppenheimer){% endcapture %}
-{% capture qu %}Nabeel Qu, [How To Understand Things](https://nabeelqu.substack.com/p/understanding){% endcapture %}
-{% capture russell %}Bertrand Russell, [The Conquest of Happiness](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
+{% capture qu %}Nabeel Qu, [How To Understand Things:](https://nabeelqu.substack.com/p/understanding){% endcapture %}
+{% capture rubin %}Rick Rubin, [The Creative Act:](https://www.goodreads.com/book/show/60965426-the-creative-act){% endcapture %}
+{% capture russell %}Bertrand Russell, [The Conquest of Happiness:](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
-{% capture wang %}Dan Wang, [2017 letter](https://danwang.co/2017-letter/){% endcapture %}
+{% capture wang %}Dan Wang, [2017 letter:](https://danwang.co/2017-letter/){% endcapture %}
 {% capture weil %}Simone Weil, [Reflections on the Right Use of School Studies with a View to the Love of God:](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf){% endcapture %}
 {% capture weinberg %}Steven Weinberg, [Four golden lessons:](https://www.nature.com/articles/426389a){% endcapture %}
 {% capture wolfson %}Brie Wolfson, [Notes on "Taste":](https://www.are.na/blog/notes-on-taste){% endcapture %}
@@ -124,7 +104,7 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 
 {{ weil }}
 
-> Will power, the kind that, if need be, makes us set our teeth and endure suffering, is the principal weapon of the apprentice engaged in manual work. But, contrary to the usual belief, it has practically no place in study. The intelli gence can only be led by desire. For there to be desire, there must be pleasure and joy in the work. The intelligence only grows and bears fruit in joy. The joy of learning is as indis pensable in study as breathing is in running. Where it is lacking there are no real students, but only poor caricatures of apprentices who, at the end of their apprenticeship, will not even have a trade.
+> Will power, the kind that, if need be, makes us set our teeth and endure suffering, is the principal weapon of the apprentice engaged in manual work. But, contrary to the usual belief, it has practically no place in study. The intelligence can only be led by desire. For there to be desire, there must be pleasure and joy in the work. The intelligence only grows and bears fruit in joy. The joy of learning is as indispensable in study as breathing is in running. Where it is lacking there are no real students, but only poor caricatures of apprentices who, at the end of their apprenticeship, will not even have a trade.
 
 {{ hambling }}
 
@@ -141,8 +121,6 @@ By the way, the counterexample to "everybody is saying the same thing" is [Agnes
 > My observation is that most people expect learning to decelerate. It’s not uncommon to see this attitude among fresh college grads: “I’m done with school and it’s time to join the workforce so that it’s time to implement all the stuff I’ve learned.” They tend to tie learning together with being forced to read books and attend lectures, and since they no longer need to do these things, therefore they don’t have to keep learning. The result is that they more or less lose interest in improvement.
 
 > Countries generally can’t maintain high growth rates, but that doesn’t equally have to affect individuals. I’d like for people to think in different terms. The world is big enough, and any individual is small enough, that we can accelerate learning over time. And I submit that positive belief that this claim is true would make it so.
-
-Now a few quotes about research.
 
 {{ nielsen_quick}}
 
@@ -195,7 +173,7 @@ energy by also going slow on the ice.
 
 > All things are full of labour.
 
-Yeah, I know this just sounds like "be better." Sorry. But this is a big section, it really is what people say.
+Yeah, I know this just sounds like "be better." Sorry. But this is a big section. It really is what people say.
 
 {{ chambliss }}
 
@@ -337,9 +315,7 @@ Einstein worked on relativity for eight years. Imagine the patience! I'd get con
 
 {{ collison }}
 
-> To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!
-
-And,
+> To the extent that you enjoy working hard, do. Subject to that constraint, it's not clear that the returns to effort ever diminish substantially. If you're lucky enough to enjoy it a lot, be grateful and take full advantage!...
 
 > Find vivid examples of success in the domains you care about. If you want to become a great scientist, try to find ways to spend time with good (or, ideally, great) scientists in person. Watch YouTube videos of interviews. Follow some on Twitter.
 
@@ -403,6 +379,12 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 
 > The usual way to avoid being taken by surprise by something is to be consciously aware of it. Back when life was more precarious, people used to be aware of death to a degree that would now seem a bit morbid. I'm not sure why, but it doesn't seem the right answer to be constantly reminding oneself of the grim reaper hovering at everyone's shoulder. Perhaps a better solution is to look at the problem from the other end. Cultivate a habit of impatience about the things you most want to do. Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait.
 
+{{ rubin }}
+
+> The only art the world gets to enjoy is from creators who’ve overcome these hurdles and released their work. Perhaps still greater artists existed than the ones we know, but they were never able to make this leap.
+
+> Releasing a work into the world becomes easier when we remember that each piece can never be a total reflection of us, only a reflection of who we are in this moment.
+
 {{ zhang }}
 
 > OR EVEN GOOD OR EVEN OKAY
@@ -417,7 +399,7 @@ For example, [Timothy Gowers solving a math problem in real time](https://www.yo
 
 > TAKE SHORTCUTS. TURN IN SHITTY WORK. CONTINUE.
 
-Also, an aphorism I learned from college debate---"if you're writing, you're losing."
+Finally, an aphorism I learned from college debate---"if you're writing, you're losing."
 
 ## But also work less hard and slow down
 
@@ -475,6 +457,6 @@ Also, an aphorism I learned from college debate---"if you're writing, you're los
 
 从容&#x3002;
 
-## A final reminder
+## A final message
 
-That [EVERYTHING'S A SCAM](https://www.youtube.com/watch?v=3sCbuOO7YqY).
+[EVERYTHING'S A SCAM](https://www.youtube.com/watch?v=3sCbuOO7YqY).
