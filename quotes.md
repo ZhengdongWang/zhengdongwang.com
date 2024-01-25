@@ -56,3 +56,7 @@ Beauty---not truth---is the only requirement to be here.
 > "This is no very striking resemblance of your own character, I am sure," said he. "How near it may be to _mine_, I cannot pretend to say. _You_ think it a faithful portrait, undoubtedly."
 
 > "I must not decide on my own performance."
+
+[Andrew John Wiles, Modular elliptic curves and Fermat’s Last Theorem](http://www.scienzamedia.uniroma2.it/~eal/Wiles-Fermat.pdf)
+
+> **Abstract.** When Andrew John Wiles was 10 years old, he read Eric Temple Bell’s *The Last Problem* and was so impressed by it that he decided that he would be the first person to prove Fermat’s Last Theorem. This theorem states that there are no nonzero integers *a*, *b*, *c*, *n* with *n* > 2 such that *a<sup>n</sup>* + *b<sup>n</sup>* = *c<sup>n</sup>*. The object of this paper is to prove that all semistable elliptic curves over the set of rational numbers are modular. Fermat’s Last Theorem follows as a corollary by virtue of previous work by Frey, Serre and Ribet.
