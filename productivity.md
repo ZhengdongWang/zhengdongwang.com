@@ -55,6 +55,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture littlewood %}John Edensor Littlewood, [A Mathematician's Miscellany:](https://www.goodreads.com/book/show/1893697.Littlewood_s_Miscellany){% endcapture %}
 {% capture luu_95 %}Dan Luu, [95%-ile isn't that good:](https://danluu.com/p95-skill){% endcapture %}
 {% capture luu_productivity %}Fabian Giesen, via Dan Luu, [Some reasons to work on productivity and velocity:](https://danluu.com/productivity-velocity){% endcapture %}
+{% capture mastroianni %}Adam Mastroianni, [So you wanna de-bog yourself:](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself){% endcapture %}
 {% capture mckenzie %}Patrick McKenzie, [What Working at Stripe Has Been Like:](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe){% endcapture %}
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen_principles %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
@@ -121,6 +122,14 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 > My observation is that most people expect learning to decelerate. It’s not uncommon to see this attitude among fresh college grads: “I’m done with school and it’s time to join the workforce so that it’s time to implement all the stuff I’ve learned.” They tend to tie learning together with being forced to read books and attend lectures, and since they no longer need to do these things, therefore they don’t have to keep learning. The result is that they more or less lose interest in improvement.
 
 > Countries generally can’t maintain high growth rates, but that doesn’t equally have to affect individuals. I’d like for people to think in different terms. The world is big enough, and any individual is small enough, that we can accelerate learning over time. And I submit that positive belief that this claim is true would make it so.
+
+{{ mastroianni }}
+
+> People will sometimes approach me with projects I don't really want to do. But if I do them, those people will smile and shake my hand and go, “We feel positive emotions, and it's because of you!” and that will feel good. So I often end up signing on to these projects, feeling resentful the whole time, cursing myself for choosing—freely!—to work hard on things I don't care about.
+
+> This is gutterballing: excelling, but in slightly the wrong direction. For most of its journey, after all, the gutterball is getting closer to the pins. It's only at the end that it barely, but dramatically, misses.
+
+> Gutterballing is a guaranteed way to stay stuck in the bog because people will love you for it. “You're doing the right thing!” they'll shout as you sink into the swamp. “We approve of this!”
 
 {{ nielsen_quick}}
 
@@ -320,6 +329,16 @@ Einstein worked on relativity for eight years. Imagine the patience! I'd get con
 > Find vivid examples of success in the domains you care about. If you want to become a great scientist, try to find ways to spend time with good (or, ideally, great) scientists in person. Watch YouTube videos of interviews. Follow some on Twitter.
 
 For example, [Timothy Gowers solving a math problem in real time](https://www.youtube.com/watch?v=NmEVwJ_lJ1A).
+
+But you must watch out for the try harder fallacy.
+
+{{ mastroianni }}
+
+> I played a lot of Call of Duty in high school, and I used to roll with a gang of bad boys who would battle other gangs online.
+
+> We weren't very good. Whenever we lost the first round, which was almost always, we would regroup in the pregame lobby—basically the online locker room—and decide what we really need to do in the next round is “try harder.” As if the reason we had all just been shot in the head 25 times in a row was that we were not sufficiently dedicated to avoiding getting shot in the head. Armed with the most dimwit plan of all time, we would march into battle once more and lose just as badly. As our virtual corpses piled up, we'd yell at each other, “Guys, stop dying!”
+
+> This is the try harder fallacy. I behold my situation and conclude that, somehow, I will improve it in the future by just sort of wishing it to be different, and then I get indignant that nothing happens. Like, “Um, excuse me! I've been doing all of this very diligent desiring for things to be different, and yet they remain the same, could someone please look into this?”
 
 ## Fast fast fast cut cut cut
 
