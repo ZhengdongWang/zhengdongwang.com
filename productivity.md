@@ -65,6 +65,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture rubin %}Rick Rubin, [The Creative Act:](https://www.goodreads.com/book/show/60965426-the-creative-act){% endcapture %}
 {% capture russell %}Bertrand Russell, [The Conquest of Happiness:](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
+{% capture trollope %}Anthony Trollope, [Autobiography:](http://www.literaturepage.com/read/trollope-autobiography-79.html){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
 {% capture wang %}Dan Wang, [2017 letter:](https://danwang.co/2017-letter/){% endcapture %}
@@ -321,6 +322,10 @@ Einstein worked on relativity for eight years. Imagine the patience! I'd get con
 {{ oppenheimer }}
 
 > You put a hard question on the virtue of discipline. What you say is true: I do value it—and I think that you do too—more than for its earthly fruit, proficiency. I think that one can give only a metaphysical ground for this evaluation; but the variety of metaphysics which gave an answer to your question has been very great, the metaphysics themselves very disparate: the bhagavad gita, Ecclesiastes, the Stoa, the beginning of the Laws, Hugo of St Victor, St Thomas, John of the Cross, Spinoza. This very great disparity suggests that the fact that discipline is good for the soul is more fundamental than any of the grounds given for its goodness. I believe that through discipline, though not through discipline alone, we can achieve serenity, and a certain small but precious measure of freedom from the accidents of incarnation, and charity, and that detachment which preserves the world which it renounces. I believe that through discipline we can learn to preserve what is essential to our happiness in more and more adverse circumstances, and to abandon with simplicity what would else have seemed to us indispensable; that we come a little to see the world without the gross distortion of personal desire, and in seeing it so, accept more easily our earthly privation and its earthly horror—But because I believe that the reward of discipline is greater than its immediate objective, I would not have you think that discipline without objective is possible: in its nature discipline involves the subjection of the soul to some perhaps minor end; and that end must be real, if the discipline is not to be factitious. Therefore I think that all things which evoke discipline: study, and our duties to men and to the commonwealth, war, and personal hardship, and even the need for subsistence, ought to be greeted by us with profound gratitude, for only through them can we attain to the least detachment; and only so can we know peace.
+
+{{ trollope }}
+
+> But as I had made up my mind to undertake this second profession, I found it to be expedient to bind myself by certain self-imposed laws. When I have commenced a new book, I have always prepared a diary, divided into weeks, and carried it on for the period which I have allowed myself for the completion of the work. In this I have entered, day by day, the number of pages I have written, so that if at any time I have slipped into idleness for a day or two, the record of that idleness has been there, staring me in the face, and demanding of me increased labour, so that the deficiency might be supplied.
 
 {{ collison }}
 

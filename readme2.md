@@ -56,3 +56,5 @@ My favorite games are [Twilight Struggle](https://boardgamegeek.com/boardgame/12
 * [Lucas Pope](https://dukope.com) for [Papers, Please](https://papersplea.se) and [Return of the Obra Dinn](https://obradinn.com).
 
 The summer before college I switched to using [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout). My keyboard when I'm not on a laptop is the [Leopold FC750R PD](https://www.leopold.co.kr/Shop/Item.php?ItId=1550022044), yes, that color, with brown switches. If it's [good enough for The Machine](https://liquipedia.net/starcraft2/Pro_gear), it's good enough for me.
+
+I subscribe to the [friendship theory of everything](https://www.avabear.xyz/p/the-friendship-theory-of-everything).
