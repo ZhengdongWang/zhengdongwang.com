@@ -8,7 +8,7 @@ Instead of attempting the daunting task of writing about myself (I am perenniall
 
 ## Research disposition
 
-My views on artifical intelligence are pretty fluid. The best snapshot of what I think at the time is in my annual reflection: [2022](https://zhengdongwang.com/2022/12/28/2022-letter.html).
+My views on artifical intelligence are pretty fluid. The best snapshot of what I think at the time is in my annual reflection: [2023](https://zhengdongwang.com/2024/01/01/2023-letter.html), [2022](https://zhengdongwang.com/2022/12/28/2022-letter.html).
 
 But everyone curious about research should see (in order of increasing commitment to consume):
 
