@@ -3,7 +3,7 @@ title: Bluebooking for happiness
 image: aosta
 ---
 
-*Note: I last made a significant update to this in 2021, the year I graduated. Some facts about Yale course selection has changed, but I still stand by my general point.*
+*Note: I last made a significant update to this in 2021, the year I graduated. Some facts about Yale course selection have changed, but I still stand by my general point.*
 
 Every semester Yale begins with shopping period. You can go to any class, and at the end of two weeks, turn in your final schedule. It's different from other shopping-period-like systems where you sign up for more classes than you intend to take and then drop them. I usually have no idea what I'll actually end up taking when the semester begins.
 
