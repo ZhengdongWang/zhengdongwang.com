@@ -16,6 +16,7 @@ But everyone curious about research should see (in order of increasing commitmen
 * [The Rage of Research](https://ldeming.posthaven.com/the-rage-of-research), Laura Deming
 * [Research as Understanding](https://kanjun.me/writing/research-as-understanding), Kanjun Qiu
 * [On Slow Research](http://davidpfau.com/slow_research.html), David Pfau
+* [Space Exploration: Real Reasons and Acceptable Reasons](https://spaceref.com/status-report/speech-by-nasa-administrator-michael-griffin-space-exploration-real-reasons-and-acceptable-reasons/), Michael Griffin
 * [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/), SLIME MOLD TIME MOLD
 * [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=5aAMJNVmdoY), Nima Arkani-Hamed
 * [When We Cease to Understand the World](https://www.goodreads.com/book/show/53972214-when-we-cease-to-understand-the-world), Benjam&iacute;n Labatut
