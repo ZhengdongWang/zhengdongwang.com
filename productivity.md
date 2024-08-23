@@ -65,6 +65,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture rubin %}Rick Rubin, [The Creative Act:](https://www.goodreads.com/book/show/60965426-the-creative-act){% endcapture %}
 {% capture russell %}Bertrand Russell, [The Conquest of Happiness:](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
+{% capture tivy %}Wolf Tivy, [Quit Your Job:](https://www.palladiummag.com/2022/01/06/quit-your-job/){% endcapture %}
 {% capture trollope %}Anthony Trollope, [Autobiography:](http://www.literaturepage.com/read/trollope-autobiography-79.html){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
 {% capture wallace %}David Foster Wallace, [The String Theory:](https://www.esquire.com/sports/a5151/the-string-theory-david-foster-wallace){% endcapture %}
@@ -169,6 +170,12 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 > So I'm going to pull a sneaky trick on you. Do you want to do great work, or not? Now you have to decide consciously. Sorry about that. I wouldn't have done it to a general audience. But we already know you're interested.
 
 > Don't worry about being presumptuous. You don't have to tell anyone. And if it's too hard and you fail, so what? Lots of people have worse problems than that. In fact you'll be lucky if it's the worst problem you have.
+
+{{ tivy }}
+
+> There are investments you can’t make from a structured, nine-to-five, narrowly teleological environment. You have to let your life go fallow sometimes, like a crop rotation giving the land time to bring forth new fertility. This is actually a consequence of a fairly general theorem about how to find treasure in complex search spaces: The best search strategies for complex problems like life generally don’t seek out particular homogeneous objectives, but interesting novelty. The search space is too complicated and unknown for linear objective-chasing to work. Biological evolution, in practice, works through a diversity of niches which it explores in parallel to find unpredictable advances.
+
+> The key implication is that while you have not yet found the unique opportunity that will be the engine and purpose of your empire, you have to adjust your sense of value. Value is very legible within a clear plan to reach a clear objective. But you cannot pursue interesting novelty—things that no one else is doing or which you have never seen before, or the little threads of nagging curiosity or doubt—by chasing along known direct value gradients. But that’s where the treasure is. That’s how you will find the place where you need to build. To get the biggest and most interesting payoffs, you have to start by chasing merely interesting novelty in an open-ended way.
 
 In some sense, the following is also about direction, from world and Olympic speed skating record holder, and world and Olympic speed skating champion,
 
