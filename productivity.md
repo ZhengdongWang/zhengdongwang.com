@@ -35,6 +35,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture bronson %}Po Bronson, [How Not to Talk to Your Kids:](https://nymag.com/news/features/27840){% endcapture %}
 {% capture burkeman %}Oliver Burkeman, [The three-or-four-hours rule for getting creative work done:](https://www.oliverburkeman.com/fourhours){% endcapture %}
 {% capture chambliss %}Daniel Chambliss, [The Mundanity of Excellence:](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers){% endcapture %}
+{% capture chang %}Eileen Chang, [Written on Water:](https://www.nyrb.com/products/written-on-water){% endcapture %}
 {% capture collison %}Patrick Collison, [Advice if you're 10-20:](https://patrickcollison.com/advice){% endcapture %}
 {% capture cowen_practice %}Tyler Cowen, [How I practice at what I do:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
 {% capture cowen_publishing %}Tyler Cowen, [Simple advice for academic publishing:](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html){% endcapture %}
@@ -353,6 +354,10 @@ But you must watch out for the try harder fallacy.
 > This is the try harder fallacy. I behold my situation and conclude that, somehow, I will improve it in the future by just sort of wishing it to be different, and then I get indignant that nothing happens. Like, “Um, excuse me! I've been doing all of this very diligent desiring for things to be different, and yet they remain the same, could someone please look into this?”
 
 ## Fast fast fast cut cut cut
+
+{{ chang }}
+
+> I sketched with the knowledge that I would very soon lose the ability to do so. And from this I derived a lesson, an old lesson. If there is something you want to do, do it right away; even then, you might be too late. Man is the most changeable of creatures.
 
 {{ kuhn }}
 
