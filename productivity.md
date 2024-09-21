@@ -66,6 +66,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture rubin %}Rick Rubin, [The Creative Act:](https://www.goodreads.com/book/show/60965426-the-creative-act){% endcapture %}
 {% capture russell %}Bertrand Russell, [The Conquest of Happiness:](https://www.goodreads.com/work/quotes/1167362){% endcapture %}
 {% capture sivers %}Derek Sivers, [Relax for the same result:](https://sive.rs/relax){% endcapture %}
+{% capture swartz %}Aaron Swartz, [How to Get a Job Like Mine:](https://web.archive.org/web/20130112202626/https://aaronsw.jottit.com/howtoget){% endcapture %}
 {% capture tivy %}Wolf Tivy, [Quit Your Job:](https://www.palladiummag.com/2022/01/06/quit-your-job/){% endcapture %}
 {% capture trollope %}Anthony Trollope, [Autobiography:](http://www.literaturepage.com/read/trollope-autobiography-79.html){% endcapture %}
 {% capture van_der_poel %}Nils van der Poel, [How to skate a 10k:](https://www.howtoskate.se/){% endcapture %}
@@ -125,6 +126,10 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 > My observation is that most people expect learning to decelerate. It’s not uncommon to see this attitude among fresh college grads: “I’m done with school and it’s time to join the workforce so that it’s time to implement all the stuff I’ve learned.” They tend to tie learning together with being forced to read books and attend lectures, and since they no longer need to do these things, therefore they don’t have to keep learning. The result is that they more or less lose interest in improvement.
 
 > Countries generally can’t maintain high growth rates, but that doesn’t equally have to affect individuals. I’d like for people to think in different terms. The world is big enough, and any individual is small enough, that we can accelerate learning over time. And I submit that positive belief that this claim is true would make it so.
+
+{{ swartz }}
+
+> Be curious. Read widely. Try new things. I think a lot of what people call intelligence just boils down to curiosity.
 
 {{ mastroianni }}
 
