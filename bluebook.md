@@ -19,10 +19,6 @@ Friend:
 
 > \*eye roll\* Oh my god Zhengdong.
 
-Friend:
-
-> Nice.
-
 First-year I FroCo'ed:
 
 > You know the longer I'm at Yale the more I realize you're right about everything.
