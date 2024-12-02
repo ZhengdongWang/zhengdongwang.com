@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![profile](/assets/images/kew.jpg)
+![profile](/assets/images/kew_small.jpg)
 
 # Zhengdong Wang
 
