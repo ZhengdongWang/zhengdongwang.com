@@ -1,7 +1,10 @@
 ---
 title: The best facts I heard this year
 date: 2024-12-27 21:26:07
+image: https://zhengdongwang.com/assets/images/2024-facts/sainsbury.jpg
 ---
+
+![sainsbury](/assets/images/2024-facts/sainsbury.jpg)
 
 I love reading other people's annual fact lists, so I decided to shamelessly steal the idea. These are the best facts I heard this year, the best on the day that I heard it (though it might not have been a recently created fact). So yes, there were some really competitive days where some other really good facts lost and so are lost to me, as well as long stretches where no fact passed muster.
 
