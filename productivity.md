@@ -45,6 +45,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
+{% capture glass_technique %}Philip Glass, [interviewed by Ira Glass:](https://www.npr.org/2012/01/31/146092923/ira-glass-interviews-his-cousin-composer-philip-glass){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham_life %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture graham_work %}Paul Graham, [How to Do Great Work:](http://paulgraham.com/greatwork.html){% endcapture %}
@@ -258,7 +259,11 @@ And,
 
 > Importantly, this is a ‘software’ trait & is independent of more ‘hardware’ traits such as processing speed, working memory, and other such things.
 
-> Moreover, I have noticed that these ‘hardware’ traits vary greatly in the smartest people I know -- some are remarkably quick thinkers, calculators, readers, whereas others are ‘slow’. The software traits, though, they all have in common -- and can, with effort, be learned. 
+> Moreover, I have noticed that these ‘hardware’ traits vary greatly in the smartest people I know -- some are remarkably quick thinkers, calculators, readers, whereas others are ‘slow’. The software traits, though, they all have in common -- and can, with effort, be learned.
+
+{{ glass_technique }}
+
+> In order to arrive at a personal style, you have to have a technique to begin with. In other words, when I say that style is a special case of technique, you have to have the technique---you have to have a place to make the choices from. If you don't have a basis on which to make the choice, then you don't have a style at all. You have a series of accidents.
 
 {{ nielsen_principles }}
 
