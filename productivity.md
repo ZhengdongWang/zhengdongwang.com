@@ -45,7 +45,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture einstein %}Albert Einstein, [is quoted as saying:](https://history.aip.org/exhibits/einstein/emc1.htm){% endcapture %}
 {% capture feynman %}Richard Feynman, [letter to his former graduate student Koichi Mano:](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track){% endcapture %}
 {% capture glass %}Ira Glass, [The Gap:](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish){% endcapture %}
-{% capture glass_technique %}Philip Glass, [interviewed by Ira Glass:](https://www.npr.org/2012/01/31/146092923/ira-glass-interviews-his-cousin-composer-philip-glass){% endcapture %}
+{% capture glass_philip %}Philip Glass, [interviewed by Ira Glass:](https://freshairarchive.org/segments/ira-glass-interviews-philip-glass){% endcapture %}
 {% capture gowers %}Timothy Gowers, [Mathematics, A Very Short Introduction:](https://www.goodreads.com/book/show/74645.Mathematics){% endcapture %}
 {% capture graham_life %}Paul Graham, [Life is Short:](http://paulgraham.com/vb.html){% endcapture %}
 {% capture graham_work %}Paul Graham, [How to Do Great Work:](http://paulgraham.com/greatwork.html){% endcapture %}
@@ -261,9 +261,19 @@ And,
 
 > Moreover, I have noticed that these ‘hardware’ traits vary greatly in the smartest people I know -- some are remarkably quick thinkers, calculators, readers, whereas others are ‘slow’. The software traits, though, they all have in common -- and can, with effort, be learned.
 
-{{ glass_technique }}
+{{ glass_philip }}
 
 > In order to arrive at a personal style, you have to have a technique to begin with. In other words, when I say that style is a special case of technique, you have to have the technique---you have to have a place to make the choices from. If you don't have a basis on which to make the choice, then you don't have a style at all. You have a series of accidents.
+
+And,
+
+> I did it with great difficulty and with relentless energy, and I don't -- I hardly know any one else to be frank who has done it the way I have.
+
+> It's extremely difficult to -- I do about 120 concerts a year...
+
+> It has nothing to do with business. Because in fact I could stop working right now. It has to do with understanding what the nature of music is.
+
+> It's only through the constant -- for me immersion in the process of creating and recreating music, that I begin to understand what music is really about. I'm really talking about what the essential nature of music is and I find that the experience of performing music in front of people, it is the essential experience for the composer. It's at that moment when the whole, let's say transaction of music, when we see it clearly what it is, that it's not a conceptual activity. It's not -- music doesn't exist in the library. It exists in the air. It exists in something we hear.
 
 {{ nielsen_principles }}
 
