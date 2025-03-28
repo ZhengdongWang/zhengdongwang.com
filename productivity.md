@@ -62,6 +62,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture murakami %}Haruki Murakami, [What I Talk About When I Talk About Running:](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){% endcapture %}
 {% capture nielsen_principles %}Michael Nielsen, [Principles of Effective Research:](https://michaelnielsen.org/blog/principles-of-effective-research){% endcapture %}
 {% capture nielsen_quick %}Michael Nielsen, [Quick thoughts on research:](https://michaelnotebook.com/qtr/index.html){% endcapture %}
+{% capture oliver %}Henry Oliver, [What's my thing:](https://www.commonreader.co.uk/p/stop-trying-to-be-happy){% endcapture %}
 {% capture oppenheimer %}Robert Oppenheimer, [letter to his brother Frank:](https://www.goodreads.com/book/show/1603705.Robert_Oppenheimer){% endcapture %}
 {% capture qu %}Nabeel Qu, [How To Understand Things:](https://nabeelqu.substack.com/p/understanding){% endcapture %}
 {% capture rubin %}Rick Rubin, [The Creative Act:](https://www.goodreads.com/book/show/60965426-the-creative-act){% endcapture %}
@@ -107,6 +108,10 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {{ glass }}
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this.
+
+{{ oliver }}
+
+> But the culture you are living in is against you on this. We all want to live our best lives, be our best selves, follow our passions, blah, blah, blah. What's best? Who says what's best? I think what's happening there is people are saying, am I living my best life as much as you are living your best life? And this is a very, very bad comparison.
 
 {{ weil }}
 
