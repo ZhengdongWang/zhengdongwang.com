@@ -52,6 +52,7 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {% capture hambling %}Maggie Hambling, [to Mason Currey:](https://masoncurrey.substack.com/p/maggi-hambling-brancusi-mental-state-making-art){% endcapture %}
 {% capture hamming %}Richard Hamming, [You and your research:](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){% endcapture %}
 {% capture kuhn %}Ben Kuhn, [Be impatient:](https://www.benkuhn.net/impatient){% endcapture %}
+{% capture kuhn_impact %}Ben Kuhn, [Impact, agency, and taste:](https://www.benkuhn.net/impact/){% endcapture %}
 {% capture lee %}Bruce Lee, [is quoted as saying:](https://twitter.com/brucelee/status/1361867949896704006){% endcapture %}
 {% capture li %}Shengwu Li, [preface to his problem sets:](https://twitter.com/shengwuli/status/1614637276113563648){% endcapture %}
 {% capture littlewood %}John Edensor Littlewood, [A Mathematician's Miscellany:](https://www.goodreads.com/book/show/1893697.Littlewood_s_Miscellany){% endcapture %}
@@ -112,6 +113,16 @@ At least, it looks that way from the quotes I picked, which I organized into sec
 {{ oliver }}
 
 > But the culture you are living in is against you on this. We all want to live our best lives, be our best selves, follow our passions, blah, blah, blah. What's best? Who says what's best? I think what's happening there is people are saying, am I living my best life as much as you are living your best life? And this is a very, very bad comparison.
+
+{{ kuhn_impact }}
+
+> I think of finding high-leverage work as having two interrelated components:
+
+> * Agency: i.e. some combination of the initiative/proactiveness to try to make things happen, and relentlessness and resourcefulness to make sure you’ll succeed.
+
+> * Taste: you need a good intuition for what things will and won’t work well to try. Taste is important both “in the large” (picking important problems) and “in the small” (picking approaches to solving those problems that will work well); I usually see people first become great at the latter, then the former.
+
+> Without taste, you’re likely to work toward the wrong thing. Without agency, even if you work toward the right thing, you’re likely to get nowhere.
 
 {{ weil }}
 
