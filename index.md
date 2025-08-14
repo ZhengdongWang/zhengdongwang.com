@@ -8,6 +8,7 @@ title: Home
 
 <h6>
   <a href='mailto:zhengdong.wang@gmail.com'>mail</a> |
+  <a href='https://x.com/zhengdongwang'>twitter</a> |
   <a href='#' onclick='toggle_sans();return false;'>serifs</a> |
   <a href='#' onclick='toggle_dark();return false;'>lights</a>
 </h6>
